@@ -1,0 +1,86 @@
+site_name: LUMINA Standard
+site_url: https://lumina.sabercraft.org/
+site_description: A lightsaber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.
+site_author: Lumina Federation LLC
+
+repo_name: LuminaFederation/lumina-standard
+repo_url: https://github.com/LuminaFederation/lumina-standard
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  logo: assets/images/lumina-logo-placeholder.svg
+  favicon: assets/images/favicon-placeholder.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.action.view
+    - toc.follow
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://sabercraft.org/
+      name: SaberCraft
+
+copyright: Copyright &copy; Lumina Federation LLC. SaberCraft is the founding school/community of LUMINA.
+
+nav:
+  - Home: index.md
+  - Start Here: start-here.md
+  - The Standard: standard.md
+  - Notation:
+      - Overview: notation/index.md
+      - Targets: notation/targets.md
+      - Attacks: notation/attacks.md
+      - Parries: notation/parries.md
+      - Legend: notation/legend.md
+      - Examples: notation/examples.md
+  - Core Movements:
+      - Overview: core/index.md
+      - CM-A: core/cm-a.md
+  - Games:
+      - Overview: games/index.md
+      - Rules: games/rules.md
+      - Scoring: games/scoring.md
+      - Power Plays: games/power-plays.md
+  - Glossary: glossary.md
+  - Downloads: downloads.md
+  - Licensing: licensing.md
+  - Contribute: contribute.md
+  - Learn with SaberCraft: learn.md
