@@ -62,7 +62,7 @@ copyright: Copyright &copy; Lumina Federation LLC. SaberCraft is the founding sc
 
 nav:
   - Home: index.md
-  - Start Here: start-here.md
+  - Start Here / Beginner Path: start-here.md
   - The Standard: standard.md
   - Notation:
       - Overview: notation/index.md
@@ -72,8 +72,9 @@ nav:
       - Legend: notation/legend.md
       - Examples: notation/examples.md
   - Core Movements:
-      - Overview: core/index.md
-      - CM-A: core/cm-a.md
+      - Movement Library: core/index.md
+      - Core Library:
+          - CM-A: core/cm-a.md
   - Games:
       - Overview: games/index.md
       - Rules: games/rules.md
