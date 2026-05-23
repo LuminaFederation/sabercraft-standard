@@ -10,7 +10,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: en
-  logo: assets/images/lumina-sabercraft-mark.svg
+  logo: https://sabercraft.org/wp-content/uploads/2019/02/Sabercraft-website-header-2-e1549560192221.png.webp
   favicon: assets/images/lumina-favicon.svg
   features:
     - navigation.tabs
