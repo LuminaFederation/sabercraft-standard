@@ -20,7 +20,7 @@ The beginner target set uses six lines:
 | `5` | Low line | Trains a lower diagonal or low-line response |
 | `7` | Opposite low line | Trains the opposite low-line response |
 
-These six targets are enough to read and practice **CM-A**, the first core movement.
+These six targets are enough to read and practice **CM-A**, the first core movement. The full twelve-line notation reference is available in the [Notation Legend](legend.md).
 
 ## How to read a target
 
@@ -56,10 +56,7 @@ The important questions are:
 
 CM-A uses all six beginner targets in sequence.
 
-| Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
-|---|---:|---:|---:|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 | 9 | 5 | 7 |
-| Lumen B | 1P | 11P | 3P | 9P | 5P | 7P |
+For the full six-step table, use the [CM-A reference page](../core/cm-a.md). This page only introduces the target concept so new readers are not asked to learn the whole sequence in multiple places.
 
 This teaches the basic pattern:
 
