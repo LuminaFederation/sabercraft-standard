@@ -9,7 +9,7 @@ hide:
 
 # LUMINA Standard
 
-<p class="lumina-hero__subtitle">A lightsaber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.</p>
+<p class="lumina-hero__subtitle">A saber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.</p>
 
 <div class="lumina-actions" markdown>
 [Start Here](start-here.md){ .lumina-button .lumina-button--primary }
