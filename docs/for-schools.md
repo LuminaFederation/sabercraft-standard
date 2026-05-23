@@ -22,6 +22,16 @@ Instead, LUMINA gives your group a way to:
 - collaborate across schools and communities
 - reduce dependence on memory and video alone
 
+## Why this is a standard, not just notation
+
+A notation system helps people write movement down.
+
+A standard gives people a public reference they can use, question, review, and build from over time.
+
+That distinction matters for schools. If a movement language is hard to access, unavailable, or dependent on one person’s memory, different groups eventually create their own house rules. LUMINA is designed to avoid that by making the reference public, maintained, and reviewable.
+
+Read more: [Standard vs. Notation System](standard-vs-notation-system.md)
+
 ## What LUMINA actually standardizes
 
 LUMINA standardizes the language of choreography.
@@ -31,6 +41,9 @@ This includes:
 - target zones
 - attack notation
 - parry notation
+- body movement
+- defensive movement
+- flourishes
 - timing structure
 - table formatting
 - movement terminology
@@ -127,6 +140,7 @@ The long-term goal is to help choreography communities preserve and exchange mov
 
 ## Learn more
 
+- Understand the difference: [Standard vs. Notation System](standard-vs-notation-system.md)
 - Start with the [Notation Overview](notation/index.md)
 - Review the [Targets](notation/targets.md)
 - Explore the [Core Movement Library](core/index.md)
