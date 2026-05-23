@@ -27,6 +27,12 @@ Developed and maintained by **Lumina Federation LLC**. Originated through the **
 
 New to LUMINA? Begin with the [Start Here](start-here.md) guide.
 
+## More than notation
+
+LUMINA is not just a way to write attacks. It is a public, maintained choreography standard for documenting full saber movement: attacks, parries, body movement, transitions, flourishes, timing, and performance actions.
+
+[Learn what makes a standard different](standard-vs-notation-system.md){ .lumina-button .lumina-button--secondary }
+
 ## For schools and instructors
 
 LUMINA is designed as a shared choreography language.
@@ -35,6 +41,7 @@ Schools and performance groups can adopt the notation standard without replacing
 
 - Read the proposal: [For Schools and Instructors](for-schools.md)
 - Learn why notation matters: [Why Use Notation Instead of Video Alone?](why-notation-matters.md)
+- Understand the difference: [Standard vs. Notation System](standard-vs-notation-system.md)
 
 ## What LUMINA includes
 
