@@ -75,6 +75,7 @@ nav:
       - Learn with SaberCraft: learn.md
   - The Standard:
       - Overview: standard.md
+      - Standard vs. Notation System: standard-vs-notation-system.md
       - Governance: versioning-and-governance.md
       - Licensing: licensing.md
       - Glossary: glossary.md
