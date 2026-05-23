@@ -1,6 +1,22 @@
+---
+title: LUMINA Standard
+hide:
+  - navigation
+---
+
+<div class="lumina-hero" markdown>
+<p class="lumina-hero__eyebrow">Born from SaberCraft • Built for every school</p>
+
 # LUMINA Standard
 
-**LUMINA is a lightsaber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.**
+<p class="lumina-hero__subtitle">A lightsaber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.</p>
+
+<div class="lumina-actions" markdown>
+[Start Here](start-here.md){ .lumina-button .lumina-button--primary }
+[Explore Notation](notation/index.md){ .lumina-button .lumina-button--secondary }
+[Learn with SaberCraft](learn.md){ .lumina-button .lumina-button--secondary }
+</div>
+</div>
 
 Developed and maintained by **Lumina Federation LLC**. Originated through the **SaberCraft** community.
 
