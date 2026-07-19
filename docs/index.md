@@ -1,155 +1,62 @@
-# SaberCraft Notation
+---
+title: SaberCraft Standard
+hide:
+  - navigation
+---
 
-SaberCraft Notation is the written movement language of the SaberCraft Standard.
+<div class="lumina-hero" markdown>
+<p class="lumina-hero__eyebrow">Built for every school</p>
 
-It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
+# SaberCraft Standard
 
-!!! note "Plain-English version"
-    SaberCraft Notation is a choreography map. It tells each Saberist what to do at each step of a sequence.
+<p class="lumina-hero__subtitle">A saber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.</p>
 
-## What to learn first
+<div class="lumina-actions" markdown>
+[Start Here](start-here.md){ .lumina-button .lumina-button--primary }
+[Explore Notation](notation/index.md){ .lumina-button .lumina-button--secondary }
+[Learn with SaberCraft](learn.md){ .lumina-button .lumina-button--secondary }
+</div>
+</div>
 
-Do not start by memorizing the full notation legend.
+Developed and maintained by **Lumina Federation LLC**. Originated through the **SaberCraft** community.
 
-Start with the beginner core:
+!!! note "Project status"
+    This site is being built as the official public home for the SaberCraft Standard. Content is currently in foundation/rewrite mode.
 
-1. six beginner target lines
-2. basic attacks
-3. matching parries
-4. the two-Saberist table format
-5. CM-A, the first core movement
+## Start here
 
-That is enough to read and practice your first the SaberCraft Standard sequence.
+New to the SaberCraft Standard? Begin with the [Start Here](start-here.md) guide.
 
-The full notation reference is available later in the [Notation Legend](legend.md).
+## More than notation
 
-## The beginner target set
+The SaberCraft Standard is not just a way to write attacks. It is a public, maintained choreography standard for documenting full saber movement: attacks, parries, body movement, transitions, flourishes, timing, and performance actions.
 
-The beginner path uses six target lines:
+[Learn what makes a standard different](standard-vs-notation-system.md){ .lumina-button .lumina-button--secondary }
 
-| Target | Beginner description |
-|---:|---|
-| `1` | High / upper center line |
-| `11` | High opposite line |
-| `3` | Side line |
-| `9` | Opposite side line |
-| `5` | Low line |
-| `7` | Opposite low line |
+## For schools and instructors
 
-These six lines are used in CM-A and give new Saberists a simple starting vocabulary.
+The SaberCraft Standard is designed as a shared choreography language.
 
-For more detail, see [Targets](targets.md).
+Schools and performance groups can adopt the notation standard without replacing their own choreography libraries, teaching culture, or curriculum structure.
 
-## Attacks and parries
+- Read the proposal: [For Schools and Instructors](for-schools.md)
+- Learn why notation matters: [Why Use Notation Instead of Video Alone?](why-notation-matters.md)
+- Understand the difference: [Standard vs. Notation System](standard-vs-notation-system.md)
 
-The simplest the SaberCraft Standard notation uses numbers and the letter `P`.
+## What the ecosystem includes
 
-| Symbol type | Meaning |
+| Part | Purpose |
 |---|---|
-| Number | Attack toward that target line |
-| Number + `P` | Parry against that target line |
+| SaberCraft Standard | The overall public choreography framework |
+| SaberCraft Notation | The written movement language |
+| SaberCraft Core | Official baseline Choreographed Movements |
+| LUMINA Games | Optional game/scoring format |
+| Glossary | Controlled vocabulary for consistent teaching and documentation |
 
-Examples:
+## Relationship to SaberCraft
 
-| Attack | Matching parry |
-|---|---|
-| `1` | `1P` |
-| `11` | `11P` |
-| `3` | `3P` |
-| `9` | `9P` |
-| `5` | `5P` |
-| `7` | `7P` |
+SaberCraft is the founding school and original community where the SaberCraft Standard was developed. SaberCraft remains the home for classes, community, events, and training culture.
 
-This creates the first call-and-response pattern:
+SaberCraft's CM library represents one implementation of the SaberCraft Standard, but the notation system is designed to support choreography from other schools and communities as well.
 
-> attack line → matching parry
-
-For more detail, see [Attacks](attacks.md) and [Parries](parries.md).
-
-## The two-Saberist table
-
-Most beginner the SaberCraft Standard sequences are written as a two-row table.
-
-One row belongs to each Saberist. Each column is one step in the choreography.
-
-| Player | Step 1 | Step 2 | Step 3 |
-|---|---:|---:|---:|
-| Saberist A | 1 | 11 | 3 |
-| Saberist B | 1P | 11P | 3P |
-
-Read the table vertically, one column at a time.
-
-- Step 1: Saberist A attacks `1`; Saberist B parries `1P`.
-- Step 2: Saberist A attacks `11`; Saberist B parries `11P`.
-- Step 3: Saberist A attacks `3`; Saberist B parries `3P`.
-
-The table keeps both performers connected to the same timing.
-
-## First complete example: CM-A
-
-CM-A is the first official core movement sequence.
-
-| Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
-|---|---:|---:|---:|---:|---:|---:|
-| Saberist A | 1 | 11 | 3 | 9 | 5 | 7 |
-| Saberist B | 1P | 11P | 3P | 9P | 5P | 7P |
-
-CM-A teaches the basic attack/parry relationship across the six beginner lines.
-
-For the full teaching page, see [CM-A](../core/cm-a.md).
-
-## More than attack notation
-
-The SaberCraft Standard can document more than attack targets.
-
-As choreography becomes more advanced, notation can include defensive movement, body movement, turns, spins, jumps, locks, holds, flourishes, transitions, and other performance actions.
-
-Beginner students do not need all of that at first.
-
-Learn the six-line attack/parry foundation first. Then use the [Notation Legend](legend.md) as a reference when choreography needs more detail.
-
-## What notation does not replace
-
-Notation is powerful, but it does not replace live teaching.
-
-A notation table may not fully show:
-
-- speed
-- distance
-- acting intention
-- emotional tone
-- exact footwork
-- safety adjustments
-- camera angle or staging
-
-Use notation with instruction, rehearsal, video, or coaching when needed.
-
-## Standard writing habits
-
-Official SaberCraft Standard examples should stay clear and consistent.
-
-Use:
-
-- **Saberist A** and **Saberist B** for two-person examples
-- numbered columns for steps
-- `P` for parry
-- tables for paired choreography
-- short notes below the table when explanation is needed
-
-Clear notation is more important than clever notation.
-
-## Recommended learning path
-
-If you are new, continue in this order:
-
-1. [Start Here](../start-here.md)
-2. [Targets](targets.md)
-3. [Attacks](attacks.md)
-4. [Parries](parries.md)
-5. [CM-A](../core/cm-a.md)
-
-If you already understand the beginner path, use these references:
-
-- [Notation Legend](legend.md)
-- [Notation Examples](examples.md)
-- [Standard vs. Notation System](../standard-vs-notation-system.md)
+Read more at [Learn with SaberCraft](learn.md).
