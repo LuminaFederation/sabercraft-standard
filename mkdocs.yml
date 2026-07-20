@@ -3,8 +3,8 @@ site_url: https://standard.sabercraft.org/
 site_description: A saber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.
 site_author: SaberCraft.org
 
-repo_name: LuminaFederation/lumina-standard
-repo_url: https://github.com/LuminaFederation/lumina-standard
+repo_name: LuminaFederation/sabercraft-standard
+repo_url: https://github.com/LuminaFederation/sabercraft-standard
 edit_uri: edit/main/docs/
 
 theme:
@@ -60,7 +60,7 @@ extra:
       link: https://sabercraft.org/
       name: SaberCraft
     - icon: fontawesome/brands/github
-      link: https://github.com/LuminaFederation/lumina-standard
+      link: https://github.com/LuminaFederation/sabercraft-standard
       name: SaberCraft Standard on GitHub
 
 copyright: Copyright &copy; Lumina Federation LLC. SaberCraft is the founding school/community of the SaberCraft Standard.
