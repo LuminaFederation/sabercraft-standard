@@ -1,20 +1,28 @@
 # Core Movements
 
-Core Movements are reusable choreography blocks within the SaberCraft Standard. Each movement can be taught, practiced, documented, combined with other movements, and referenced consistently across schools, clubs, and communities.
+Core Movements are reusable choreography blocks. Each movement is a short, repeatable sequence that can be taught, practiced, written in notation, combined with other movements, and performed the same way by Saberists anywhere.
 
-In SaberCraft, a Core Movement may also be referred to as a **CM**.
+Each movement is identified by a **CM code**, such as CM-A or CM-B. "CM" is short for **Choreography Movement** — the original name for these building blocks.
 
-## Relationship to SaberCraft.org
+## Where to Start
 
-The existing CM-A through CM-X material remains part of the SaberCraft teaching library and should continue to live on SaberCraft.org.
+If you are new to SaberCraft, focus on the first five movements: **CM-A through CM-E**. These establish the shared vocabulary, timing, targeting, attack lines, parries, and partner discipline that everything else builds on.
 
-The SaberCraft Standard site does **not** replace that library. Instead, it defines the shared notation, terminology, learning path, and reference structure that make those movements easier to preserve, teach, print, and discuss.
+Your first movement, [CM-A](cm-a.md), is documented right here as the official beginner example. It shows how notation becomes a real, teachable paired movement.
 
-The SaberCraft site may include selected official examples, downloadable references, or printable standard documents, but it should not duplicate every SaberCraft CM page unless that is intentionally approved later.
+The full Core CM library — including CM-A through CM-E and beyond — is available in the [CM Series Catalog](https://sabercraft.org/cm-series-catalog/).
 
-## Movement Library Structure
+## Before You Begin CM-A
 
-The movement library is organized into four levels of confidence and authority. This lets the standard grow without treating every new choreography idea as official from day one.
+CM-A sits at the end of the beginner learning path:
+
+**Start Here → Notation Overview → Targets → Attacks → Parries → CM-A**
+
+Before working through CM-A, make sure you can recognize target zones, attack notation, and parry notation from the earlier pages. CM-A assumes you have that foundation.
+
+## How the Movement Library Is Organized
+
+The movement library is organized into four levels, so you always know how official a movement is:
 
 | Library | Meaning | Status |
 |---|---|---|
@@ -23,42 +31,18 @@ The movement library is organized into four levels of confidence and authority. 
 | Community | Movements submitted, shared, or adopted by Saberists and partner groups | Community-reviewed |
 | Experimental | Draft movements, prototypes, or material under review | Not yet official |
 
-## Core Library
+### Core
 
-The **Core** library contains the baseline movements every Saberist should learn first. These movements establish the shared vocabulary, timing, targeting, attack lines, parries, and partner discipline needed for later choreography.
+The baseline movements every Saberist learns first. As a new student, this is your home — start with CM-A through CM-E.
 
-For now, this section should stay focused and avoid placeholder pages. CM-A is included as the first official beginner example because it completes the beginner learning path and demonstrates how notation becomes a teachable paired movement.
+### Extended
 
-| Movement | Name | Purpose |
-|---|---|---|
-| [CM-A](cm-a.md) | CM-A | First official beginner movement and notation example |
+Official movements that go beyond the beginner foundation, introducing more complex timing, footwork, transitions, reversals, counters, and cinematic phrasing. Explore these once you are comfortable with the Core movements.
 
-## Extended Library
+### Community
 
-The **Extended** library is reserved for official SaberCraft movements that go beyond the beginner foundation. These may introduce more complex timing, footwork, transitions, reversals, counters, or cinematic phrasing.
+Movements developed and contributed by Saberists, schools, clubs, and partner communities. Community movements are clearly marked and credit their contributors. Over time, some may be promoted into the Extended or Core libraries.
 
-Extended movements should only be added to the SaberCraft site after their notation, teaching purpose, and safety expectations are clear. Until then, existing SaberCraft CM material should be referenced from SaberCraft.org rather than recreated here.
+### Experimental
 
-## Community Library
-
-The **Community** library is for movements developed or contributed by Saberists, schools, clubs, or partner communities. Community movements may eventually become Extended or Core movements, but they should remain clearly marked until reviewed.
-
-Community material should credit its contributors where appropriate.
-
-## Experimental Library
-
-The **Experimental** library is for drafts, prototypes, test choreography, and movements that are still being evaluated. Experimental movements are useful for development, but they should not be presented as official SaberCraft Standard material.
-
-## Printable and Downloadable References
-
-A future downloadable or print-ready SaberCraft reference may collect notation rules, target diagrams, attack and parry tables, and selected CM examples into one document.
-
-That print reference can point readers back to SaberCraft.org for the full CM-A through CM-X teaching library instead of moving the entire library onto the SaberCraft subdomain.
-
-## Beginner Path Placement
-
-CM-A currently sits at the end of the beginner learning path:
-
-**Start Here → Notation Overview → Targets → Attacks → Parries → CM-A**
-
-This means CM-A should assume the reader has already reviewed the basic notation and can recognize target zones, attack notation, and parry notation.
+Drafts, prototypes, and choreography still being evaluated. These are visible so the community can watch ideas develop, but they are not yet official SaberCraft Standard material.
