@@ -75,16 +75,27 @@ In beginner practice:
 
 If a target line causes confusion or unsafe distance, slow down and reset.
 
-## Diagram placeholder
+## Target diagrams
 
-The official target diagram should be added here once the existing SaberCraft target graphics are migrated or redrawn.
+<figure markdown>
+![The first six targets](../assets/images/notation/targets-overview-1.jpg)
+<figcaption>The first six targets</figcaption>
+</figure>
 
-Recommended diagram set:
+<figure markdown>
+![The second four targets](../assets/images/notation/targets-overview-2.jpg)
+<figcaption>The second four targets</figcaption>
+</figure>
 
-1. Front-facing target clock
-2. Partner-facing target clock
-3. CM-A target sequence diagram
-4. Printable beginner target sheet
+<figure markdown>
+![The three deadly shots](../assets/images/notation/targets-overview-3.webp)
+<figcaption>The three deadly shots</figcaption>
+</figure>
+
+These three diagrams are migrated from the original SaberCraft target reference material. Still not yet created:
+
+1. A CM-A target sequence diagram
+2. A printable beginner target sheet
 
 ## Related pages
 

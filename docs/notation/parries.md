@@ -112,6 +112,38 @@ A good beginner parry should answer three questions clearly:
 
 If the answer is no, slow down and rebuild the step.
 
+## Parry diagrams
+
+<figure markdown>
+![Parry 1](../assets/images/notation/parry-1.png)
+<figcaption>Parry 1</figcaption>
+</figure>
+
+<figure markdown>
+![Parry 11](../assets/images/notation/parry-11.png)
+<figcaption>Parry 11</figcaption>
+</figure>
+
+<figure markdown>
+![Parry 3](../assets/images/notation/parry-3.png)
+<figcaption>Parry 3</figcaption>
+</figure>
+
+<figure markdown>
+![Parry 9](../assets/images/notation/parry-9.png)
+<figcaption>Parry 9</figcaption>
+</figure>
+
+<figure markdown>
+![Parry 5](../assets/images/notation/parry-5.png)
+<figcaption>Parry 5</figcaption>
+</figure>
+
+<figure markdown>
+![Parry 7](../assets/images/notation/parry-7.png)
+<figcaption>Parry 7</figcaption>
+</figure>
+
 ## Related pages
 
 - [Targets](targets.md)

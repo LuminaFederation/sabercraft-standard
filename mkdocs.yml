@@ -61,9 +61,9 @@ extra:
       name: SaberCraft
     - icon: fontawesome/brands/github
       link: https://github.com/LuminaFederation/lumina-standard
-      name: LUMINA Standard on GitHub
+      name: SaberCraft Standard on GitHub
 
-copyright: Copyright &copy; Lumina Federation LLC. SaberCraft is the founding school/community of LUMINA.
+copyright: Copyright &copy; Lumina Federation LLC. SaberCraft is the founding school/community of the SaberCraft Standard.
 
 nav:
   - Home: index.md
