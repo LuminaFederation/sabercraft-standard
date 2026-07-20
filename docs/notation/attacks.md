@@ -115,11 +115,15 @@ If the answer is no, the attack is not ready to speed up.
 
 ## Attack diagrams
 
+<div class="diagram-table" markdown>
+
 | | |
 |:---:|:---:|
 | ![Attack 1](../assets/images/notation/attack-1.png){ width="200" }<br>**Attack 1** | ![Attack 11](../assets/images/notation/attack-11.png){ width="200" }<br>**Attack 11** |
 | ![Attack 3](../assets/images/notation/attack-3.png){ width="200" }<br>**Attack 3** | ![Attack 9](../assets/images/notation/attack-9.png){ width="200" }<br>**Attack 9** |
 | ![Attack 5](../assets/images/notation/attack-5.png){ width="200" }<br>**Attack 5** | ![Attack 7](../assets/images/notation/attack-7.png){ width="200" }<br>**Attack 7** |
+
+</div>
 
 ## Related pages
 

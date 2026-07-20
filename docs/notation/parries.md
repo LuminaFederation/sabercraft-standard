@@ -114,11 +114,15 @@ If the answer is no, slow down and rebuild the step.
 
 ## Parry diagrams
 
+<div class="diagram-table" markdown>
+
 | | |
 |:---:|:---:|
 | ![Parry 1](../assets/images/notation/parry-1.png){ width="200" }<br>**Parry 1** | ![Parry 11](../assets/images/notation/parry-11.png){ width="200" }<br>**Parry 11** |
 | ![Parry 3](../assets/images/notation/parry-3.png){ width="200" }<br>**Parry 3** | ![Parry 9](../assets/images/notation/parry-9.png){ width="200" }<br>**Parry 9** |
 | ![Parry 5](../assets/images/notation/parry-5.png){ width="200" }<br>**Parry 5** | ![Parry 7](../assets/images/notation/parry-7.png){ width="200" }<br>**Parry 7** |
+
+</div>
 
 ## Related pages
 

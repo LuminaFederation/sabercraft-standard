@@ -166,3 +166,14 @@
   background: #05060a;
   border-top: 1px solid rgba(229,57,53,0.35);
 }
+
+.md-typeset .diagram-table table,
+.md-typeset .diagram-table th,
+.md-typeset .diagram-table td {
+  background-color: #ffffff;
+}
+
+.md-typeset .diagram-table td,
+.md-typeset .diagram-table strong {
+  color: #000000;
+}
