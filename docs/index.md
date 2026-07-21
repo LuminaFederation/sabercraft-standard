@@ -20,9 +20,6 @@ hide:
 
 Developed and maintained by **Lumina Federation LLC**. Originated through the **SaberCraft** community.
 
-!!! note "Project status"
-    This site is being built as the official public home for the SaberCraft Standard. Content is currently in foundation/rewrite mode.
-
 ## Start here
 
 New to the SaberCraft Standard? Begin with the [Start Here](start-here.md) guide.
