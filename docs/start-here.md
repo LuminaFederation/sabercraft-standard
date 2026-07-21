@@ -6,11 +6,16 @@ This page is the shortest safe path into the system. You do not need to understa
 
 By the end of this page, two beginners should understand how to read a basic SaberCraft Standard table and perform a simple six-step exchange.
 
-!!! note "What the SaberCraft Standard is"
-    The SaberCraft Standard is a lightsaber choreography standard. It is used to record, teach, share, and safely perform choreographed saber combat.
-
-!!! warning "What the SaberCraft Standard is not"
-    The SaberCraft Standard is not full-contact sparring, dueling, fencing, or combat training for real weapons. It is controlled partner choreography.
+<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:stretch;">
+<div class="admonition note" style="flex:1;min-width:250px;margin:0;">
+<p class="admonition-title">What the SaberCraft Standard is</p>
+<p>The SaberCraft Standard is a lightsaber choreography standard. It is used to record, teach, share, and safely perform choreographed saber combat.</p>
+</div>
+<div class="admonition warning" style="flex:1;min-width:250px;margin:0;">
+<p class="admonition-title">What the SaberCraft Standard is not</p>
+<p>The SaberCraft Standard is not full-contact sparring, dueling, fencing, or combat training for real weapons. It is controlled partner choreography.</p>
+</div>
+</div>
 
 ## 1. Safety baseline
 
