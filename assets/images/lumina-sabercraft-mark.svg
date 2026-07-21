@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">LUMINA SaberCraft Mark</title>
+  <desc id="desc">A circular black, red, and blue crossed saber mark for the LUMINA Standard.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#05060a"/>
+    </radialGradient>
+    <filter id="redGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="blueGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <circle cx="120" cy="120" r="108" fill="url(#bg)" stroke="#f7c948" stroke-width="6"/>
+  <circle cx="120" cy="120" r="93" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2"/>
+  <g stroke-linecap="round">
+    <line x1="55" y1="185" x2="185" y2="55" stroke="#42a5f5" stroke-width="10" filter="url(#blueGlow)"/>
+    <line x1="185" y1="185" x2="55" y2="55" stroke="#e53935" stroke-width="10" filter="url(#redGlow)"/>
+    <line x1="80" y1="160" x2="185" y2="55" stroke="#ffffff" stroke-opacity="0.72" stroke-width="3"/>
+    <line x1="160" y1="160" x2="55" y2="55" stroke="#ffffff" stroke-opacity="0.72" stroke-width="3"/>
+  </g>
+  <path d="M73 174h94" stroke="#f7c948" stroke-width="10" stroke-linecap="round"/>
+  <path d="M92 194h56" stroke="#ffffff" stroke-opacity="0.8" stroke-width="5" stroke-linecap="round"/>
+  <text x="120" y="125" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="900" fill="#ffffff" letter-spacing="-2">L</text>
+</svg>
