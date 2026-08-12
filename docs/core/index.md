@@ -10,7 +10,7 @@ If you are new to SaberCraft, focus on the first five movements: **CM-A through 
 
 Your first movement, [CM-A](cm-a.md), is documented right here as the official beginner example. It shows how notation becomes a real, teachable paired movement.
 
-The full Core CM library — including CM-A through CM-E and beyond — is available in the [CM Series Catalog](https://sabercraft.org/cm-series-catalog/).
+The full movement library is organized below into four tiers, each with its own page: [Core Library](core-library.md), [Extended Library](extended-library.md), [Community Library](community-library.md), and [Experimental Library](experimental-library.md).
 
 ## Before You Begin CM-A
 
@@ -33,16 +33,16 @@ The movement library is organized into four levels, so you always know how offic
 
 ### Core
 
-The baseline movements every Saberist learns first. As a new student, this is your home — start with CM-A through CM-E.
+The baseline movements every Saberist learns first. As a new student, this is your home — start with CM-A through CM-E. See the [Core Library](core-library.md).
 
 ### Extended
 
-Official movements that go beyond the beginner foundation, introducing more complex timing, footwork, transitions, reversals, counters, and cinematic phrasing. Explore these once you are comfortable with the Core movements.
+Official movements that go beyond the beginner foundation, introducing more complex timing, footwork, transitions, reversals, counters, and cinematic phrasing. Explore these once you are comfortable with the Core movements. See the [Extended Library](extended-library.md).
 
 ### Community
 
-Movements developed and contributed by Saberists, schools, clubs, and partner communities. Community movements are clearly marked and credit their contributors. Over time, some may be promoted into the Extended or Core libraries.
+Movements developed and contributed by Saberists, schools, clubs, and partner communities. Community movements are clearly marked and credit their contributors. Over time, some may be promoted into the Extended or Core libraries. See the [Community Library](community-library.md).
 
 ### Experimental
 
-Drafts, prototypes, and choreography still being evaluated. These are visible so the community can watch ideas develop, but they are not yet official SaberCraft Standard material.
+Drafts, prototypes, and choreography still being evaluated. These are visible so the community can watch ideas develop, but they are not yet official SaberCraft Standard material. See the [Experimental Library](experimental-library.md).
