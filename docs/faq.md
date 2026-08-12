@@ -111,19 +111,3 @@ The standard is being organized publicly so questions, corrections, and future i
 Use the official website and public community spaces connected to the SaberCraft Standard and SaberCraft.
 
 The goal is for questions to be answerable publicly whenever possible, so other schools and students can benefit from the same clarification.
-
-## Where should I begin?
-
-If you are new, start here:
-
-1. [Start Here / Beginner Path](start-here.md)
-2. [Targets](notation/targets.md)
-3. [Attacks](notation/attacks.md)
-4. [Parries](notation/parries.md)
-5. [CM-A](core/cm-a.md)
-
-If you are a teacher or school leader, also read:
-
-- [For Schools and Instructors](for-schools.md)
-- [Standard vs. Notation System](standard-vs-notation-system.md)
-- [Why Use Notation Instead of Video Alone?](why-notation-matters.md)

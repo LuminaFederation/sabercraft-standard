@@ -122,4 +122,4 @@ A notation table may not fully show:
 - safety adjustments
 - camera angle or staging
 
-Use notation with instruction, rehearsal, video, or coaching when
+Use notation with instruction, rehearsal, video, or coaching when needed.

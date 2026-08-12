@@ -91,9 +91,7 @@ nav:
       - Independent School Example: examples/academy-a-example.md
   - Core Movements:
       - Movement Library: core/index.md
-      - Core Library:
-          - Overview: core/core-library.md
-          - CM-A: core/cm-a.md
+      - Core Library: core/core-library.md
       - Extended Library: core/extended-library.md
       - Community Library: core/community-library.md
       - Experimental Library: core/experimental-library.md
