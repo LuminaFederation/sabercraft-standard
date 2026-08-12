@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{#
+  Site-wide search engine opt-out. Remove this override (and the
+  theme.custom_dir setting in mkdocs.yml) to allow indexing again.
+#}
+{% block extrahead %}
+  <meta name="robots" content="noindex, nofollow">
+{% endblock %}
