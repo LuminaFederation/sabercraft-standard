@@ -11,7 +11,7 @@ theme:
   name: material
   custom_dir: overrides
   language: en
-  logo: https://sabercraft.org/wp-content/uploads/2019/02/Sabercraft-website-header-2-e1549560192221.png.webp
+  logo: assets/images/sabercraft-logo.webp
   favicon: assets/images/lumina-favicon.svg
   features:
     - navigation.tabs
