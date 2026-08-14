@@ -15,6 +15,11 @@
   --md-typeset-a-color: #7cc7ff;
 }
 
+[data-md-color-scheme="default"] {
+  --md-accent-fg-color: var(--lumina-red);
+  --md-typeset-a-color: #1565c0;
+}
+
 .md-header,
 .md-tabs {
   background: linear-gradient(90deg, #05060a 0%, #111827 50%, #05060a 100%);
@@ -39,11 +44,20 @@
   height: 2rem;
 }
 
-.md-main {
+/* Content backdrop. Each scheme paints its own: an unscoped dark gradient
+   here also covered the light scheme, leaving dark text on a dark page. */
+[data-md-color-scheme="slate"] .md-main {
   background:
     radial-gradient(circle at 20% 0%, rgba(229, 57, 53, 0.17), transparent 28rem),
     radial-gradient(circle at 80% 8%, rgba(66, 165, 245, 0.16), transparent 26rem),
     linear-gradient(180deg, #05060a 0%, #0b0d13 42%, #05060a 100%);
+}
+
+[data-md-color-scheme="default"] .md-main {
+  background:
+    radial-gradient(circle at 20% 0%, rgba(229, 57, 53, 0.09), transparent 28rem),
+    radial-gradient(circle at 80% 8%, rgba(66, 165, 245, 0.09), transparent 26rem),
+    linear-gradient(180deg, #ffffff 0%, #f2f4f7 42%, #ffffff 100%);
 }
 
 .md-typeset h1,
