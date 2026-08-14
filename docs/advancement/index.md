@@ -16,6 +16,8 @@ Being a Knight is about contributing to the future of SaberCraft and its student
 
 Based on established martial arts programs, the Knights program uses a curriculum with a rank system built on merit and personal accomplishment. Ranks are designated with sashes, using the same sashes available for other martial arts.
 
+<div class="sash-table" markdown>
+
 | Sash | Rank | Requirements |
 |---|---|---|
 | White | Honorary Knight | For contributors who have helped SaberCraft in a meaningful way, without needing to demonstrate knowledge of the CMs |
@@ -24,6 +26,8 @@ Based on established martial arts programs, the Knights program uses a curriculu
 | Indigo | Keeper Knight (3) | A minimum of 24 months or sessions, proficiency with 15 or more CMs, and conducting group instruction or event participation. Has also participated in LUMINA |
 | Green | Master Knight (4) | A minimum of 36 months or sessions, proficiency with 20 or more CMs, and conducting group instruction or event participation. Has also completed and judged several LUMINA games or seasons |
 | Red | Instructor Knight (5) | A minimum of 36 months or sessions, proficiency with 15 or more CMs, competed in one season of LUMINA, taught a minimum of 5 group sessions, and completed a fitness certification. Regular participants, judges, and coordinators of LUMINA |
+
+</div>
 
 ## Testing your skills
 

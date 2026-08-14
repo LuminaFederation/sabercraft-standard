@@ -316,3 +316,25 @@
     display: none;
   }
 }
+
+/* Knight sash table. Each row carries a tint and a left bar in its own sash
+   colour. The colours follow the row order of the table on the Advancement
+   page: white, yellow, orange, indigo, green, red. Reordering the rows means
+   reordering these rules. Tints are kept light so the text stays readable in
+   both the light and slate schemes. */
+.md-typeset .sash-table tbody tr:nth-child(1) { --sash: #d4d4d8; --sash-tint: rgba(212, 212, 216, 0.18); }
+.md-typeset .sash-table tbody tr:nth-child(2) { --sash: var(--lumina-gold); --sash-tint: rgba(247, 201, 72, 0.16); }
+.md-typeset .sash-table tbody tr:nth-child(3) { --sash: #f57c00; --sash-tint: rgba(245, 124, 0, 0.16); }
+.md-typeset .sash-table tbody tr:nth-child(4) { --sash: #5c6bc0; --sash-tint: rgba(92, 107, 192, 0.20); }
+.md-typeset .sash-table tbody tr:nth-child(5) { --sash: #43a047; --sash-tint: rgba(67, 160, 71, 0.18); }
+.md-typeset .sash-table tbody tr:nth-child(6) { --sash: var(--lumina-red); --sash-tint: rgba(229, 57, 53, 0.16); }
+
+.md-typeset .sash-table tbody td {
+  background-color: var(--sash-tint);
+}
+
+.md-typeset .sash-table tbody td:first-child {
+  border-left: 0.3rem solid var(--sash);
+  font-weight: 700;
+  white-space: nowrap;
+}
