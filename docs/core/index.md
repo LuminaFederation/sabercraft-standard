@@ -24,25 +24,9 @@ Before working through CM-A, make sure you can recognize target zones, attack no
 
 The movement library is organized into four levels, so you always know how official a movement is:
 
-| Library | Meaning | Status |
+| Library | What it holds | Status |
 |---|---|---|
-| Core | Official baseline movements used for foundational training | Official |
-| Extended | Official additions that build beyond the beginner core | Official |
-| Community | Movements submitted, shared, or adopted by Saberists and partner groups | Community-reviewed |
-| Experimental | Draft movements, prototypes, or material under review | Not yet official |
-
-### Core
-
-The baseline movements every Saberist learns first. As a new student, this is your home — start with CM-A through CM-E. See the [Core Library](core-library.md).
-
-### Extended
-
-Official movements that go beyond the beginner foundation, introducing more complex timing, footwork, transitions, reversals, counters, and cinematic phrasing. Explore these once you are comfortable with the Core movements. See the [Extended Library](extended-library.md).
-
-### Community
-
-Movements developed and contributed by Saberists, schools, clubs, and partner communities. Community movements are clearly marked and credit their contributors. Over time, some may be promoted into the Extended or Core libraries. See the [Community Library](community-library.md).
-
-### Experimental
-
-Drafts, prototypes, and choreography still being evaluated. These are visible so the community can watch ideas develop, but they are not yet official SaberCraft Standard material. See the [Experimental Library](experimental-library.md).
+| [Core](core-library.md) | The baseline movements every Saberist learns first. As a new student, this is your home — start with CM-A through CM-E. | Official |
+| [Extended](extended-library.md) | Official movements that go beyond the beginner foundation, introducing more complex timing, footwork, transitions, reversals, counters, and cinematic phrasing. Explore these once you are comfortable with the Core movements. | Official |
+| [Community](community-library.md) | Movements developed and contributed by Saberists, schools, clubs, and partner communities. Community movements are clearly marked and credit their contributors. Over time, some may be promoted into the Extended or Core libraries. | Community-reviewed |
+| [Experimental](experimental-library.md) | Drafts, prototypes, and choreography still being evaluated. These are visible so the community can watch ideas develop, but they are not yet official SaberCraft Standard material. | Not yet official |
