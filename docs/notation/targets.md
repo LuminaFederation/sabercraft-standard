@@ -101,5 +101,4 @@ These three diagrams are migrated from the original SaberCraft target reference 
 
 - [Attacks](attacks.md)
 - [Parries](parries.md)
-- [Notation Examples](examples.md)
 - [CM-A](../core/cm-a.md)

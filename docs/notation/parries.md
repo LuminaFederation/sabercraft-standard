@@ -128,5 +128,4 @@ If the answer is no, slow down and rebuild the step.
 
 - [Targets](targets.md)
 - [Attacks](attacks.md)
-- [Notation Examples](examples.md)
 - [CM-A](../core/cm-a.md)

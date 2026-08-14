@@ -89,7 +89,6 @@ nav:
       - Attacks: notation/attacks.md
       - Parries: notation/parries.md
       - Legend: notation/legend.md
-      - Examples: notation/examples.md
       - Independent School Example: examples/academy-a-example.md
   - Core Movements:
       - Movement Library: core/index.md

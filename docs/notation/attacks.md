@@ -129,5 +129,4 @@ If the answer is no, the attack is not ready to speed up.
 
 - [Targets](targets.md)
 - [Parries](parries.md)
-- [Notation Examples](examples.md)
 - [CM-A](../core/cm-a.md)
