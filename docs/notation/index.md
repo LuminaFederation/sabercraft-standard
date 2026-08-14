@@ -170,22 +170,13 @@ For the full teaching page, see [CM-A](../core/cm-a.md).
 | `©A` | Complete wide — vertically across |
 | `B` | Bash |
 | `x` | Keep the lock into the next move |
-| `Ig` | Inverted grip |
 | `Pt` | Pitch |
-| `1H` | One handed |
-| `Su` | Support |
-| `Rh` | Right handed |
-| `Lh` | Left handed |
 | `0/3` | Thrust directed to target's 3 |
 | `0/3P` | Parry incoming thrust, vertical guard moving toward 3 parry |
-| `St-B` | Step back |
-| `St-L` | Step left |
-| `St-R` | Step right |
 | `--B` | Back |
 | `K` | Kick |
 | `Sbr` | Saber |
 | `G` | Grab |
-| `RW` | Right wrist |
 | `E` | Evade |
 | `( )` | Optional 2nd move of attack or defense |
 | `Bl-` | Blend (example: `Bl-1` is blend 1) |

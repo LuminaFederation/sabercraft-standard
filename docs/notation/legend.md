@@ -9,25 +9,6 @@ For first-time readers, start with the six beginner lines in [Targets](targets.m
 
 Targets are named from the **attacker's perspective**, using the hours of a clock face placed on the partner.
 
-## Beginner symbols
-
-These are the first symbols most Saberists should learn.
-
-| Symbol | Meaning | Status |
-|---|---|---|
-| `1` | 1-o'clock attack | Beginner core |
-| `1P` | Parry an attack to the 1-o'clock target | Beginner core |
-| `11` | 11-o'clock attack | Beginner core |
-| `11P` | Parry an attack to the 11-o'clock target | Beginner core |
-| `3` | 3-o'clock attack | Beginner core |
-| `3P` | Parry an attack to the 3-o'clock target | Beginner core |
-| `9` | 9-o'clock attack | Beginner core |
-| `9P` | Parry an attack to the 9-o'clock target | Beginner core |
-| `5` | 5-o'clock attack | Beginner core |
-| `5P` | Parry an attack to the 5-o'clock target | Beginner core |
-| `7` | 7-o'clock attack | Beginner core |
-| `7P` | Parry an attack to the 7-o'clock target | Beginner core |
-
 ## Full attack reference
 
 A plain number is an attack toward that target line.
