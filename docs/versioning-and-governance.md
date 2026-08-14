@@ -84,24 +84,6 @@ Examples include:
 - breaking compatibility with older choreography
 - changing table structure conventions
 
-## Compatibility goal
-
-One long-term goal of SaberCraft is archival durability.
-
-A choreography written years earlier should remain understandable to future instructors whenever reasonably possible.
-
-Because of that, backwards readability is strongly preferred.
-
-## Version numbering
-
-The standard currently uses a simple major/minor structure.
-
-| Example | Meaning |
-|---|---|
-| v2.0 | Major public revision |
-| v2.1 | Minor compatible improvement |
-| v2.1.1 | Small correction or clarification |
-
 ## Public reference model
 
 The official public reference for the standard currently includes:
@@ -113,20 +95,3 @@ The official public reference for the standard currently includes:
 - downloadable releases in the future
 
 This structure is intended to improve transparency, preservation, and long-term maintainability.
-
-## Future governance possibilities
-
-As the standard grows, future governance may include:
-
-- contribution review processes
-- community proposals
-- standards committees
-- notation working groups
-- federation partnerships
-- public revision logs
-
-The current focus is stability, documentation quality, and foundational clarity.
-
-## Key principle
-
-SaberCraft should evolve slowly enough to remain stable, but openly enough to remain useful.
