@@ -134,7 +134,7 @@ Notation can clarify attack lines, responses, timing, and structure.
 
 Notation creates historical preservation.
 
-### SaberCraft is designed for portability
+## 3. SaberCraft is designed for portability
 
 SaberCraft allows choreography to move between:
 
@@ -153,7 +153,7 @@ A choreography written in SaberCraft notation can be:
 - shared digitally
 - referenced years later
 
-### A shared language across schools
+## 4. A shared language across schools
 
 One of the goals of SaberCraft is interoperability.
 
@@ -169,7 +169,7 @@ while still using a shared notation language.
 
 This means choreography can become exchangeable without forcing communities to become identical.
 
-### A practical example
+## 5. A practical example
 
 Imagine two schools:
 
@@ -196,7 +196,7 @@ The choreography remains unique.
 
 The language becomes shared.
 
-### Written choreography changes how communities grow
+## 6. Written choreography changes how communities grow
 
 Once choreography can be documented consistently, communities gain the ability to:
 
@@ -221,9 +221,7 @@ This is one of the reasons notation systems transformed:
 
 SaberCraft applies that same philosophy to choreographed saber movement.
 
-### The long-term vision
-
-SaberCraft is not intended to replace creativity.
+## 7. The long-term vision
 
 It exists to help creativity survive.
 
