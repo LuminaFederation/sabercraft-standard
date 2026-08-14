@@ -177,3 +177,61 @@
 .md-typeset .diagram-table strong {
   color: #000000;
 }
+
+/* Collapsible table of contents.
+   Sections with sub-headings start collapsed so long pages keep a short
+   right-hand menu. The toggle is added by the script in overrides/main.html;
+   without JavaScript no toggle is inserted and the full list stays visible. */
+.md-sidebar--secondary .sc-toc-parent {
+  position: relative;
+}
+
+.md-sidebar--secondary .sc-toc-parent > .md-nav__link {
+  padding-right: 1.4rem;
+}
+
+.md-sidebar--secondary .sc-toc-collapsed > nav.md-nav {
+  display: none;
+}
+
+.sc-toc-toggle {
+  position: absolute;
+  top: 0.1rem;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.2rem;
+  height: 1.2rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0.2rem;
+  background: transparent;
+  color: var(--md-default-fg-color--light);
+  cursor: pointer;
+}
+
+.sc-toc-toggle:hover {
+  color: var(--lumina-red);
+  background: var(--md-default-fg-color--lightest);
+}
+
+.sc-toc-toggle:focus-visible {
+  outline: 2px solid var(--lumina-red);
+  outline-offset: 1px;
+}
+
+/* Chevron: points right when collapsed, down when expanded. */
+.sc-toc-toggle::before {
+  content: "";
+  width: 0.4rem;
+  height: 0.4rem;
+  border-right: 2px solid currentcolor;
+  border-bottom: 2px solid currentcolor;
+  transform: rotate(-45deg);
+  transition: transform 0.2s;
+}
+
+.sc-toc-parent:not(.sc-toc-collapsed) > .sc-toc-toggle::before {
+  transform: rotate(45deg);
+}

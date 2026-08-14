@@ -7,3 +7,67 @@
 {% block extrahead %}
   <meta name="robots" content="noindex, nofollow">
 {% endblock %}
+
+{#
+  Collapsible right-hand table of contents. Any TOC entry that has
+  sub-headings gets a chevron toggle and starts collapsed, so pages with
+  many headings do not produce a very long menu. Styling lives in
+  docs/assets/stylesheets/sabercraft.css.
+#}
+{% block scripts %}
+  {{ super() }}
+  <script>
+    (function () {
+      function initCollapsibleToc() {
+        var toc = document.querySelector(".md-sidebar--secondary .md-nav--secondary");
+        if (!toc) {
+          return;
+        }
+
+        toc.querySelectorAll(".md-nav__item").forEach(function (item) {
+          if (item.classList.contains("sc-toc-parent")) {
+            return;
+          }
+
+          var link = item.querySelector(":scope > .md-nav__link");
+          var children = item.querySelector(":scope > nav.md-nav");
+          if (!link || !children) {
+            return;
+          }
+
+          var label = link.textContent.trim();
+          item.classList.add("sc-toc-parent", "sc-toc-collapsed");
+
+          var toggle = document.createElement("button");
+          toggle.type = "button";
+          toggle.className = "sc-toc-toggle";
+
+          var sync = function () {
+            var collapsed = item.classList.contains("sc-toc-collapsed");
+            toggle.setAttribute("aria-expanded", collapsed ? "false" : "true");
+            toggle.setAttribute(
+              "aria-label",
+              (collapsed ? "Expand " : "Collapse ") + label + " subsections"
+            );
+          };
+
+          toggle.addEventListener("click", function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+            item.classList.toggle("sc-toc-collapsed");
+            sync();
+          });
+
+          sync();
+          item.insertBefore(toggle, children);
+        });
+      }
+
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", initCollapsibleToc);
+      } else {
+        initCollapsibleToc();
+      }
+    })();
+  </script>
+{% endblock %}
