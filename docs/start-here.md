@@ -8,8 +8,6 @@ Welcome to the SaberCraft Standard.
 
 This page is the shortest safe path into the system. You do not need to understand the entire standard before you begin. You only need a partner, a safe training space, and enough notation to practice the first core movement: **CM-A**.
 
-By the end of this page, two beginners should understand how to read a basic SaberCraft Standard table and perform a simple six-step exchange.
-
 <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:stretch;">
 <div class="admonition note" style="flex:1;min-width:250px;margin:0;">
 <p class="admonition-title">What the SaberCraft Standard is</p>
@@ -223,7 +221,7 @@ SaberCraft applies that same philosophy to choreographed saber movement.
 
 ## 7. The long-term vision
 
-It exists to help creativity survive.
+The standard exists to help creativity survive.
 
 The standard is designed to support a future where choreographed movement can be:
 
