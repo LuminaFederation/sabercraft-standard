@@ -4,9 +4,6 @@ SaberCraft Notation is the written movement language of the SaberCraft Standard.
 
 It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
 
-!!! note "Plain-English version"
-    SaberCraft Notation is a choreography map. It tells each Saberist what to do at each step of a sequence.
-
 ## What to learn first
 
 Do not start by memorizing the full notation legend.
@@ -44,27 +41,19 @@ For more detail, see [Targets](targets.md).
 
 The simplest SaberCraft Standard notation uses numbers and the letter `P`.
 
+<div class="grid" markdown>
+
 | Symbol type | Meaning |
 |---|---|
 | Number | Attack toward that target line |
 | Number + `P` | Parry against that target line |
 
-Examples:
-
 | Attack | Matching parry |
 |---|---|
 | `1` | `1P` |
 | `11` | `11P` |
-| `3` | `3P` |
-| `9` | `9P` |
-| `5` | `5P` |
-| `7` | `7P` |
 
-This creates the first call-and-response pattern:
-
-> attack line → matching parry
-
-For more detail, see [Attacks](attacks.md) and [Parries](parries.md).
+</div>
 
 ## The two-Saberist table
 
@@ -98,32 +87,6 @@ CM-A teaches the basic attack/parry relationship across the six beginner lines.
 
 For the full teaching page, see [CM-A](../core/cm-a.md).
 
-## More than attack notation
-
-The SaberCraft Standard can document more than attack targets.
-
-As choreography becomes more advanced, notation can include defensive movement, body movement, turns, spins, jumps, locks, holds, flourishes, transitions, and other performance actions.
-
-Beginner students do not need all of that at first.
-
-Learn the six-line attack/parry foundation first. Then use the [Notation Legend](legend.md) as a reference when choreography needs more detail.
-
-## What notation does not replace
-
-Notation is powerful, but it does not replace live teaching.
-
-A notation table may not fully show:
-
-- speed
-- distance
-- acting intention
-- emotional tone
-- exact footwork
-- safety adjustments
-- camera angle or staging
-
-Use notation with instruction, rehearsal, video, or coaching when needed.
-
 ---
 
 ## SaberCraft Notation System
@@ -140,20 +103,13 @@ Below is a quick overview of how the notation works and the intended target poin
 
 ### The target points
 
-<figure markdown>
-![The first six targets](../assets/images/notation/targets-overview-1.webp)
-<figcaption>The 1st six targets</figcaption>
-</figure>
+<div class="diagram-table" markdown>
 
-<figure markdown>
-![The second four targets](../assets/images/notation/targets-overview-2.webp)
-<figcaption>The 2nd four targets</figcaption>
-</figure>
+| | | |
+|:---:|:---:|:---:|
+| ![The first six targets](../assets/images/notation/targets-overview-1.webp){ width="200" }<br>**The 1st six targets** | ![The second four targets](../assets/images/notation/targets-overview-2.webp){ width="200" }<br>**The 2nd four targets** | ![The three deadly shots](../assets/images/notation/targets-overview-3.webp){ width="200" }<br>**The 3 deadly shots** |
 
-<figure markdown>
-![The three deadly shots](../assets/images/notation/targets-overview-3.webp)
-<figcaption>The 3 deadly shots</figcaption>
-</figure>
+</div>
 
 ### Attacking
 
@@ -276,3 +232,19 @@ As a Saberist, you learn the system, memorize the Core Movements, then build you
 Other schools, clubs, and performance groups are welcome to use SaberCraft Notation and publish their contributions back to the community.
 
 For the terms that apply, see [Licensing](../licensing.md).
+
+## What notation does not replace
+
+Notation is powerful, but it does not replace live teaching.
+
+A notation table may not fully show:
+
+- speed
+- distance
+- acting intention
+- emotional tone
+- exact footwork
+- safety adjustments
+- camera angle or staging
+
+Use notation with instruction, rehearsal, video, or coaching when needed.
