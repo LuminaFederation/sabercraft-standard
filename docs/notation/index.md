@@ -20,43 +20,6 @@ That is enough to read and practice your first SaberCraft Standard sequence.
 
 The full notation reference is available later in the [Notation Legend](legend.md).
 
-## Attacks and parries
-
-The simplest SaberCraft Standard notation uses numbers and the letter `P`.
-
-<div class="grid" markdown>
-
-| Symbol type | Meaning |
-|---|---|
-| Number | Attack toward that target line |
-| Number + `P` | Parry against that target line |
-
-| Attack | Matching parry |
-|---|---|
-| `1` | `1P` |
-| `11` | `11P` |
-
-</div>
-
-## The two-Saberist table
-
-Most beginner SaberCraft Standard sequences are written as a two-row table.
-
-One row belongs to each Saberist. Each column is one step in the choreography.
-
-| Player | Step 1 | Step 2 | Step 3 |
-|---|---:|---:|---:|
-| Saberist A | 1 | 11 | 3 |
-| Saberist B | 1P | 11P | 3P |
-
-Read the table vertically, one column at a time.
-
-- Step 1: Saberist A attacks `1`; Saberist B parries `1P`.
-- Step 2: Saberist A attacks `11`; Saberist B parries `11P`.
-- Step 3: Saberist A attacks `3`; Saberist B parries `3P`.
-
-The table keeps both performers connected to the same timing.
-
 ---
 
 ## SaberCraft Notation System
@@ -82,6 +45,43 @@ Below is a quick overview of how the notation works and the intended target poin
 </div>
 
 Select any diagram to open it full size in a new tab.
+
+### Attacks and parries
+
+The simplest SaberCraft Standard notation uses numbers and the letter `P`.
+
+<div class="grid" markdown>
+
+| Symbol type | Meaning |
+|---|---|
+| Number | Attack toward that target line |
+| Number + `P` | Parry against that target line |
+
+| Attack | Matching parry |
+|---|---|
+| `1` | `1P` |
+| `11` | `11P` |
+
+</div>
+
+### The two-Saberist table
+
+Most beginner SaberCraft Standard sequences are written as a two-row table.
+
+One row belongs to each Saberist. Each column is one step in the choreography.
+
+| Player | Step 1 | Step 2 | Step 3 |
+|---|---:|---:|---:|
+| Saberist A | 1 | 11 | 3 |
+| Saberist B | 1P | 11P | 3P |
+
+Read the table vertically, one column at a time.
+
+- Step 1: Saberist A attacks `1`; Saberist B parries `1P`.
+- Step 2: Saberist A attacks `11`; Saberist B parries `11P`.
+- Step 3: Saberist A attacks `3`; Saberist B parries `3P`.
+
+The table keeps both performers connected to the same timing.
 
 ### Attacking
 
