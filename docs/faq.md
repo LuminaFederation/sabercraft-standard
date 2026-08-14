@@ -52,7 +52,7 @@ A notation system helps people write movement down.
 
 A standard gives the community a public reference, shared definitions, version history, and a way to review whether choreography is being written clearly.
 
-Read more: [Standard vs. Notation System](standard-vs-notation-system.md)
+Read more: [Standard vs. Notation System](standard.md#standard-vs-notation-system)
 
 ## Is SaberCraft publicly available?
 

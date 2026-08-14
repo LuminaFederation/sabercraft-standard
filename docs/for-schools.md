@@ -30,7 +30,7 @@ A standard gives people a public reference they can use, question, review, and b
 
 That distinction matters for schools. If a movement language is hard to access, unavailable, or dependent on one person’s memory, different groups eventually create their own house rules. SaberCraft is designed to avoid that by making the reference public, maintained, and reviewable.
 
-Read more: [Standard vs. Notation System](standard-vs-notation-system.md)
+Read more: [Standard vs. Notation System](standard.md#standard-vs-notation-system)
 
 ## What SaberCraft actually standardizes
 
@@ -140,7 +140,7 @@ The long-term goal is to help choreography communities preserve and exchange mov
 
 ## Learn more
 
-- Understand the difference: [Standard vs. Notation System](standard-vs-notation-system.md)
+- Understand the difference: [Standard vs. Notation System](standard.md#standard-vs-notation-system)
 - Start with the [Notation Overview](notation/index.md)
 - Review the [Targets](notation/targets.md)
 - Explore the [Core Movement Library](core/index.md)
