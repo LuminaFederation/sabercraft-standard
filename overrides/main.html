@@ -16,8 +16,38 @@
 {% block scripts %}
   {{ super() }}
   <script>
+    /* Set per page with `toc_max_level` in front matter. 2 keeps only the
+       top-level headings in the right-hand menu; 0 means show every level. */
+    window.SC_TOC_MAX_LEVEL = {{ (page.meta.toc_max_level if page and page.meta and 'toc_max_level' in page.meta else 0) | int }};
+  </script>
+  <script>
     (function () {
       var STORAGE_KEY = "sc-toc-hidden";
+
+      /* Drop table-of-contents entries deeper than the page's chosen level.
+         h2 entries sit at the root, h3 one nav down, h4 two down, so a page
+         asking for level N keeps nested navs no deeper than N - 2. */
+      function pruneTocDepth(nav) {
+        var max = window.SC_TOC_MAX_LEVEL || 0;
+        if (max < 2) {
+          return;
+        }
+        var allowed = max - 2;
+        Array.prototype.slice.call(nav.querySelectorAll("nav.md-nav")).forEach(function (child) {
+          if (!child.parentNode) {
+            return;
+          }
+          var depth = 0;
+          for (var node = child.parentNode; node && node !== nav; node = node.parentNode) {
+            if (node.tagName === "NAV" && node.classList.contains("md-nav")) {
+              depth += 1;
+            }
+          }
+          if (depth >= allowed) {
+            child.parentNode.removeChild(child);
+          }
+        });
+      }
 
       function readPreference() {
         try {
@@ -54,6 +84,8 @@
         if (!nav || !title || !nav.querySelector(".md-nav__link")) {
           return;
         }
+
+        pruneTocDepth(nav);
 
         sidebar.id = "sc-toc-panel";
 

@@ -1,3 +1,7 @@
+---
+toc_max_level: 2
+---
+
 # Start Here
 
 Welcome to the SaberCraft Standard.
