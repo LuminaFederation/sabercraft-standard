@@ -73,17 +73,16 @@ copyright: Copyright &copy; Lumina Federation LLC. SaberCraft.org is the foundin
 
 nav:
   - Home: index.md
-  - Learn:
-      - Start Here / Beginner Path: start-here.md
-      - FAQ: faq.md
-      - For Schools: for-schools.md
-      - Downloads: downloads.md
-      - Learn with SaberCraft: learn.md
   - The Standard:
+      - Start Here / Beginner Path: start-here.md
       - Overview: standard.md
       - Governance: versioning-and-governance.md
       - Licensing: licensing.md
       - Glossary: glossary.md
+      - FAQ: faq.md
+      - For Schools: for-schools.md
+      - Downloads: downloads.md
+      - Learn with SaberCraft: learn.md
   - Notation:
       - Overview: notation/index.md
       - Targets: notation/targets.md
