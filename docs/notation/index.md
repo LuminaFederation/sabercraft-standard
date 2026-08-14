@@ -20,23 +20,6 @@ That is enough to read and practice your first SaberCraft Standard sequence.
 
 The full notation reference is available later in the [Notation Legend](legend.md).
 
-## The beginner target set
-
-The beginner path uses six target lines:
-
-| Target | Beginner description |
-|---:|---|
-| `1` | High / upper center line |
-| `11` | High opposite line |
-| `3` | Side line |
-| `9` | Opposite side line |
-| `5` | Low line |
-| `7` | Opposite low line |
-
-These six lines are used in CM-A and give new Saberists a simple starting vocabulary.
-
-For more detail, see [Targets](targets.md).
-
 ## Attacks and parries
 
 The simplest SaberCraft Standard notation uses numbers and the letter `P`.
@@ -74,19 +57,6 @@ Read the table vertically, one column at a time.
 
 The table keeps both performers connected to the same timing.
 
-## First complete example: CM-A
-
-CM-A is the first official core movement sequence.
-
-| Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
-|---|---:|---:|---:|---:|---:|---:|
-| Saberist A | 1 | 11 | 3 | 9 | 5 | 7 |
-| Saberist B | 1P | 11P | 3P | 9P | 5P | 7P |
-
-CM-A teaches the basic attack/parry relationship across the six beginner lines.
-
-For the full teaching page, see [CM-A](../core/cm-a.md).
-
 ---
 
 ## SaberCraft Notation System
@@ -123,15 +93,24 @@ In the SaberCraft Standard there is no actual contact, so the saber comes to wit
 
 While attacking, you step forward with your attacks.
 
+The beginner path uses six target lines:
+
 <div class="diagram-table" markdown>
 
-| | |
-|:---:|:---:|
-| ![Attack 1](../assets/images/notation/attack-1.png){ width="200" }<br>**1 Attack** | ![Attack 11](../assets/images/notation/attack-11.png){ width="200" }<br>**11 Attack** |
-| ![Attack 3](../assets/images/notation/attack-3.png){ width="200" }<br>**3 Attack** | ![Attack 9](../assets/images/notation/attack-9.png){ width="200" }<br>**9 Attack** |
-| ![Attack 5](../assets/images/notation/attack-5.png){ width="200" }<br>**5 Attack** | ![Attack 7](../assets/images/notation/attack-7.png){ width="200" }<br>**7 Attack** |
+| Target | Attack | Beginner description |
+|:---:|:---:|---|
+| `1` | ![Attack 1](../assets/images/notation/attack-1.png){ width="200" } | High / upper center line |
+| `11` | ![Attack 11](../assets/images/notation/attack-11.png){ width="200" } | High opposite line |
+| `3` | ![Attack 3](../assets/images/notation/attack-3.png){ width="200" } | Side line |
+| `9` | ![Attack 9](../assets/images/notation/attack-9.png){ width="200" } | Opposite side line |
+| `5` | ![Attack 5](../assets/images/notation/attack-5.png){ width="200" } | Low line |
+| `7` | ![Attack 7](../assets/images/notation/attack-7.png){ width="200" } | Opposite low line |
 
 </div>
+
+These six lines are used in CM-A and give new Saberists a simple starting vocabulary.
+
+For more detail, see [Targets](targets.md).
 
 ### Defending
 
@@ -151,9 +130,9 @@ While defending, you step backward with your defended attack.
 
 </div>
 
-### How notation is written
+### First complete example: CM-A
 
-Notation is written in the following form:
+CM-A is the first official core movement sequence.
 
 | Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
 |---|---:|---:|---:|---:|---:|---:|
@@ -168,6 +147,10 @@ The choreography above states the following:
 - Saberist A attacks their partner's 9-o'clock target; Saberist B parries the attack.
 - Saberist A attacks their partner's 5-o'clock target; Saberist B parries the attack.
 - Saberist A attacks their partner's 7-o'clock target; Saberist B parries the attack.
+
+CM-A teaches the basic attack/parry relationship across the six beginner lines.
+
+For the full teaching page, see [CM-A](../core/cm-a.md).
 
 ### Complete notation legend
 

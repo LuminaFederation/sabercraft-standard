@@ -173,9 +173,20 @@
   background-color: #ffffff;
 }
 
+/* th is included so diagram tables that carry a header row stay readable;
+   without it the theme's light header text sits on the white cell. */
+.md-typeset .diagram-table th,
 .md-typeset .diagram-table td,
 .md-typeset .diagram-table strong {
   color: #000000;
+}
+
+/* Rows built around a diagram are tall, so centre the label and the
+   description against the image rather than stranding them at the top.
+   The selector mirrors the theme's own `table:not([class]) td` rule, which
+   sets vertical-align: top and otherwise wins on specificity. */
+.md-typeset .diagram-table table:not([class]) td {
+  vertical-align: middle;
 }
 
 /* Diagrams that link to their own full-size image. The cursor and the lift on
