@@ -37,7 +37,7 @@ The SaberCraft Standard is designed as a shared choreography language.
 Schools and performance groups can adopt the notation standard without replacing their own choreography libraries, teaching culture, or curriculum structure.
 
 - Read the proposal: [For Schools and Instructors](for-schools.md)
-- Learn why notation matters: [Why Use Notation Instead of Video Alone?](why-notation-matters.md)
+- Learn why notation matters: [Why Use Notation Instead of Video Alone?](start-here.md#2-why-use-notation-instead-of-video-alone)
 - Understand the difference: [Standard vs. Notation System](standard.md#standard-vs-notation-system)
 
 ## What the ecosystem includes
