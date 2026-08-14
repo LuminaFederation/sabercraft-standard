@@ -7,8 +7,7 @@ The standard does not require competitive play. Games are a structured way to pr
 ## Sections
 
 - [Rules](rules.md)
-- [Scoring](scoring.md)
-- [Power Plays](power-plays.md)
+- [Advanced Rules](advanced-rules.md)
 
 ---
 
