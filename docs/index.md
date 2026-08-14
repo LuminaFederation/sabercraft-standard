@@ -40,11 +40,11 @@ Schools and performance groups can adopt the notation standard without replacing
 
 | Part | Purpose |
 |---|---|
-| SaberCraft Standard | The overall public choreography framework |
-| SaberCraft Notation | The written movement language |
-| SaberCraft Core | Official baseline Choreographed Movements |
-| LUMINA Games | Optional game/scoring format |
-| Glossary | Controlled vocabulary for consistent teaching and documentation |
+| [SaberCraft Standard](standard.md) | The overall public choreography framework |
+| [SaberCraft Notation](notation/index.md) | The written movement language |
+| [SaberCraft Core](core/index.md) | Official baseline Choreographed Movements |
+| [LUMINA Games](games/index.md) | Optional game/scoring format |
+| [Glossary](glossary.md) | Controlled vocabulary for consistent teaching and documentation |
 
 ## Relationship to SaberCraft
 
