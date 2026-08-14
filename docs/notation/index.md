@@ -159,29 +159,23 @@ CM-A teaches the basic attack/parry relationship across the six beginner lines.
 
 For the full teaching page, see [CM-A](../core/cm-a.md).
 
-### Complete notation legend
+### Beyond attacks and parries
+
+Attacks and parries are only the beginning. SaberCraft Notation also records blade contact, body movement, grip, footwork, and flourishes, so a written sequence can describe a whole exchange rather than just where the saber goes.
+
+A few examples:
 
 | Symbol | Meaning |
 |---|---|
-| `1` | 1-o'clock attack |
-| `1P` | Parry an attack to the 1-o'clock target (attacker's perspective) |
-| `P` | Parry (block) |
 | `©` | Complete |
-| `©A` | Complete wide — vertically across |
 | `B` | Bash |
-| `x` | Keep the lock into the next move |
-| `Pt` | Pitch |
-| `0/3` | Thrust directed to target's 3 |
-| `0/3P` | Parry incoming thrust, vertical guard moving toward 3 parry |
-| `--B` | Back |
+| `Ig` | Inverted grip |
 | `K` | Kick |
-| `Sbr` | Saber |
-| `G` | Grab |
-| `E` | Evade |
-| `( )` | Optional 2nd move of attack or defense |
-| `Bl-` | Blend (example: `Bl-1` is blend 1) |
+| `D` | Duck |
+| `St-B` | Step back |
+| `Fl-Rev` | Reverse flourish (saber spin) |
 
-For the full notation vocabulary, including spins, turns, locks, holds, and flourishes, see the [Notation Legend](legend.md).
+These are a sample. The [Notation Legend](legend.md) holds the full vocabulary.
 
 ### Next steps
 
