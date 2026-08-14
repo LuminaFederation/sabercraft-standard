@@ -120,15 +120,22 @@ As in many martial arts, defending is more difficult than attacking. Hold your s
 
 While defending, you step backward with your defended attack.
 
+Each attack line has a matching parry:
+
 <div class="diagram-table" markdown>
 
-| | |
-|:---:|:---:|
-| ![Parry 1](../assets/images/notation/parry-1.png){ width="200" }<br>**1P Parry 1** | ![Parry 11](../assets/images/notation/parry-11.png){ width="200" }<br>**11P Parry 11** |
-| ![Parry 3](../assets/images/notation/parry-3.png){ width="200" }<br>**3P Parry 3** | ![Parry 9](../assets/images/notation/parry-9.png){ width="200" }<br>**9P Parry 9** |
-| ![Parry 5](../assets/images/notation/parry-5.png){ width="200" }<br>**5P Parry 5** | ![Parry 7](../assets/images/notation/parry-7.png){ width="200" }<br>**7P Parry 7** |
+| Parry | Defense | Beginner description |
+|:---:|:---:|---|
+| `1P` | ![Parry 1](../assets/images/notation/parry-1.png){ width="200" } | High / upper center line |
+| `11P` | ![Parry 11](../assets/images/notation/parry-11.png){ width="200" } | High opposite line |
+| `3P` | ![Parry 3](../assets/images/notation/parry-3.png){ width="200" } | Side line |
+| `9P` | ![Parry 9](../assets/images/notation/parry-9.png){ width="200" } | Opposite side line |
+| `5P` | ![Parry 5](../assets/images/notation/parry-5.png){ width="200" } | Low line |
+| `7P` | ![Parry 7](../assets/images/notation/parry-7.png){ width="200" } | Opposite low line |
 
 </div>
+
+For more detail, see [Parries](parries.md).
 
 ### First complete example: CM-A
 
@@ -162,31 +169,13 @@ For the full teaching page, see [CM-A](../core/cm-a.md).
 | `©` | Complete |
 | `©A` | Complete wide — vertically across |
 | `B` | Bash |
-| `S CW` | Spin clockwise (left shoulder toward right) |
-| `S CCW` | Spin counter clockwise (right shoulder toward left) |
-| `T180-cw` | Turn 180 degrees clockwise |
-| `S+S` | Saber stand-off — prolonged lock |
-| `X` | Lock |
 | `x` | Keep the lock into the next move |
-| `H` | Hold |
 | `Ig` | Inverted grip |
 | `Pt` | Pitch |
-| `M` | Modifier (example: `3PM6` — parry 3 with tip pointing down at 6) |
-| `Fl-Rev` | Reverse flourish (saber spin) |
-| `Fl-Fwd` | Forward flourish |
-| `Fl-F8` | Forward 8s flourish |
-| `Fl-R8` | Reverse 8s flourish |
-| `Fl-Sb` | Stab flourish |
-| `Fl-H` | Overhead / helicopter flourish |
-| `Fl-P` | Vertical front propellor flourish |
-| `Fl-RP` | Vertical flourish behind your back |
-| `Fl-OA` | Plum / Obi-Ani flourish |
 | `1H` | One handed |
 | `Su` | Support |
 | `Rh` | Right handed |
 | `Lh` | Left handed |
-| `Re` | Recoil / bounce back |
-| `J` | Jump — hop |
 | `0/3` | Thrust directed to target's 3 |
 | `0/3P` | Parry incoming thrust, vertical guard moving toward 3 parry |
 | `St-B` | Step back |
@@ -197,7 +186,6 @@ For the full teaching page, see [CM-A](../core/cm-a.md).
 | `Sbr` | Saber |
 | `G` | Grab |
 | `RW` | Right wrist |
-| `D` | Duck |
 | `E` | Evade |
 | `( )` | Optional 2nd move of attack or defense |
 | `Bl-` | Blend (example: `Bl-1` is blend 1) |
