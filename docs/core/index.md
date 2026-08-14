@@ -12,14 +12,6 @@ Your first movement, [CM-A](cm-a.md), is documented right here as the official b
 
 The full movement library is organized below into four tiers, each with its own page: [Core Library](core-library.md), [Extended Library](extended-library.md), [Community Library](community-library.md), and [Experimental Library](experimental-library.md).
 
-## Before You Begin CM-A
-
-CM-A sits at the end of the beginner learning path:
-
-**Start Here → Notation Overview → Targets → Attacks → Parries → CM-A**
-
-Before working through CM-A, make sure you can recognize target zones, attack notation, and parry notation from the earlier pages. CM-A assumes you have that foundation.
-
 ## How the Movement Library Is Organized
 
 The movement library is organized into four levels, so you always know how official a movement is:
