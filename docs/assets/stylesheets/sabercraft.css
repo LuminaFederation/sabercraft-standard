@@ -178,6 +178,29 @@
   color: #000000;
 }
 
+/* Diagrams that link to their own full-size image. The cursor and the lift on
+   hover are what tell a reader the thumbnail is worth clicking. */
+.md-typeset .diagram-zoom {
+  display: inline-block;
+  cursor: zoom-in;
+}
+
+.md-typeset .diagram-zoom img {
+  border-radius: 0.1rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.md-typeset .diagram-zoom:hover img,
+.md-typeset .diagram-zoom:focus-visible img {
+  transform: scale(1.03);
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.35);
+}
+
+.md-typeset .diagram-zoom:focus-visible {
+  outline: 2px solid var(--lumina-red);
+  outline-offset: 2px;
+}
+
 /* Collapsible table of contents.
    The whole right-hand panel can be hidden so the content column reclaims
    its width. Buttons are added by the script in overrides/main.html, so with

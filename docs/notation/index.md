@@ -107,9 +107,11 @@ Below is a quick overview of how the notation works and the intended target poin
 
 | | | |
 |:---:|:---:|:---:|
-| ![The first six targets](../assets/images/notation/targets-overview-1.webp){ width="200" }<br>**The 1st six targets** | ![The second four targets](../assets/images/notation/targets-overview-2.webp){ width="200" }<br>**The 2nd four targets** | ![The three deadly shots](../assets/images/notation/targets-overview-3.webp){ width="200" }<br>**The 3 deadly shots** |
+| [![The first six targets](../assets/images/notation/targets-overview-1.webp){ width="200" }](../assets/images/notation/targets-overview-1.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 1st six targets full size" }<br>**The 1st six targets** | [![The second four targets](../assets/images/notation/targets-overview-2.webp){ width="200" }](../assets/images/notation/targets-overview-2.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 2nd four targets full size" }<br>**The 2nd four targets** | [![The three deadly shots](../assets/images/notation/targets-overview-3.webp){ width="200" }](../assets/images/notation/targets-overview-3.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 3 deadly shots full size" }<br>**The 3 deadly shots** |
 
 </div>
+
+Select any diagram to open it full size in a new tab.
 
 ### Attacking
 
