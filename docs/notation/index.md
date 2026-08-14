@@ -190,6 +190,8 @@ For the full teaching page, see [CM-A](../core/cm-a.md).
 | `( )` | Optional 2nd move of attack or defense |
 | `Bl-` | Blend (example: `Bl-1` is blend 1) |
 
+For the full notation vocabulary, including spins, turns, locks, holds, and flourishes, see the [Notation Legend](legend.md).
+
 ### Next steps
 
 Moving to the next stage means becoming part of the community. This is about building groups so you can practice, learn, and grow with others.

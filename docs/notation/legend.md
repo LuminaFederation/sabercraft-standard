@@ -1,11 +1,13 @@
 # Notation Legend
 
-This page is the reference table for SaberCraft notation symbols.
+This page holds the full SaberCraft notation vocabulary. It is the reference for every notation symbol.
 
 For first-time readers, start with the six beginner lines in [Targets](targets.md), [Attacks](attacks.md), and [Parries](parries.md). The tables below include the wider twelve-line reference for notation lookup.
 
 !!! note "Reference page"
     This page is meant for lookup. Beginners do not need to memorize every symbol before practicing CM-A.
+
+Targets are named from the **attacker's perspective**, using the hours of a clock face placed on the partner.
 
 ## Beginner symbols
 
@@ -13,18 +15,18 @@ These are the first symbols most Saberists should learn.
 
 | Symbol | Meaning | Status |
 |---|---|---|
-| `1` | Attack target 1 | Beginner core |
-| `1P` | Parry target 1 | Beginner core |
-| `11` | Attack target 11 | Beginner core |
-| `11P` | Parry target 11 | Beginner core |
-| `3` | Attack target 3 | Beginner core |
-| `3P` | Parry target 3 | Beginner core |
-| `9` | Attack target 9 | Beginner core |
-| `9P` | Parry target 9 | Beginner core |
-| `5` | Attack target 5 | Beginner core |
-| `5P` | Parry target 5 | Beginner core |
-| `7` | Attack target 7 | Beginner core |
-| `7P` | Parry target 7 | Beginner core |
+| `1` | 1-o'clock attack | Beginner core |
+| `1P` | Parry an attack to the 1-o'clock target | Beginner core |
+| `11` | 11-o'clock attack | Beginner core |
+| `11P` | Parry an attack to the 11-o'clock target | Beginner core |
+| `3` | 3-o'clock attack | Beginner core |
+| `3P` | Parry an attack to the 3-o'clock target | Beginner core |
+| `9` | 9-o'clock attack | Beginner core |
+| `9P` | Parry an attack to the 9-o'clock target | Beginner core |
+| `5` | 5-o'clock attack | Beginner core |
+| `5P` | Parry an attack to the 5-o'clock target | Beginner core |
+| `7` | 7-o'clock attack | Beginner core |
+| `7P` | Parry an attack to the 7-o'clock target | Beginner core |
 
 ## Full attack reference
 
@@ -32,75 +34,117 @@ A plain number is an attack toward that target line.
 
 | Symbol | Meaning | Status |
 |---|---|---|
-| `1` | Attack target 1 | Beginner core |
-| `2` | Attack target 2 | Full reference |
-| `3` | Attack target 3 | Beginner core |
-| `4` | Attack target 4 | Full reference |
-| `5` | Attack target 5 | Beginner core |
-| `6` | Attack target 6 | Full reference |
-| `7` | Attack target 7 | Beginner core |
-| `8` | Attack target 8 | Full reference |
-| `9` | Attack target 9 | Beginner core |
-| `10` | Attack target 10 | Full reference |
-| `11` | Attack target 11 | Beginner core |
-| `12` | Attack target 12 | Full reference |
+| `1` | 1-o'clock attack | Beginner core |
+| `2` | 2-o'clock attack | Full reference |
+| `3` | 3-o'clock attack | Beginner core |
+| `4` | 4-o'clock attack | Full reference |
+| `5` | 5-o'clock attack | Beginner core |
+| `6` | 6-o'clock attack | Full reference |
+| `7` | 7-o'clock attack | Beginner core |
+| `8` | 8-o'clock attack | Full reference |
+| `9` | 9-o'clock attack | Beginner core |
+| `10` | 10-o'clock attack | Full reference |
+| `11` | 11-o'clock attack | Beginner core |
+| `12` | 12-o'clock attack | Full reference |
 
 ## Full parry reference
 
-A number followed by `P` is a parry against that target line.
+A number followed by `P` is a parry against an attack to that target.
 
 | Symbol | Meaning | Status |
 |---|---|---|
-| `1P` | Parry target 1 | Beginner core |
-| `2P` | Parry target 2 | Full reference |
-| `3P` | Parry target 3 | Beginner core |
-| `4P` | Parry target 4 | Full reference |
-| `5P` | Parry target 5 | Beginner core |
-| `6P` | Parry target 6 | Full reference |
-| `7P` | Parry target 7 | Beginner core |
-| `8P` | Parry target 8 | Full reference |
-| `9P` | Parry target 9 | Beginner core |
-| `10P` | Parry target 10 | Full reference |
-| `11P` | Parry target 11 | Beginner core |
-| `12P` | Parry target 12 | Full reference |
+| `1P` | Parry an attack to the 1-o'clock target | Beginner core |
+| `2P` | Parry an attack to the 2-o'clock target | Full reference |
+| `3P` | Parry an attack to the 3-o'clock target | Beginner core |
+| `4P` | Parry an attack to the 4-o'clock target | Full reference |
+| `5P` | Parry an attack to the 5-o'clock target | Beginner core |
+| `6P` | Parry an attack to the 6-o'clock target | Full reference |
+| `7P` | Parry an attack to the 7-o'clock target | Beginner core |
+| `8P` | Parry an attack to the 8-o'clock target | Full reference |
+| `9P` | Parry an attack to the 9-o'clock target | Beginner core |
+| `10P` | Parry an attack to the 10-o'clock target | Full reference |
+| `11P` | Parry an attack to the 11-o'clock target | Beginner core |
+| `12P` | Parry an attack to the 12-o'clock target | Full reference |
 
-## Expanded movement symbols
+## Blade and contact symbols
 
-These symbols are part of the broader SaberCraft notation vocabulary. They are reference terms, not beginner requirements.
+| Symbol | Meaning |
+|---|---|
+| `P` | Parry (block) |
+| `©` | Complete |
+| `©A` | Complete wide — vertically across |
+| `B` | Bash |
+| `X` | Lock |
+| `x` | Keep the lock into the next move |
+| `S+S` | Saber stand-off — prolonged lock |
+| `H` | Hold |
+| `Re` | Recoil / bounce back |
+| `Sbr` | Saber |
 
-| Symbol | Meaning | Status |
-|---|---|---|
-| `P` | Parry / block marker | Core notation |
-| `S CW` | Spin right / clockwise | Expanded reference |
-| `S CCW` | Spin left / counterclockwise | Expanded reference |
-| `T180-cw` | Turn 180 degrees clockwise | Expanded reference |
-| `D` | Duck | Expanded reference |
-| `Th` | Forward thrust | Expanded reference |
-| `X` | Lock | Expanded reference |
-| `S+S` | Saber stand-off / prolonged lock | Expanded reference |
-| `H` | Hold | Expanded reference |
-| `Pt` | Pitch | Expanded reference |
-| `M` | Modifier | Expanded reference |
-| `J` | Hop / jump | Expanded reference |
-| `Re` | Recoil / bounce back | Expanded reference |
-| `K` | Kick | Expanded reference |
-| `Bl` | Blend | Expanded reference |
+## Thrust symbols
+
+| Symbol | Meaning |
+|---|---|
+| `0/3` | Thrust directed to target's 3 |
+| `0/3P` | Parry incoming thrust, vertical guard moving toward 3 parry |
+
+## Body and movement symbols
+
+| Symbol | Meaning |
+|---|---|
+| `S CW` | Spin clockwise (left shoulder toward right) |
+| `S CCW` | Spin counter clockwise (right shoulder toward left) |
+| `T180-cw` | Turn 180 degrees clockwise |
+| `J` | Jump — hop |
+| `D` | Duck |
+| `E` | Evade |
+| `K` | Kick |
+| `G` | Grab |
+| `Su` | Support |
+| `RW` | Right wrist |
+
+## Grip and handedness symbols
+
+| Symbol | Meaning |
+|---|---|
+| `Ig` | Inverted grip |
+| `Pt` | Pitch |
+| `1H` | One handed |
+| `Rh` | Right handed |
+| `Lh` | Left handed |
+
+## Footwork symbols
+
+| Symbol | Meaning |
+|---|---|
+| `St-B` | Step back |
+| `St-L` | Step left |
+| `St-R` | Step right |
+| `--B` | Back |
 
 ## Flourish symbols
 
 Flourish notation describes stylized saber movement layered into choreography.
 
-| Symbol | Meaning | Status |
-|---|---|---|
-| `Fl-Rev` | Reverse flourish | Expanded reference |
-| `Fl-Fwd` | Forward flourish | Expanded reference |
-| `Fl-F8` | Forward figure-eight flourish | Expanded reference |
-| `Fl-R8` | Reverse figure-eight flourish | Expanded reference |
-| `Fl-Sb` | Saber flourish | Expanded reference |
-| `Fl-H` | Hand flourish | Expanded reference |
-| `Fl-P` | Pommel flourish | Expanded reference |
-| `Fl-RP` | Reverse pommel flourish | Expanded reference |
-| `Fl-OA` | Over-arm flourish | Expanded reference |
+| Symbol | Meaning |
+|---|---|
+| `Fl-Rev` | Reverse flourish (saber spin) |
+| `Fl-Fwd` | Forward flourish |
+| `Fl-F8` | Forward 8s flourish |
+| `Fl-R8` | Reverse 8s flourish |
+| `Fl-Sb` | Stab flourish |
+| `Fl-H` | Overhead / helicopter flourish |
+| `Fl-P` | Vertical front propellor flourish |
+| `Fl-RP` | Vertical flourish behind your back |
+| `Fl-OA` | Plum / Obi-Ani flourish |
+
+## Notation modifiers
+
+| Symbol | Meaning |
+|---|---|
+| `M` | Modifier (example: `3PM6` — parry 3 with tip pointing down at 6) |
+| `Bl-` | Blend (example: `Bl-1` is blend 1) |
+| `( )` | Optional 2nd move of attack or defense |
 
 ## Terms needing confirmation
 
@@ -109,4 +153,4 @@ The following terms have been mentioned in discussion but are not yet confirmed 
 | Term | Status | Note |
 |---|---|---|
 | Pop | Needs confirmation | Add once the official symbol and definition are confirmed |
-| Bash | Needs confirmation | Add once the official symbol and definition are confirmed |
+| `Th` | Needs confirmation | Previously listed here as "forward thrust"; thrusts are otherwise notated `0/3` |
