@@ -99,6 +99,7 @@ nav:
   - Games:
       - Overview: games/index.md
       - Rules: games/rules.md
+      - Advanced Rules: games/advanced-rules.md
       - Scoring: games/scoring.md
       - Power Plays: games/power-plays.md
   - Contribute: contributing-and-submissions.md
