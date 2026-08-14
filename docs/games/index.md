@@ -178,6 +178,16 @@ Two examples:
 | Ranking | Overall standing, taking all players into account |
 | Incomplete | A turn interrupted by the attacker or defender missing a particular movement in a CM |
 
+### Matches in play
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe src="https://www.youtube.com/embed/U4JyqjhcPvo" title="LUMINA matches" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
+</div>
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe src="https://www.youtube.com/embed/-wlSYSvZam4" title="A full LUMINA game" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
+</div>
+
 ### Usage and licensing
 
 For the terms that apply to LUMINA Games material, see [Licensing](../licensing.md).
