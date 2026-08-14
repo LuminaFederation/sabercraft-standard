@@ -78,8 +78,8 @@ Here is what those same three steps look like as attack and parry lines:
 
 | | Target 1 | Target 11 | Target 3 |
 |---|:---:|:---:|:---:|
-| **Attack** | ![Attack 1](../assets/images/notation/attack-1.png){ width="100" } | ![Attack 11](../assets/images/notation/attack-11.png){ width="100" } | ![Attack 3](../assets/images/notation/attack-3.png){ width="100" } |
-| **Parry** | ![Parry 1](../assets/images/notation/parry-1.png){ width="100" } | ![Parry 11](../assets/images/notation/parry-11.png){ width="100" } | ![Parry 3](../assets/images/notation/parry-3.png){ width="100" } |
+| **Attack** | ![Attack 1](assets/images/notation/attack-1.png){ width="100" } | ![Attack 11](assets/images/notation/attack-11.png){ width="100" } | ![Attack 3](assets/images/notation/attack-3.png){ width="100" } |
+| **Parry** | ![Parry 1](assets/images/notation/parry-1.png){ width="100" } | ![Parry 11](assets/images/notation/parry-11.png){ width="100" } | ![Parry 3](assets/images/notation/parry-3.png){ width="100" } |
 
 </div>
 
