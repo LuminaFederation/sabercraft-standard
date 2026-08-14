@@ -9,64 +9,84 @@
 {% endblock %}
 
 {#
-  Collapsible right-hand table of contents. Any TOC entry that has
-  sub-headings gets a chevron toggle and starts collapsed, so pages with
-  many headings do not produce a very long menu. Styling lives in
-  docs/assets/stylesheets/sabercraft.css.
+  Collapsible table of contents. The right-hand panel can be hidden so the
+  content column reclaims its width, and the choice is remembered across
+  pages. Styling lives in docs/assets/stylesheets/sabercraft.css.
 #}
 {% block scripts %}
   {{ super() }}
   <script>
     (function () {
-      function initCollapsibleToc() {
-        var toc = document.querySelector(".md-sidebar--secondary .md-nav--secondary");
-        if (!toc) {
+      var STORAGE_KEY = "sc-toc-hidden";
+
+      function readPreference() {
+        try {
+          return window.localStorage.getItem(STORAGE_KEY) === "1";
+        } catch (error) {
+          return false;
+        }
+      }
+
+      function writePreference(hidden) {
+        try {
+          window.localStorage.setItem(STORAGE_KEY, hidden ? "1" : "0");
+        } catch (error) {
+          /* Private browsing and blocked storage are not worth failing over. */
+        }
+      }
+
+      function button(modifier, label) {
+        var el = document.createElement("button");
+        el.type = "button";
+        el.className = "sc-toc-btn sc-toc-btn--" + modifier;
+        el.setAttribute("aria-label", label);
+        el.setAttribute("title", label);
+        el.setAttribute("aria-controls", "sc-toc-panel");
+        return el;
+      }
+
+      function initTocPanelToggle() {
+        var sidebar = document.querySelector(".md-sidebar--secondary");
+        var nav = sidebar && sidebar.querySelector(".md-nav--secondary");
+        var title = nav && nav.querySelector(":scope > .md-nav__title");
+
+        /* Pages with no headings render no list, and there is nothing to hide. */
+        if (!nav || !title || !nav.querySelector(".md-nav__link")) {
           return;
         }
 
-        toc.querySelectorAll(".md-nav__item").forEach(function (item) {
-          if (item.classList.contains("sc-toc-parent")) {
-            return;
-          }
+        sidebar.id = "sc-toc-panel";
 
-          var link = item.querySelector(":scope > .md-nav__link");
-          var children = item.querySelector(":scope > nav.md-nav");
-          if (!link || !children) {
-            return;
-          }
+        var hide = button("hide", "Hide table of contents");
+        var show = button("show", "Show table of contents");
 
-          var label = link.textContent.trim();
-          item.classList.add("sc-toc-parent", "sc-toc-collapsed");
+        function apply(hidden) {
+          document.body.classList.toggle("sc-toc-hidden", hidden);
+          hide.setAttribute("aria-expanded", hidden ? "false" : "true");
+          show.setAttribute("aria-expanded", hidden ? "false" : "true");
+        }
 
-          var toggle = document.createElement("button");
-          toggle.type = "button";
-          toggle.className = "sc-toc-toggle";
-
-          var sync = function () {
-            var collapsed = item.classList.contains("sc-toc-collapsed");
-            toggle.setAttribute("aria-expanded", collapsed ? "false" : "true");
-            toggle.setAttribute(
-              "aria-label",
-              (collapsed ? "Expand " : "Collapse ") + label + " subsections"
-            );
-          };
-
-          toggle.addEventListener("click", function (event) {
-            event.preventDefault();
-            event.stopPropagation();
-            item.classList.toggle("sc-toc-collapsed");
-            sync();
-          });
-
-          sync();
-          item.insertBefore(toggle, children);
+        hide.addEventListener("click", function () {
+          apply(true);
+          writePreference(true);
+          show.focus();
         });
+
+        show.addEventListener("click", function () {
+          apply(false);
+          writePreference(false);
+          hide.focus();
+        });
+
+        title.appendChild(hide);
+        document.body.appendChild(show);
+        apply(readPreference());
       }
 
       if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", initCollapsibleToc);
+        document.addEventListener("DOMContentLoaded", initTocPanelToggle);
       } else {
-        initCollapsibleToc();
+        initTocPanelToggle();
       }
     })();
   </script>

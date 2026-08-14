@@ -179,59 +179,92 @@
 }
 
 /* Collapsible table of contents.
-   Sections with sub-headings start collapsed so long pages keep a short
-   right-hand menu. The toggle is added by the script in overrides/main.html;
-   without JavaScript no toggle is inserted and the full list stays visible. */
-.md-sidebar--secondary .sc-toc-parent {
-  position: relative;
+   The whole right-hand panel can be hidden so the content column reclaims
+   its width. Buttons are added by the script in overrides/main.html, so with
+   JavaScript off the panel simply stays open as before.
+
+   Only applies at the width where Material actually shows the panel; below
+   that the table of contents lives in the drawer and there is nothing to
+   collapse. */
+@media screen and (min-width: 76.25em) {
+  body.sc-toc-hidden .md-sidebar--secondary {
+    display: none;
+  }
+
+  /* Put the hide button on the same row as the "Table of contents" label. */
+  .md-sidebar--secondary .md-nav--secondary > .md-nav__title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.4rem;
+  }
+
+  .sc-toc-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    border: 0;
+    border-radius: 0.2rem;
+    background: transparent;
+    color: var(--md-default-fg-color--light);
+    cursor: pointer;
+  }
+
+  .sc-toc-btn:hover {
+    color: var(--lumina-red);
+    background: var(--md-default-fg-color--lightest);
+  }
+
+  .sc-toc-btn:focus-visible {
+    outline: 2px solid var(--lumina-red);
+    outline-offset: 1px;
+  }
+
+  .sc-toc-btn::before {
+    content: "";
+    width: 0.36rem;
+    height: 0.36rem;
+    border-right: 2px solid currentcolor;
+    border-bottom: 2px solid currentcolor;
+  }
+
+  /* Hide: chevron points right, toward the edge the panel collapses to. */
+  .sc-toc-btn--hide {
+    flex: 0 0 auto;
+    width: 1.3rem;
+    height: 1.3rem;
+  }
+
+  .sc-toc-btn--hide::before {
+    transform: rotate(-45deg);
+  }
+
+  /* Show: a slim tab pinned to the right edge while the panel is hidden. */
+  .sc-toc-btn--show {
+    position: fixed;
+    top: 6.4rem;
+    right: 0;
+    z-index: 3;
+    width: 1.1rem;
+    height: 2.6rem;
+    border-radius: 0.2rem 0 0 0.2rem;
+    background: var(--md-default-fg-color--lightest);
+  }
+
+  .sc-toc-btn--show::before {
+    transform: rotate(135deg);
+  }
+
+  body:not(.sc-toc-hidden) .sc-toc-btn--show {
+    display: none;
+  }
 }
 
-.md-sidebar--secondary .sc-toc-parent > .md-nav__link {
-  padding-right: 1.4rem;
-}
-
-.md-sidebar--secondary .sc-toc-collapsed > nav.md-nav {
-  display: none;
-}
-
-.sc-toc-toggle {
-  position: absolute;
-  top: 0.1rem;
-  right: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.2rem;
-  height: 1.2rem;
-  padding: 0;
-  border: 0;
-  border-radius: 0.2rem;
-  background: transparent;
-  color: var(--md-default-fg-color--light);
-  cursor: pointer;
-}
-
-.sc-toc-toggle:hover {
-  color: var(--lumina-red);
-  background: var(--md-default-fg-color--lightest);
-}
-
-.sc-toc-toggle:focus-visible {
-  outline: 2px solid var(--lumina-red);
-  outline-offset: 1px;
-}
-
-/* Chevron: points right when collapsed, down when expanded. */
-.sc-toc-toggle::before {
-  content: "";
-  width: 0.4rem;
-  height: 0.4rem;
-  border-right: 2px solid currentcolor;
-  border-bottom: 2px solid currentcolor;
-  transform: rotate(-45deg);
-  transition: transform 0.2s;
-}
-
-.sc-toc-parent:not(.sc-toc-collapsed) > .sc-toc-toggle::before {
-  transform: rotate(45deg);
+/* Below the breakpoint there is no secondary panel, so neither button
+   should ever appear. */
+@media screen and (max-width: 76.2344em) {
+  .sc-toc-btn {
+    display: none;
+  }
 }
