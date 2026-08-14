@@ -78,12 +78,12 @@ If a target line causes confusion or unsafe distance, slow down and reset.
 ## Target diagrams
 
 <figure markdown>
-![The first six targets](../assets/images/notation/targets-overview-1.jpg)
+![The first six targets](../assets/images/notation/targets-overview-1.webp)
 <figcaption>The first six targets</figcaption>
 </figure>
 
 <figure markdown>
-![The second four targets](../assets/images/notation/targets-overview-2.jpg)
+![The second four targets](../assets/images/notation/targets-overview-2.webp)
 <figcaption>The second four targets</figcaption>
 </figure>
 
