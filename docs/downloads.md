@@ -11,14 +11,3 @@ This page will hold official versioned downloads.
 | Printable target diagrams | Planned |
 | CM notation sheets | Planned |
 | Release archive | Planned |
-
-## Release policy
-
-Each official release should include:
-
-- version number
-- release date
-- changelog
-- PDF manual
-- source link
-- archive link
