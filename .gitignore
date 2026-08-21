@@ -1,0 +1,4 @@
+# MkDocs build output. `mkdocs build` writes the rendered site here on every
+# run; the published site is built by CI (see .github/workflows/deploy.yml),
+# so this directory should never be committed.
+site/
