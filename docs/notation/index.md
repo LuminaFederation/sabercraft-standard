@@ -97,14 +97,11 @@ The beginner path uses six target lines:
 
 <div class="diagram-table" markdown>
 
-| Target | Attack | Beginner description |
-|:---:|:---:|---|
-| `1` | ![Attack 1](../assets/images/notation/attack-1.png){ width="200" } | High / upper center line |
-| `11` | ![Attack 11](../assets/images/notation/attack-11.png){ width="200" } | High opposite line |
-| `3` | ![Attack 3](../assets/images/notation/attack-3.png){ width="200" } | Side line |
-| `9` | ![Attack 9](../assets/images/notation/attack-9.png){ width="200" } | Opposite side line |
-| `5` | ![Attack 5](../assets/images/notation/attack-5.png){ width="200" } | Low line |
-| `7` | ![Attack 7](../assets/images/notation/attack-7.png){ width="200" } | Opposite low line |
+| Target | Attack | Beginner description | Target | Attack | Beginner description |
+|:---:|:---:|---|:---:|:---:|---|
+| `1` | ![Attack 1](../assets/images/notation/attack-1.png){ width="140" } | High / upper center line | `11` | ![Attack 11](../assets/images/notation/attack-11.png){ width="140" } | High opposite line |
+| `3` | ![Attack 3](../assets/images/notation/attack-3.png){ width="140" } | Side line | `9` | ![Attack 9](../assets/images/notation/attack-9.png){ width="140" } | Opposite side line |
+| `5` | ![Attack 5](../assets/images/notation/attack-5.png){ width="140" } | Low line | `7` | ![Attack 7](../assets/images/notation/attack-7.png){ width="140" } | Opposite low line |
 
 </div>
 
