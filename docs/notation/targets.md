@@ -32,14 +32,6 @@ A plain number is an attack toward that target line.
 | `11` | Attack target 11 |
 | `3` | Attack target 3 |
 
-A number followed by `P` is a parry against that target line.
-
-| Symbol | Meaning |
-|---|---|
-| `1P` | Parry target 1 |
-| `11P` | Parry target 11 |
-| `3P` | Parry target 3 |
-
 ## Target perspective
 
 Targets are read from the perspective of the choreographed exchange, not as random screen directions.
@@ -77,20 +69,15 @@ If a target line causes confusion or unsafe distance, slow down and reset.
 
 ## Target diagrams
 
-<figure markdown>
-![The first six targets](../assets/images/notation/targets-overview-1.webp)
-<figcaption>The first six targets</figcaption>
-</figure>
+<div class="diagram-table" markdown>
 
-<figure markdown>
-![The second four targets](../assets/images/notation/targets-overview-2.webp)
-<figcaption>The second four targets</figcaption>
-</figure>
+| | | |
+|:---:|:---:|:---:|
+| [![The first six targets](../assets/images/notation/targets-overview-1.webp){ width="200" }](../assets/images/notation/targets-overview-1.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 1st six targets full size" }<br>**The 1st six targets** | [![The second four targets](../assets/images/notation/targets-overview-2.webp){ width="200" }](../assets/images/notation/targets-overview-2.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 2nd four targets full size" }<br>**The 2nd four targets** | [![The three deadly shots](../assets/images/notation/targets-overview-3.webp){ width="200" }](../assets/images/notation/targets-overview-3.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 3 deadly shots full size" }<br>**The 3 deadly shots** |
 
-<figure markdown>
-![The three deadly shots](../assets/images/notation/targets-overview-3.webp)
-<figcaption>The three deadly shots</figcaption>
-</figure>
+</div>
+
+Select any diagram to open it full size in a new tab.
 
 These three diagrams are migrated from the original SaberCraft target reference material. Still not yet created:
 
