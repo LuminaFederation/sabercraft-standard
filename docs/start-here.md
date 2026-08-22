@@ -19,7 +19,15 @@ This page is the shortest safe path into the system. You do not need to understa
 </div>
 </div>
 
-## 1. Safety baseline
+## 1. Start with CM-A
+
+**CM-A** is the first core movement, and every step of it is written in SaberCraft Notation. Before you practice it, get familiar with how that notation reads.
+
+[![CM-A](assets/images/cm/cm-a.webp){ width="220" }](notation/index.md "Read the Notation Overview")
+
+Select the diagram above, or go straight to the [Notation Overview](notation/index.md).
+
+## 2. Safety baseline
 
 Before anything else, agree on safety.
 
@@ -39,7 +47,7 @@ Minimum practice rules:
 
 If the movement is not safe, it is not correct.
 
-## 2. Why use notation instead of video alone?
+## 3. Why use notation instead of video alone?
 
 ### Video is powerful. But video alone is fragile.
 
@@ -132,7 +140,7 @@ Notation can clarify attack lines, responses, timing, and structure.
 
 Notation creates historical preservation.
 
-## 3. SaberCraft is designed for portability
+## 4. SaberCraft is designed for portability
 
 SaberCraft allows choreography to move between:
 
@@ -151,7 +159,7 @@ A choreography written in SaberCraft notation can be:
 - shared digitally
 - referenced years later
 
-## 4. A shared language across schools
+## 5. A shared language across schools
 
 One of the goals of SaberCraft is interoperability.
 
@@ -167,12 +175,12 @@ while still using a shared notation language.
 
 This means choreography can become exchangeable without forcing communities to become identical.
 
-## 5. A practical example
+## 6. A practical example
 
 Imagine two schools:
 
 - SaberCraft
-- Academy A
+- NY Kendo School
 
 Each school has its own choreography library.
 
@@ -194,7 +202,7 @@ The choreography remains unique.
 
 The language becomes shared.
 
-## 6. Written choreography changes how communities grow
+## 7. Written choreography changes how communities grow
 
 Once choreography can be documented consistently, communities gain the ability to:
 
@@ -219,7 +227,7 @@ This is one of the reasons notation systems transformed:
 
 SaberCraft applies that same philosophy to choreographed saber movement.
 
-## 7. The long-term vision
+## 8. The long-term vision
 
 The standard exists to help creativity survive.
 
