@@ -69,20 +69,6 @@ Read this vertically:
 - Step 2: Saberist A attacks `11`; Saberist B parries `11P`.
 - Step 3: Saberist A attacks `3`; Saberist B parries `3P`.
 
-## Control standard
-
-A SaberCraft Standard attack should be:
-
-- intentional
-- readable
-- repeatable
-- controlled
-- safe for the partner
-
-The attack should move toward the target line and stop before contact unless a specific, safe, pre-agreed theatrical contact rule is being used.
-
-For beginner documentation, assume **no contact**.
-
 ## Common beginner mistakes
 
 | Mistake | Correction |
@@ -92,14 +78,6 @@ For beginner documentation, assume **no contact**.
 | Changing the line mid-swing | Follow the written target |
 | Moving before the partner is ready | Reset and confirm both Saberists understand the step |
 | Treating notation like sparring | Keep it choreographed and repeatable |
-
-## Attacks in CM-A
-
-CM-A uses six beginner attacks: `1`, `11`, `3`, `9`, `5`, and `7`.
-
-For the full six-step CM-A table, use the [CM-A reference page](../core/cm-a.md).
-
-Together, these teach a basic tour of the beginner target lines.
 
 ## Teaching note
 
@@ -124,9 +102,3 @@ If the answer is no, the attack is not ready to speed up.
 | ![Attack 5](../assets/images/notation/attack-5.png){ width="200" }<br>**Attack 5** | ![Attack 7](../assets/images/notation/attack-7.png){ width="200" }<br>**Attack 7** |
 
 </div>
-
-## Related pages
-
-- [Targets](targets.md)
-- [Parries](parries.md)
-- [CM-A](../core/cm-a.md)
