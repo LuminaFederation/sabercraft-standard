@@ -1,8 +1,6 @@
 # Downloads
 
-This page will hold official versioned downloads.
-
-## Planned downloads
+This page holds official versioned downloads.
 
 | Download | Status |
 |---|---|
