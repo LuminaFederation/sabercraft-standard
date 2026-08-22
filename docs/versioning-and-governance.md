@@ -10,7 +10,7 @@ To remain useful across schools, instructors, communities, and future releases, 
 - documented revisions
 - controlled updates
 - version tracking
-- clear distinction between official and experimental material
+- clear distinction between official and contributed material
 
 This page defines the current governance model for the SaberCraft Standard.
 
@@ -19,7 +19,7 @@ This page defines the current governance model for the SaberCraft Standard.
 | Version | Status | Notes |
 |---|---|---|
 | v1.0 | Historical foundation | Original assembled SaberCraft guide and system draft |
-| v2.0 | In active rewrite | Public standards-focused rewrite hosted at standard.sabercraft.org |
+| v2.0 | Active | Public standards-focused rewrite hosted at standard.sabercraft.org |
 
 ## Governance philosophy
 
@@ -59,7 +59,6 @@ Not all choreography or notation material carries the same authority level.
 | Official | Approved baseline SaberCraft standard material |
 | Extended | Official expansions beyond the beginner baseline |
 | Community | Independent or contributed material written using SaberCraft |
-| Experimental | Draft concepts, test notation, or unreviewed systems |
 
 This structure allows schools and instructors to innovate without immediately changing the official baseline.
 
