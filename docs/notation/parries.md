@@ -123,9 +123,3 @@ If the answer is no, slow down and rebuild the step.
 | ![Parry 5](../assets/images/notation/parry-5.png){ width="200" }<br>**Parry 5** | ![Parry 7](../assets/images/notation/parry-7.png){ width="200" }<br>**Parry 7** |
 
 </div>
-
-## Related pages
-
-- [Targets](targets.md)
-- [Attacks](attacks.md)
-- [CM-A](../core/cm-a.md)
