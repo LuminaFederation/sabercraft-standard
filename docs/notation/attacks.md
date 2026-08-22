@@ -9,20 +9,9 @@ In SaberCraft Notation, a plain target number means that the Saberist is perform
 
 ## Basic attack notation
 
-A plain number is an attack.
+A plain number is an attack. The number tells the reader which target line the movement is directed toward: `1` is an attack toward target 1, `11` toward target 11, and so on.
 
-| Symbol | Meaning |
-|---|---|
-| `1` | Attack target 1 |
-| `11` | Attack target 11 |
-| `3` | Attack target 3 |
-| `9` | Attack target 9 |
-| `5` | Attack target 5 |
-| `7` | Attack target 7 |
-
-The number tells the reader which target line the movement is directed toward.
-
-For the full twelve-line attack reference, use the [Notation Legend](legend.md).
+The beginner set is `1`, `11`, `3`, `9`, `5`, and `7`. For what each of those lines means and where it sits on the clock face, see [Targets](targets.md). The full twelve-line reference is in the [Notation Legend](legend.md).
 
 ## Attack versus target
 

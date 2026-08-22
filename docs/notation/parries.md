@@ -11,22 +11,9 @@ In SaberCraft Notation, a parry is written as the target number plus the letter 
 
 ## Basic parry notation
 
-A number followed by `P` is a parry.
+A number followed by `P` is a parry. The number tells the reader which target line is being received or answered, and the `P` tells them the action is a parry rather than an attack: `1P` answers an attack to target 1, `11P` answers target 11, and so on.
 
-| Symbol | Meaning |
-|---|---|
-| `1P` | Parry target 1 |
-| `11P` | Parry target 11 |
-| `3P` | Parry target 3 |
-| `9P` | Parry target 9 |
-| `5P` | Parry target 5 |
-| `7P` | Parry target 7 |
-
-The number tells the reader which target line is being received or answered.
-
-The `P` tells the reader that the action is a parry, not an attack.
-
-For the full twelve-line parry reference, use the [Notation Legend](legend.md).
+The beginner set is `1P`, `11P`, `3P`, `9P`, `5P`, and `7P` — the same six lines as the attacks, with `P` appended. For what each of those lines means, see [Targets](targets.md). The full twelve-line reference is in the [Notation Legend](legend.md).
 
 ## Parries in a two-Saberist table
 

@@ -24,11 +24,11 @@ The full notation reference is available later in the [Notation Legend](legend.m
 
 ## SaberCraft Notation System
 
-SaberCraft Notation (originally called the Temporal Notation System) is an open-source weapon combat notation system used for SaberCraft choreographies.
+SaberCraft Notation is an open-source weapon combat notation system used for SaberCraft choreographies.
 
 The system is designed entirely from the **attacker's perspective**. As movements are choreographed, the assumption is that the attacker initiates the contact, and the defender responds to counter that attack.
 
-Below is a quick overview of how the notation works and the intended target points. Once you understand that, begin learning the Choreographed Movements.
+Below is a quick overview of how the notation works and the intended target points. Once you understand that, begin learning the Choreography Movements.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/ExZQZuh7qYQ" title="Saber combat choreography for beginners, starting with CM-A" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
@@ -202,3 +202,7 @@ A notation table may not fully show:
 - camera angle or staging
 
 Use notation with instruction, rehearsal, video, or coaching when needed.
+
+## A note on the name
+
+The system carried several names during its development, including the **Temporal Notation System** and the **LUMINA Notation System**. It is now simply the **SaberCraft Notation System**, for clarity and ease of adoption. Older material may still use the earlier names; they all refer to the same notation.
