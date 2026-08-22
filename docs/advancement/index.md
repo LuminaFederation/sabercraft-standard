@@ -1,5 +1,8 @@
 # Advancement
 
+!!! note "Completely optional"
+    Advancement is an add-on, not a requirement. Any organization using the SaberCraft Standard is free to adopt it as a way to add another dimension to what it offers, and equally free to leave it aside. It has nothing to do with adopting the notation: reading, writing, and teaching SaberCraft Notation calls for no rank, sash, or program of any kind.
+
 Advancement covers the ranking and recognition programs built on top of the SaberCraft Standard.
 
 The program documented here is the **SaberCraft Knights** program, run by SaberCraft, the founding school. Knights gain rank and are recognized in any LUMINA or SaberCraft-based school or club.
@@ -47,11 +50,9 @@ Sessions are cumulative and linked to rank. A Yellow Knight who has attended 6 m
 
 ## Age requirements and disqualifications
 
-The program is open to anyone aged 16 and above with an interest in sabers, yoga, choreography, and performing. Saber combat is a delicate dance, so safety is the highest priority.
+Age requirements, and the conditions that lead to disqualification, are set by each school or club running the program rather than by the SaberCraft Standard. Saber combat is a delicate dance, so safety is the highest priority.
 
-Certain conditions can lead to disqualification from the program. See [disqualifications from the Knight program](http://sabercraft.org/index.php/2017/04/02/disqualifications-for-the-knight-program/) and [general disqualifications](http://sabercraft.org/index.php/2017/04/02/disqualifications/).
-
-Not everyone gets in, and that should not discourage you from coming to class and taking part in LUMINA. Candidates with a previous record in the incident report are disqualified by default, but may gain admission on a case-by-case basis.
+SaberCraft's own conditions are documented at [disqualifications from the Knight program](http://sabercraft.org/index.php/2017/04/02/disqualifications-for-the-knight-program/) and [general disqualifications](http://sabercraft.org/index.php/2017/04/02/disqualifications/).
 
 ## Becoming a Knight
 
@@ -61,7 +62,7 @@ Knights start by showing up to class regularly and asking to join. To join, a ca
 2. **Ask to join.** Talk to one of the Knights and mention that you are interested. After a brief interview with several Knights, they discuss it among themselves and your membership goes to a vote with those who interviewed you. A simple majority welcomes you in.
 3. **Test and pass rank 1.** The final step before you join, demonstrating that you understand the minimum number of CMs needed for recognition in a rank.
 
-Sashes are optional. Holding Knight recognition is free, and a suggested donation of $24 per rank covers the cost of a sash. Enrolling in the Knights program is not required to be part of SaberCraft; it is for those who want tokens of advancement.
+Sashes are optional. Holding Knight recognition is free, and a suggested donation of $24 per rank covers the cost of a sash. Schools and Saberists are equally free to source their own sashes and award them. Enrolling in the Knights program is not required to be part of SaberCraft; it is for those who want tokens of advancement.
 
 ## Acceptance and voting
 
@@ -74,29 +75,3 @@ Most candidates are expected to be accepted. Where a candidate is rejected, ther
 3. A group of randomly assigned Knights forms the Electors, who vote on the candidate.
 4. **If approved**, the instructors purchase the sash and schedule a presentation date, verifying the candidate will be present.
 5. **If rejected**, an instructor informs the candidate why they were not accepted for the program.
-
-## Questions
-
-**If a Knight has not paid their yearly dues, can they still wear their sash?**
-
-Yes. They simply do not advance in the program.
-
-**What happens if someone stops paying their dues?**
-
-They continue to wear their current sash but do not advance, and they do not accumulate attendance towards the sessions required for advancement.
-
-For example, a Yellow-rank Knight who does not renew and then attends 6 sessions is interested in advancing to Orange, which requires 12 months. The original 6 sessions that qualified them for Yellow count towards their current and future rank, but because they did not pay dues for the following 6 sessions, those do not qualify. Only sessions after dues are paid count towards Orange. Instructors may decide on a case-by-case basis whether previous sessions, or a percentage of them, count.
-
-**Can a Knight wear their original "legacy" sashes?**
-
-Yes. The sashes worn before this program are considered legacy sashes. They may continue to be worn, but the stripe indicating rank will no longer be updated by SaberCraft, though the fabric can be supplied. Adding the stripe is then up to the wearer.
-
-This is part of the reason for moving to kung-fu sashes: it is more convenient to buy a sash than to find a tailor to update one. On moving up in rank, a Knight is expected to wear the new sash, or an updated stripe on their legacy sash.
-
-**What happens when a Knight does not bring their sash to class?**
-
-Knights must wear a sash in class at all times. If a Knight does not have theirs, a range of coloured loaner sashes is available. If a particular colour is unavailable, a yellow loaner is provided.
-
-**Where can I see the number of classes I have attended?**
-
-See the [Knights attendance roster](http://sabercraft.org/knight-attendance/).

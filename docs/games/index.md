@@ -1,15 +1,11 @@
 # LUMINA Games
 
-LUMINA Games are the optional play/scoring format built on top of the notation and CM system.
+!!! note "Completely optional"
+    LUMINA Games are an add-on, not a requirement. Any organization using the SaberCraft Standard is free to adopt them as a way to expand what it offers, and equally free to leave them aside. Adopting the notation does not commit a school, club, or Saberist to competitive play.
 
-The standard does not require competitive play. Games are a structured way to practice recall, timing, role switching, and choreographed communication.
-
-## Sections
-
-- [Rules](rules.md)
-- [Advanced Rules](advanced-rules.md)
-
----
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe src="https://www.youtube.com/embed/tZNtXzHcCno" title="LUMINA: saber battles remixed" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
+</div>
 
 ## LUMINA: saber battles remixed
 
@@ -20,10 +16,6 @@ All attacks are communicated before an exchange using a **telegraph**: a silent 
 LUMINA is built around teamwork. Teams of Lumens work together to create the most compelling fight choreography and to out-perform the other teams. In each match, Lumens are paired with other players to battle in choreographed combat, and each player gains points every time they successfully commit or defend a sequence. The objective is to collect the highest number of points.
 
 Duets games usually end with a pair of winners. Players who compete across multiple games in a season accumulate points across those games, and the Lumen with the highest total wins the season.
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/tZNtXzHcCno" title="LUMINA: saber battles remixed" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
-</div>
 
 ### How to train for LUMINA
 
