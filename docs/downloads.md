@@ -6,8 +6,7 @@ This page will hold official versioned downloads.
 
 | Download | Status |
 |---|---|
-| SaberCraft Standard v2.0 PDF | Planned |
+| [SaberCraft Standard PDF](assets/downloads/LUMINA-A-System-of-Combat-Choreography-and-Gaming-v1.0.pdf) | Available |
 | Quick Start Guide PDF | Planned |
 | Printable target diagrams | Planned |
 | CM notation sheets | Planned |
-| Release archive | Planned |
