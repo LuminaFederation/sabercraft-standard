@@ -7,6 +7,18 @@ The SaberCraft Standard uses a clock-face model. Imagine a clock placed in front
 !!! note "Beginner idea"
     A target number does not mean "hit this body part." It means "move toward this choreographed line."
 
+## Target diagrams
+
+<div class="diagram-table" markdown>
+
+| | | |
+|:---:|:---:|:---:|
+| [![The first six targets](../assets/images/notation/targets-overview-1.webp){ width="200" }](../assets/images/notation/targets-overview-1.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 1st six targets full size" }<br>**The 1st six targets** | [![The second four targets](../assets/images/notation/targets-overview-2.webp){ width="200" }](../assets/images/notation/targets-overview-2.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 2nd four targets full size" }<br>**The 2nd four targets** | [![The three deadly shots](../assets/images/notation/targets-overview-3.webp){ width="200" }](../assets/images/notation/targets-overview-3.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 3 deadly shots full size" }<br>**The 3 deadly shots** |
+
+</div>
+
+Select any diagram to open it full size in a new tab.
+
 ## The six beginner targets
 
 The beginner target set uses six lines:
@@ -44,16 +56,6 @@ The important questions are:
 2. Which parry receives that line?
 3. Can both Saberists repeat the same movement safely?
 
-## Targets in CM-A
-
-CM-A uses all six beginner targets in sequence.
-
-For the full six-step table, use the [CM-A reference page](../core/cm-a.md). This page only introduces the target concept so new readers are not asked to learn the whole sequence in multiple places.
-
-This teaches the basic pattern:
-
-> attack line → matching parry
-
 ## Control and distance
 
 A target is not a license to strike.
@@ -66,26 +68,3 @@ In beginner practice:
 - both Saberists should understand the line before adding speed
 
 If a target line causes confusion or unsafe distance, slow down and reset.
-
-## Target diagrams
-
-<div class="diagram-table" markdown>
-
-| | | |
-|:---:|:---:|:---:|
-| [![The first six targets](../assets/images/notation/targets-overview-1.webp){ width="200" }](../assets/images/notation/targets-overview-1.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 1st six targets full size" }<br>**The 1st six targets** | [![The second four targets](../assets/images/notation/targets-overview-2.webp){ width="200" }](../assets/images/notation/targets-overview-2.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 2nd four targets full size" }<br>**The 2nd four targets** | [![The three deadly shots](../assets/images/notation/targets-overview-3.webp){ width="200" }](../assets/images/notation/targets-overview-3.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 3 deadly shots full size" }<br>**The 3 deadly shots** |
-
-</div>
-
-Select any diagram to open it full size in a new tab.
-
-These three diagrams are migrated from the original SaberCraft target reference material. Still not yet created:
-
-1. A CM-A target sequence diagram
-2. A printable beginner target sheet
-
-## Related pages
-
-- [Attacks](attacks.md)
-- [Parries](parries.md)
-- [CM-A](../core/cm-a.md)
