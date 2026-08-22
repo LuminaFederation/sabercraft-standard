@@ -2,38 +2,27 @@
 
 The SaberCraft Standard defines the public framework for documenting and teaching choreographed saber combat.
 
+!!! note "Standard vs. notation system"
+    A **notation system** helps people write movement down: "here is how to write this move."
+
+    A **standard** does more. It gives the community a public rulebook — clear definitions, examples, updates, and a way to check whether choreography is being written correctly — so a community can agree on what that writing means.
+
+    The SaberCraft Standard includes notation, but the goal is bigger: **a public, maintained, reviewable standard for choreographed saber combat.**
+
 ## Scope
 
 The standard includes:
 
 - notation grammar
 - target and parry references
-- Choreographed Movement structure
+- Choreography Movement structure
 - core movement library
 - telegraph conventions
 - optional game/rule structure
 - controlled glossary
 - licensing and attribution guidance
 
-## Standard vs. notation system
-
-A **notation system** helps people write movement down.
-
-A **standard** does more.
-
-A standard gives the community a public rulebook, clear definitions, examples, updates, and a way to check whether choreography is being written correctly.
-
-### Simple version
-
-A notation system says:
-
-> “Here is how to write this move.”
-
-A standard says:
-
-> “Here is the public reference everyone can use, learn from, question, and build on.”
-
-### Why this matters
+## Why this matters
 
 If a notation system is hard to find, locked behind old material, or depends on one instructor’s memory, groups eventually start making their own rules.
 
@@ -45,7 +34,7 @@ One school may write a move one way. Another school may write the same move diff
 
 A standard helps prevent that.
 
-### What makes a standard different?
+## What makes a standard different?
 
 | Feature | Why it matters |
 |---|---|
@@ -57,7 +46,7 @@ A standard helps prevent that.
 | Reusable | Schools can use it without joining one specific curriculum |
 | Durable | The system is meant to last |
 
-### More than attack notation
+## More than attack notation
 
 Some notation systems mainly record attack targets. They can tell you where a strike is going, but they may not describe the rest of the scene.
 
@@ -93,7 +82,7 @@ A SaberCraft sequence can include:
 
 **Attack notation tells you where the saber goes. SaberCraft is built to show what the whole choreography does.**
 
-### Why SaberCraft is different
+## Why SaberCraft is different
 
 SaberCraft is built from more than ten years of real practice.
 
@@ -105,7 +94,7 @@ That matters.
 
 SaberCraft did not come from theory alone. It came from real classes, real students, real choreography, and years of figuring out what people can actually learn, teach, remember, and perform safely.
 
-### Built for more than one fandom
+## Built for more than one fandom
 
 SaberCraft may be inspired by saber culture, but it is not limited to one franchise.
 
@@ -124,7 +113,7 @@ At its core, SaberCraft is for people who care about process.
 
 It is for instructors, performers, students, clubs, and schools that want choreography to be clear, repeatable, and teachable.
 
-### Availability is part of the standard
+## Availability is part of the standard
 
 A standard should not disappear.
 
@@ -134,7 +123,7 @@ SaberCraft is designed to be available online, with documentation, examples, FAQ
 
 That means students, teachers, and schools can use the same reference instead of guessing.
 
-### Review and governance
+## Review and governance
 
 A standard also needs a way to review choreography.
 
@@ -148,13 +137,3 @@ A future SaberCraft review council can help evaluate submitted choreography by a
 - Should it be official, extended, community, or experimental material?
 
 This helps SaberCraft stay consistent as more people use it.
-
-### Key idea
-
-A notation system helps you **write choreography**.
-
-A standard helps a community **agree on what that writing means**.
-
-SaberCraft includes notation, but the goal is bigger:
-
-**a public, maintained, reviewable standard for choreographed saber combat.**
