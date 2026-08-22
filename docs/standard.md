@@ -134,6 +134,6 @@ A future SaberCraft review council can help evaluate submitted choreography by a
 - Are the attacks and parries correct?
 - Is the sequence safe to teach?
 - Does it follow the standard?
-- Should it be official, extended, community, or experimental material?
+- Should it be official, extended, or community material?
 
 This helps SaberCraft stay consistent as more people use it.

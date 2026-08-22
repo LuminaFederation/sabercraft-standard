@@ -96,7 +96,7 @@ The shared notation makes choreography easier to read across groups, but each gr
 
 Formal review is part of the long-term vision.
 
-A future SaberCraft review council or working group may help evaluate submitted choreography for clarity, safety, notation accuracy, and whether it belongs in the official core library, an extended library, a community archive, or an experimental section.
+A future SaberCraft review council or working group may help evaluate submitted choreography for clarity, safety, notation accuracy, and whether it belongs in the official core library, an extended library, or a community archive.
 
 ## Who maintains SaberCraft?
 
