@@ -23,9 +23,6 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 | ![CM-V](../assets/images/cm/cm-v.webp){ width="140" } | **CM-V** | Vader vs. Obi-Wan (Kenobi, Ep. 3) | [Video lesson](https://sabercraft.org/3m-v-ep-3-obi-wan-vs-vader/) |
 | ![CM-W](../assets/images/cm/cm-w.webp){ width="140" } | **CM-W** | Wonder Woman vs. Antiope | [Video lesson](https://sabercraft.org/cm-w-amazon-training/) |
 
-!!! note "CM-K and CM-L"
-    Both currently point to the same video lesson on SaberCraft.org. That's carried over as-is from the source material rather than guessed at — flag it if CM-L should have its own lesson link.
-
 ## Full-fight choreographies
 
 These are complete, multi-CM performance routines rather than single movements. They're advanced material — attempt them only after the individual CMs they draw from are solid.
@@ -37,4 +34,12 @@ These are complete, multi-CM performance routines rather than single movements. 
 
 ## What's next
 
-Once you're comfortable across the Extended Library, browse the [Community Library](community-library.md) for movements contributed by other schools, or the [Experimental Library](experimental-library.md) for movements still in review.
+Once you're comfortable across the Extended Library, browse the [Community Library](community-library.md) for movements contributed by other schools.
+
+## Names and trademarks
+
+The film, character, and performer names on this page are descriptive references only. They identify which filmed sequence a given choreography interprets, in the same way a guitar tab names the song a transcription is based on.
+
+Nothing on this page claims ownership of, affiliation with, sponsorship by, or endorsement by the rights holders of those works. All film titles, character names, and related trademarks remain the property of their respective owners.
+
+What is documented here is SaberCraft's own notation for a movement sequence — an interpretation worked out, performed, and written down by Saberists. That notation is what the [Licensing](../licensing.md) terms cover. The underlying films, characters, and performances are not covered by them, and no claim is made over them.
