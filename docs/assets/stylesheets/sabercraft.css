@@ -203,6 +203,25 @@
   vertical-align: middle;
 }
 
+/* The beginner target table on the Notation overview carries two target lines
+   per row. The target number is the notation the reader is here to learn, so
+   it is set well above body-code size; the selectors mirror the theme's own
+   `table:not([class])` rule so they win on specificity. */
+.md-typeset .target-pairs table:not([class]) td:nth-child(1) code,
+.md-typeset .target-pairs table:not([class]) td:nth-child(4) code {
+  font-size: 1.6em;
+  font-weight: 700;
+  padding: 0.1em 0.4em;
+}
+
+/* A rule down the middle keeps the two halves of the row from reading as one
+   run of six columns. It sits on the fourth column, where the second set of
+   Target/Attack/Description begins. */
+.md-typeset .target-pairs table:not([class]) th:nth-child(4),
+.md-typeset .target-pairs table:not([class]) td:nth-child(4) {
+  border-left: 2px solid rgba(0, 0, 0, 0.4);
+}
+
 /* Diagrams that link to their own full-size image. The cursor and the lift on
    hover are what tell a reader the thumbnail is worth clicking. */
 .md-typeset .diagram-zoom {

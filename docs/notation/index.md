@@ -95,9 +95,9 @@ While attacking, you step forward with your attacks.
 
 The beginner path uses six target lines:
 
-<div class="diagram-table" markdown>
+<div class="diagram-table target-pairs" markdown>
 
-| Target | Attack | Beginner description | Target | Attack | Beginner description |
+| Target | Attack | Description | Target | Attack | Description |
 |:---:|:---:|---|:---:|:---:|---|
 | `1` | ![Attack 1](../assets/images/notation/attack-1.png){ width="140" } | High / upper center line | `11` | ![Attack 11](../assets/images/notation/attack-11.png){ width="140" } | High opposite line |
 | `3` | ![Attack 3](../assets/images/notation/attack-3.png){ width="140" } | Side line | `9` | ![Attack 9](../assets/images/notation/attack-9.png){ width="140" } | Opposite side line |
@@ -119,16 +119,13 @@ While defending, you step backward with your defended attack.
 
 Each attack line has a matching parry:
 
-<div class="diagram-table" markdown>
+<div class="diagram-table target-pairs" markdown>
 
-| Parry | Defense | Beginner description |
-|:---:|:---:|---|
-| `1P` | ![Parry 1](../assets/images/notation/parry-1.png){ width="200" } | High / upper center line |
-| `11P` | ![Parry 11](../assets/images/notation/parry-11.png){ width="200" } | High opposite line |
-| `3P` | ![Parry 3](../assets/images/notation/parry-3.png){ width="200" } | Side line |
-| `9P` | ![Parry 9](../assets/images/notation/parry-9.png){ width="200" } | Opposite side line |
-| `5P` | ![Parry 5](../assets/images/notation/parry-5.png){ width="200" } | Low line |
-| `7P` | ![Parry 7](../assets/images/notation/parry-7.png){ width="200" } | Opposite low line |
+| Parry | Defense | Description | Parry | Defense | Description |
+|:---:|:---:|---|:---:|:---:|---|
+| `1P` | ![Parry 1](../assets/images/notation/parry-1.png){ width="140" } | High / upper center line | `11P` | ![Parry 11](../assets/images/notation/parry-11.png){ width="140" } | High opposite line |
+| `3P` | ![Parry 3](../assets/images/notation/parry-3.png){ width="140" } | Side line | `9P` | ![Parry 9](../assets/images/notation/parry-9.png){ width="140" } | Opposite side line |
+| `5P` | ![Parry 5](../assets/images/notation/parry-5.png){ width="140" } | Low line | `7P` | ![Parry 7](../assets/images/notation/parry-7.png){ width="140" } | Opposite low line |
 
 </div>
 
