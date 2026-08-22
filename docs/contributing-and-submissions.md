@@ -51,7 +51,6 @@ Contributions may eventually fall into different categories.
 | Official | Approved baseline standard material |
 | Extended | Official expansions beyond the beginner baseline |
 | Community | Independent choreography or contributed material |
-| Experimental | Draft systems or unreviewed concepts |
 
 This structure allows experimentation without destabilizing the core notation standard.
 
@@ -59,9 +58,9 @@ This structure allows experimentation without destabilizing the core notation st
 
 A school might contribute:
 
-- AA-1 Crosswind Exchange
-- AA-2 Twin Spiral
-- AA-3 Temple Crossing
+- KS-A Crosswind Exchange
+- KS-B Twin Spiral
+- KS-C Temple Crossing
 
 These sequences could be publicly documented in SaberCraft notation while remaining part of that school’s independent choreography library.
 
@@ -89,7 +88,7 @@ As the standard matures, a future submission process may include:
 3. Terminology review
 4. Safety review
 5. Community testing
-6. Classification as Official, Extended, Community, or Experimental
+6. Classification as Official, Extended, or Community
 
 The exact process is still evolving.
 

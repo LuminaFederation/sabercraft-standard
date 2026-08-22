@@ -118,8 +118,7 @@ can remain entirely your own.
 | Group | Their choreography library | Shared notation language |
 |---|---|---|
 | SaberCraft | CM-A through CM-X | SaberCraft Standard |
-| Academy A | AA-1 through AA-20 | SaberCraft Standard |
-| Temple Group | Temple Drills | SaberCraft Standard |
+| NY Kendo School | KS-A through KS-T | SaberCraft Standard |
 | Stage Team | Performance Sets | SaberCraft Standard |
 
 In this model, the notation language is shared while the choreography libraries remain independent.
