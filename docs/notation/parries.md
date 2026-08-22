@@ -2,6 +2,8 @@
 
 A parry is a choreographed defensive response to an attack line.
 
+In casual teaching, people may say "block."
+
 In SaberCraft Notation, a parry is written as the target number plus the letter `P`.
 
 !!! note "Plain-English version"
@@ -26,34 +28,6 @@ The `P` tells the reader that the action is a parry, not an attack.
 
 For the full twelve-line parry reference, use the [Notation Legend](legend.md).
 
-## Parry versus block
-
-In casual teaching, people may say "block."
-
-In official SaberCraft Standard notation, use **parry** for the written `P` response.
-
-| Term | Use |
-|---|---|
-| Parry | Preferred official notation term |
-| Block | Informal teaching word; avoid as the main standard term |
-
-This keeps the notation clear and consistent.
-
-## Attack and parry relationship
-
-Beginner notation uses matching attack/parry pairs.
-
-| Attack | Matching parry |
-|---|---|
-| `1` | `1P` |
-| `11` | `11P` |
-| `3` | `3P` |
-| `9` | `9P` |
-| `5` | `5P` |
-| `7` | `7P` |
-
-The attack creates the line. The parry answers that line.
-
 ## Parries in a two-Saberist table
 
 In a SaberCraft Standard table, the parry appears in the step column for the Saberist performing the defensive response.
@@ -69,19 +43,6 @@ Read this vertically:
 - Step 2: Saberist A attacks `11`; Saberist B parries `11P`.
 - Step 3: Saberist A attacks `3`; Saberist B parries `3P`.
 
-## Control standard
-
-A SaberCraft Standard parry should be:
-
-- ready
-- controlled
-- readable
-- repeatable
-- safe for both Saberists
-- matched to the intended attack line
-
-The purpose of the parry is not to win a fight. The purpose is to complete the shared choreographic phrase safely and clearly.
-
 ## Common beginner mistakes
 
 | Mistake | Correction |
@@ -91,26 +52,6 @@ The purpose of the parry is not to win a fight. The purpose is to complete the s
 | Overpowering the partner | Reduce force and preserve choreography |
 | Parrying the wrong line | Slow down and match the written target |
 | Treating the parry like a real fight response | Keep it theatrical, repeatable, and safe |
-
-## Parries in CM-A
-
-CM-A uses six matching parries: `1P`, `11P`, `3P`, `9P`, `5P`, and `7P`.
-
-For the full six-step CM-A table, use the [CM-A reference page](../core/cm-a.md).
-
-Together, these teach the basic defensive response pattern for the six beginner target lines.
-
-## Teaching note
-
-When teaching parries, focus on recognition before speed.
-
-A good beginner parry should answer three questions clearly:
-
-1. Which attack line is being received?
-2. Does the parry match the written notation?
-3. Can both Saberists repeat the exchange safely?
-
-If the answer is no, slow down and rebuild the step.
 
 ## Parry diagrams
 
