@@ -14,7 +14,7 @@ hide:
 <p class="lumina-hero__subtitle">A saber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.</p>
 
 <div class="lumina-actions" markdown>
-[Start Here](start-here.md){ .lumina-button .lumina-button--primary }
+[Explore Notation](notation/index.md){ .lumina-button .lumina-button--primary }
 [Live Classes](https://sabercraft.org/classes/){ .lumina-button .lumina-button--secondary }
 </div>
 </div>
