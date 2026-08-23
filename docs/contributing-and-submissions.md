@@ -18,11 +18,14 @@ This page explains the current contribution philosophy.
 Examples of possible contributions include:
 
 - original choreography
+- CM submissions
 - notation examples
 - diagrams
 - teaching notes
 - glossary improvements
 - clarification proposals
+- corrections
+- rules feedback
 - printable resources
 - beginner teaching material
 - notation edge cases
@@ -91,6 +94,21 @@ As the standard matures, a future submission process may include:
 6. Classification as Official, Extended, or Community
 
 The exact process is still evolving.
+
+## CM submission format
+
+A proposed Choreography Movement should be submitted with the following fields.
+
+| Field | Required |
+|---|---|
+| Proposed CM name/ID | Yes |
+| Category | Yes |
+| Saberist A sequence | Yes |
+| Saberist B sequence | Yes |
+| Telegraph | Optional |
+| Lesson/purpose | Yes |
+| Safety notes | Yes |
+| Video reference | Optional |
 
 ## Attribution philosophy
 
