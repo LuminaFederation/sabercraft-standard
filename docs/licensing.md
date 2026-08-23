@@ -7,13 +7,13 @@ The SaberCraft Standard is intended to be open enough to spread, but controlled 
 This page explains what people may do with public SaberCraft Standard materials, what they must do when reusing them, and what requires written permission from Lumina Federation LLC.
 
 !!! note "Plain-language summary"
-    You may use, teach, print, and adapt public SaberCraft Standard reference materials with attribution under CC BY-SA 4.0. You may not remove attribution, rebrand the SaberCraft Standard as your own system, or imply official certification, endorsement, or affiliation without permission.
+    You may use, teach, print, and adapt public SaberCraft Standard reference materials with attribution, for non-commercial purposes, under CC BY-NC-SA 4.0. You may not sell them or use them commercially without a separate licence, remove attribution, rebrand the SaberCraft Standard as your own system, or imply official certification, endorsement, or affiliation without permission.
 
 ## Public Materials License
 
 Public-facing SaberCraft Standard reference materials are made available under:
 
-**Creative Commons Attribution-ShareAlike 4.0 International — CC BY-SA 4.0**
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International — CC BY-NC-SA 4.0**
 
 This applies to public educational materials such as:
 
@@ -25,12 +25,14 @@ This applies to public educational materials such as:
 - public instructional resources
 - public curriculum excerpts
 
-Under this license, people may use, share, print, teach from, and adapt these materials, provided they follow the attribution and ShareAlike requirements.
+Under this license, people may use, share, print, teach from, and adapt these materials for non-commercial purposes, provided they follow the attribution and ShareAlike requirements.
+
+Commercial use is not granted by this license. Selling these materials, or reusing them in a commercial product or publication, requires a separate commercial license from Lumina Federation LLC.
 
 ## What People May Do
 
 !!! warning "Adapting is not rebranding"
-    "Adapt" means adjusting terminology, examples, or formatting to fit local teaching — not printing SaberCraft Standard materials with the attribution and license notice stripped and your school's name put in their place. Adaptations must still credit the SaberCraft Standard and retain the license notice, per [What People Must Do](#what-people-must-do) below.
+    "Adapt" means adjusting terminology, examples, or formatting to fit local teaching — not printing SaberCraft Standard materials with the attribution and license notice stripped and your school's name put in their place. Adaptations must still credit the SaberCraft Standard, retain the license notice, and remain non-commercial, per [What People Must Do](#what-people-must-do) below.
 
 People, schools, clubs, chapters, and instructors may:
 
@@ -48,7 +50,8 @@ Users of public SaberCraft Standard materials must:
 - credit the SaberCraft Standard
 - retain the license notice
 - link or refer back to the official SaberCraft Standard source when practical
-- release adaptations under the same CC BY-SA 4.0 license
+- release adaptations under the same CC BY-NC-SA 4.0 license
+- keep their use non-commercial, unless granted a separate commercial license in writing by Lumina Federation LLC
 - avoid implying official certification, endorsement, or affiliation unless granted in writing by Lumina Federation LLC
 
 Suggested attribution:
@@ -58,15 +61,6 @@ Suggested attribution:
 ## What Is Not Licensed Under Creative Commons
 
 The Creative Commons license applies to public educational materials. It does **not** grant free use of brand identity, certification authority, or official endorsement language.
-
-The following remain protected brand assets and are not freely licensed under Creative Commons:
-
-- SaberCraft Standard
-- SaberCraft Notation
-- SaberCraft
-- LUMINA (LUMINA Games)
-- Lumina Federation
-- official logos
 
 ## Official Certification and Endorsement
 
@@ -92,7 +86,7 @@ Not acceptable without written permission:
 
 Use this footer on public SaberCraft Standard PDFs, worksheets, and reference sheets:
 
-> © 2026 Lumina Federation LLC. Licensed under CC BY-SA 4.0. SaberCraft Standard, SaberCraft Notation, SaberCraft, and LUMINA are trademarks of Lumina Federation LLC; use does not imply endorsement, certification, or affiliation.
+> © 2026 Lumina Federation LLC. Licensed under CC BY-NC-SA 4.0. Use does not imply endorsement, certification, or affiliation.
 
 ## Why This Approach
 
@@ -110,4 +104,4 @@ The SaberCraft Standard should be easy to adopt honestly and difficult to rebran
 
 ## Permission Requests
 
-For official certification, logo use, commercial publication, formal school affiliation, or other uses not covered by this page, contact Lumina Federation LLC through the official SaberCraft or SaberCraft Standard channels.
+For commercial use, official certification, logo use, commercial publication, formal school affiliation, or other uses not covered by this page, contact Lumina Federation LLC through the official SaberCraft or SaberCraft Standard channels.
