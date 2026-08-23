@@ -7,6 +7,9 @@ For first-time readers, start with the six beginner lines in [Targets](targets.m
 !!! note "Reference page"
     This page is meant for lookup. Beginners do not need to memorize every symbol before practicing CM-A.
 
+!!! tip "Printable one-pager"
+    The [Notation System worksheet](../assets/downloads/SaberCraft-Notation-System-CM-Core-Worksheet.pdf) puts the target diagrams, the CM-A to CM-J sequences, and their telegraphs on a single printable page.
+
 Targets are named from the **attacker's perspective**, using the hours of a clock face placed on the partner.
 
 ## Full attack reference

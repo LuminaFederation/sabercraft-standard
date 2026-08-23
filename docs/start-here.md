@@ -27,6 +27,8 @@ This page is the shortest safe path into the system. You do not need to understa
 
 Select the diagram above, or go straight to the [Notation Overview](notation/index.md).
 
+Practising away from a screen? Print the [Notation System worksheet](assets/downloads/SaberCraft-Notation-System-CM-Core-Worksheet.pdf) — one page with the target diagrams and every core sequence on it.
+
 ## 2. Safety baseline
 
 Before anything else, agree on safety.
