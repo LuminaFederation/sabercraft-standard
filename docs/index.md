@@ -33,7 +33,7 @@ The SaberCraft Standard is not just a way to write attacks. It is a public, main
 |---|---|
 | [SaberCraft Standard](standard.md) | The overall public choreography framework |
 | [SaberCraft Notation](notation/index.md) | The written movement language |
-| [SaberCraft Core](core/index.md) | Official baseline Choreography Movements |
+| [CM Library](core/index.md) | Official baseline Choreography Movements |
 | [LUMINA Games](games/index.md) | Optional game/scoring format |
 | [Glossary](glossary.md) | Controlled vocabulary for consistent teaching and documentation |
 
@@ -50,8 +50,6 @@ Schools and performance groups can adopt the notation standard without replacing
 SaberCraft is the founding school and original community where the SaberCraft Standard was developed. SaberCraft remains committed to community classes, community events, and training culture.
 
 SaberCraft's CM library represents one implementation of the SaberCraft Standard, but the notation system is designed to support choreography from other schools and communities as well.
-
-Read more at [sabercraft.org](https://sabercraft.org/).
 
 ---
 
