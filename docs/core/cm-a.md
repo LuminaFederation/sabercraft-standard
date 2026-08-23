@@ -12,6 +12,40 @@ It teaches the most basic relationship in SaberCraft Notation:
 
 CM-A should be the first paired sequence taught to new Saberists.
 
+## Notation
+
+| Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
+|---|---:|---:|---:|---:|---:|---:|
+| Saberist A | 1 | 11 | 3 | 9 | 5 | 7 |
+| Saberist B | 1P | 11P | 3P | 9P | 5P | 7P |
+
+Read each column vertically. Saberist A performs the attack listed in the top row. Saberist B performs the matching parry listed in the bottom row.
+
+A plain number is an attack toward that target line. The same number followed by `P` is the parry that receives it — so every column of CM-A is the same line answered on both sides.
+
+## Telegraph
+
+**Fist pointed out at your opponent (ASL-A).**
+
+The telegraph is the silent signal that calls CM-A before an exchange begins. See [LUMINA Games](../games/index.md) for how telegraphs are used in play.
+
+## The six target points
+
+CM-A runs on the six beginner target lines:
+
+| Target | Beginner description |
+|---:|---|
+| `1` | High / upper center line |
+| `11` | High opposite line |
+| `3` | Side line |
+| `9` | Opposite side line |
+| `5` | Low line |
+| `7` | Opposite low line |
+
+Targets are read from the perspective of the choreographed exchange. A target number does not mean "hit this body part" — it means "move toward this choreographed line."
+
+These six are enough to read and practice CM-A. Fuller explanations live in [Targets](../notation/targets.md), [Attacks](../notation/attacks.md), and [Parries](../notation/parries.md); the complete twelve-line reference is in the [Notation Legend](../notation/legend.md).
+
 ## Purpose
 
 CM-A is designed to teach:
@@ -25,39 +59,7 @@ CM-A is designed to teach:
 
 CM-A is not a performance sequence by itself. It is a foundation drill.
 
-## Prerequisites
-
-Before practicing CM-A, both Saberists should understand:
-
-- [Targets](../notation/targets.md)
-- [Attacks](../notation/attacks.md)
-- [Parries](../notation/parries.md)
-
-If either Saberist does not understand those basics, review them before practicing.
-
-## Notation
-
-| Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
-|---|---:|---:|---:|---:|---:|---:|
-| Saberist A | 1 | 11 | 3 | 9 | 5 | 7 |
-| Saberist B | 1P | 11P | 3P | 9P | 5P | 7P |
-
-## Step-by-step reading
-
-| Step | Saberist A | Saberist B |
-|---:|---|---|
-| 1 | Attack target `1` | Parry `1P` |
-| 2 | Attack target `11` | Parry `11P` |
-| 3 | Attack target `3` | Parry `3P` |
-| 4 | Attack target `9` | Parry `9P` |
-| 5 | Attack target `5` | Parry `5P` |
-| 6 | Attack target `7` | Parry `7P` |
-
-Read each column vertically. Saberist A performs the attack listed in the top row. Saberist B performs the matching parry listed in the bottom row.
-
 ## Training method
-
-Practice CM-A in three phases.
 
 ### Phase 1: Static walkthrough
 
@@ -88,32 +90,12 @@ Now Saberist B performs the attack row and Saberist A performs the parry row.
 
 Both Saberists should learn both sides of CM-A.
 
-## Completion standard
-
-CM-A is complete when:
-
-- all six steps are performed in order
-- each attack follows the written target line
-- each parry matches the written attack
-- both Saberists maintain safe distance and control
-- the sequence can be repeated without verbal correction
-
-A fast CM-A is not automatically a good CM-A.
-
-A good CM-A is clear, controlled, and repeatable.
-
 ## Teaching note
 
 CM-A should be taught as a language drill, not as a fight.
 
-The teacher’s job is to help both Saberists understand the notation, recognize the target lines, and build safe timing together.
+The teacher's job is to help both Saberists understand the notation, recognize the target lines, and build safe timing together.
 
-Once CM-A is clean, it can become the foundation for longer combinations, telegraphed calls, and more advanced movement sequences.
+A fast CM-A is not automatically a good CM-A. A good CM-A is clear, controlled, and repeatable — all six steps in order, each parry matching its written attack, performed without verbal correction.
 
-## Related pages
-
-- [Start Here](../start-here.md)
-- [Notation Overview](../notation/index.md)
-- [Targets](../notation/targets.md)
-- [Attacks](../notation/attacks.md)
-- [Parries](../notation/parries.md)
+When CM-A is clean, continue to **[CM-B](cm-b.md)**, which takes the same attack-and-parry relationship into the four angle target points.
