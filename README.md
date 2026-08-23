@@ -1,4 +1,4 @@
-# SaberCraft Standard
+# The Saber Standard
 
 This repository contains the source files for the public SaberCraft Standard website.
 
