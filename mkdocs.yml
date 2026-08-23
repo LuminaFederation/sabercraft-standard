@@ -92,6 +92,7 @@ nav:
       - Core Library: core/core-library.md
       - Extended Library: core/extended-library.md
       - Community Library: core/community-library.md
+      - CM Catalog: core/cm-catalog.md
   - Games:
       - Overview: games/index.md
       - Rules: games/rules.md
