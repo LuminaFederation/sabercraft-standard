@@ -34,7 +34,8 @@ These terms were settled by formal architecture decisions. Never rename, "correc
 - All pages under `docs/` are **student-facing**. No internal planning notes, steward commentary, TODO language, or "we will eventually" phrasing in published pages.
 - Tone: clear, welcoming, instructional. Assume the reader is a new Saberist unless the page states otherwise.
 - Do not invent mechanics, CM codes, terminology, or rules. If documentation is ambiguous or missing, stop and ask in the issue/PR rather than filling gaps.
-- Licensing: the approved model is **CC BY-NC-SA** — non-commercial reuse only — plus a separate commercial license granted in writing by Lumina Federation LLC. **Copyright is the guardrail: Lumina Federation LLC holds no trademark, so never describe any name or mark as a trademark, or add trademark notices.** Do not restate licensing terms on other pages; link to `licensing.md`.
+- Licensing: public materials are **CC BY-NC-SA 4.0** — attribution, non-commercial, share-alike — as stated on `licensing.md`. Commercial use is not granted and requires a separate written license from Lumina Federation LLC; `licensing.md` ends with Permission Requests as the route for that. Do not restate licensing terms on other pages; link to `licensing.md`.
+- **Copyright, not trademark, is the guardrail. Lumina Federation LLC holds no trademark.** Never call SaberCraft, SaberCraft Standard, SaberCraft Notation, LUMINA, or Lumina Federation a trademark, and never add ™/® or a trademark notice to them. This does not affect third-party marks: the "Names and trademarks" disclaimer on `core/extended-library.md` correctly notes that film and character names belong to their owners, and should stay.
 
 ## Governance
 
