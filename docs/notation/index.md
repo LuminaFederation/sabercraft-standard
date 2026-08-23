@@ -24,7 +24,13 @@ The full notation reference is available later in the [Notation Legend](legend.m
 
 SaberCraft Notation is an open-source weapon combat notation system used for SaberCraft choreographies.
 
-The system is designed entirely from the **attacker's perspective**. As movements are choreographed, the assumption is that the attacker initiates the contact, and the defender responds to counter that attack.
+Target numbers are named from the **attacker's perspective**: the clock face sits on the partner, and the number is read from the attacking side. That is a rule about naming lines, and it is the only place the attacker's view is privileged.
+
+The system itself is written for both Saberists. Every movement is notated as two rows of equal standing — each Saberist has their own line, and either may attack or defend at any step. Notation that records only the attacking line can express one thing: a run of attacks answered in turn, one person acting and the other reacting for the whole sequence. That is a monologue, and on the floor it looks staged.
+
+SaberCraft Notation is built to write a duel as a **dialogue**, where the initiative passes back and forth the way it does in a real exchange. That is what makes it a language rather than a list of targets. [CM-D](../core/cm-d.md) is where a Saberist first meets it directly: the attack changes hands mid-sequence, and both rows are active.
+
+It is also meant to be built with. The choreography is not the standard — the notation language is. Saberists, schools, and clubs use it to write, teach, and share choreography of their own, not only to reproduce SaberCraft's.
 
 Below is a quick overview of how the notation works and the intended target points. Once you understand that, begin learning the Choreography Movements.
 

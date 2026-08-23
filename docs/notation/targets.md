@@ -46,7 +46,7 @@ A plain number is an attack toward that target line.
 
 ## Target perspective
 
-Targets are read from the perspective of the choreographed exchange, not as random screen directions.
+Targets are named from the attacker's perspective: the clock face sits on the partner, and the number is read from the attacking side. They are not screen directions.
 
 When learning, do not overthink camera angle, audience angle, or left/right naming. Start with the shared clock-face idea between the two Saberists.
 

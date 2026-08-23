@@ -42,7 +42,7 @@ CM-A runs on the six beginner target lines:
 | `5` | Low line |
 | `7` | Opposite low line |
 
-Targets are read from the perspective of the choreographed exchange. A target number does not mean "hit this body part" — it means "move toward this choreographed line."
+Targets are named from the attacker's perspective: the clock face sits on the partner, and the number is read from the attacking side. A target number does not mean "hit this body part" — it means "move toward this choreographed line."
 
 These six are enough to read and practice CM-A. Fuller explanations live in [Targets](../notation/targets.md), [Attacks](../notation/attacks.md), and [Parries](../notation/parries.md); the complete twelve-line reference is in the [Notation Legend](../notation/legend.md).
 

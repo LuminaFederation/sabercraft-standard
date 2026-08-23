@@ -4,6 +4,8 @@ The Core Library is the official beginner foundation of the SaberCraft Standard:
 
 Work down the table in order. CM-C is taught in two parts: its completes must be understood before the full sequence can be performed.
 
+CM-D is the threshold in this sequence, not simply the next item. Through CM-A to CM-C one Saberist attacks and the other defends from start to finish, so a student reads one active row and one answering it. From CM-D the attack changes hands mid-sequence and both rows are active — the point at which the notation starts describing a dialogue rather than a run of attacks. Expect it to take longer than the movements before it.
+
 | Preview | Movement | Focus | Reference |
 |---|---|---|---|
 | ![CM-A](../assets/images/cm/cm-a.webp){ width="140" } | **[CM-A](cm-a.md)** | The 1st target points & the basic attack/parry relationship | Full written notation on this site |
