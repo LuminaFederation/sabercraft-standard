@@ -1,8 +1,6 @@
 # SaberCraft Notation
 
-SaberCraft Notation is the written movement language of the SaberCraft Standard.
-
-It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
+SaberCraft Notation is the written movement language of the SaberCraft Standard. It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
 
 ## What to learn first
 

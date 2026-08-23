@@ -64,6 +64,8 @@ SaberCraft is designed to capture the full choreographic exchange.
 
 A SaberCraft sequence can include:
 
+<div class="column-list" markdown>
+
 - attacks
 - parries
 - defensive responses
@@ -79,6 +81,8 @@ A SaberCraft sequence can include:
 - flourishes
 - transitions
 - timing between performers
+
+</div>
 
 **Attack notation tells you where the saber goes. SaberCraft is built to show what the whole choreography does.**
 
@@ -122,18 +126,3 @@ It should not depend on unavailable videos, private notes, or one person’s mem
 SaberCraft is designed to be available online, with documentation, examples, FAQs, updates, and public ways to ask questions.
 
 That means students, teachers, and schools can use the same reference instead of guessing.
-
-## Review and governance
-
-A standard also needs a way to review choreography.
-
-A future SaberCraft review council can help evaluate submitted choreography by asking:
-
-- Is the notation readable?
-- Are the roles clear?
-- Are the attacks and parries correct?
-- Is the sequence safe to teach?
-- Does it follow the standard?
-- Should it be official, extended, or community material?
-
-This helps SaberCraft stay consistent as more people use it.

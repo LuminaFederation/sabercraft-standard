@@ -403,3 +403,22 @@
   font-weight: 700;
   white-space: nowrap;
 }
+
+/* Long, flat lists of one-word items read as a wall of bullets and stretch a
+   page out. This flows them into three columns, dropping to two on phones so
+   the tracks never get too narrow to read. */
+.md-typeset .column-list ul {
+  column-count: 3;
+  column-gap: 2rem;
+}
+
+.md-typeset .column-list li {
+  margin-top: 0;
+  break-inside: avoid;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .column-list ul {
+    column-count: 2;
+  }
+}
