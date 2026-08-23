@@ -5,6 +5,8 @@ hide:
 ---
 
 <div class="lumina-hero" markdown>
+<video class="lumina-hero__video" muted loop playsinline preload="none" poster="assets/images/hero-poster.webp" data-src="assets/video/sabercraft-opening.mp4" aria-hidden="true" tabindex="-1"></video>
+<div class="lumina-hero__scrim" aria-hidden="true"></div>
 <p class="lumina-hero__eyebrow">Built for every school</p>
 
 # SaberCraft Standard
@@ -13,7 +15,7 @@ hide:
 
 <div class="lumina-actions" markdown>
 [Start Here](start-here.md){ .lumina-button .lumina-button--primary }
-[Explore Notation](notation/index.md){ .lumina-button .lumina-button--secondary }
+[Live Classes](https://sabercraft.org/classes/){ .lumina-button .lumina-button--secondary }
 </div>
 </div>
 

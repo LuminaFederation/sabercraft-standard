@@ -41,6 +41,9 @@ theme:
 extra_css:
   - assets/stylesheets/sabercraft.css
 
+extra_javascript:
+  - assets/javascripts/hero-video.js
+
 # mkdocs serve watches docs/ and mkdocs.yml by default; add the theme
 # overrides so template edits also trigger a live reload.
 watch:

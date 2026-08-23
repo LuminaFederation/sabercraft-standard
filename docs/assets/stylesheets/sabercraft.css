@@ -107,6 +107,52 @@
   box-shadow: 0 0 18px rgba(229,57,53,0.85);
 }
 
+/* Background clip behind the hero. The hero already sets position: relative
+   and overflow: hidden, so the video only needs to fill it. It sits above the
+   hero's own gradient (an element background paints behind its children), so
+   the scrim above it is what keeps the headline readable. */
+/* Scoped under .md-typeset to outrank the theme's own
+   `.md-typeset img, .md-typeset svg, .md-typeset video { height: auto }`,
+   which otherwise collapses the clip back to its 16:9 intrinsic height
+   instead of letting it fill the hero. */
+.md-typeset .lumina-hero__video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.lumina-hero__scrim {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(115deg, rgba(5,6,10,0.88) 0%, rgba(12,14,22,0.66) 50%, rgba(5,6,10,0.88) 100%),
+    radial-gradient(circle at 25% 35%, rgba(229,57,53,0.28), transparent 18rem),
+    radial-gradient(circle at 75% 35%, rgba(66,165,245,0.26), transparent 18rem);
+}
+
+/* Lift the hero's own content clear of the video and its scrim. */
+.lumina-hero > .lumina-hero__eyebrow,
+.lumina-hero > h1,
+.lumina-hero > .lumina-hero__subtitle,
+.lumina-hero > .lumina-actions {
+  position: relative;
+  z-index: 2;
+}
+
+/* Readers who ask for less motion get the still first frame. */
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .lumina-hero__video {
+    display: none;
+  }
+}
+
 .lumina-hero__eyebrow {
   position: relative;
   z-index: 1;
