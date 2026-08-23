@@ -4,9 +4,21 @@
   <iframe src="https://www.youtube.com/embed/fFMvmpVAlgU" title="CM-B demonstration" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
 </div>
 
+<div style="display:flex;flex-wrap:wrap;gap:1.5rem;align-items:center;margin:1.5rem 0;" markdown>
+
+<div style="flex:0 0 200px;max-width:100%;" markdown>
+[![The four angle targets](../assets/images/notation/targets-overview-2.webp){ width="200" }](../assets/images/notation/targets-overview-2.webp){ .diagram-zoom target="_blank" rel="noopener" title="View the 2nd four targets full size" }
+</div>
+
+<div style="flex:1 1 16rem;" markdown>
 CM-B is the second core movement in the SaberCraft Standard: **angle attacks on targets 2, 10, 4, and 8**.
 
 Where [CM-A](cm-a.md) works the upright lines, CM-B moves the exchange into the corners — the shoulder and hip angles.
+
+The diagram shows those four points highlighted. Select it to open it full size in a new tab.
+</div>
+
+</div>
 
 ## Notation
 
@@ -89,3 +101,5 @@ CM-B should be taught as a language drill, not as a fight.
 Angle attacks travel further than upright ones, so distance discipline matters more here than in CM-A. Reset the pair rather than letting a wide angle close the gap.
 
 Once CM-B is clean, both Saberists have ten of the twelve target lines available, and longer combinations can be written that move freely between upright and angled attacks.
+
+When CM-B is clean, continue to **[CM-C Part 1](cm-c-part-1.md)**, which introduces swings that carry through instead of stopping.

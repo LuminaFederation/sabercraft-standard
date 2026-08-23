@@ -10,8 +10,8 @@ Work down the table in order. CM-C is taught in two parts: its completes must be
 | ![CM-B](../assets/images/cm/cm-b.webp){ width="140" } | **[CM-B](cm-b.md)** | Corners — shoulder and hip angle attacks | Full written notation on this site |
 | ![CM-C Part 1](../assets/images/cm/cm-c.webp){ width="140" } | **[CM-C — Part 1](cm-c-part-1.md)** | Completes and complete-across — swings that carry through instead of stopping | Full written notation on this site |
 | ![CM-C Part 2](../assets/images/cm/cm-c-part-2.webp){ width="140" } | **[CM-C — Part 2](cm-c-part-2.md)** | The full CM-C sequence, plus parry modifiers. Learn Part 1 first | Full written notation on this site |
-| ![CM-D](../assets/images/cm/cm-d.webp){ width="140" } | **CM-D** | Switching between attacker and defender roles | [Lesson](https://sabercraft.org/dynamic-combat/) · [Switching between Roles](https://sabercraft.org/cm-d-dynamic-combat/) |
-| ![CM-E](../assets/images/cm/cm-e.webp){ width="140" } | **CM-E** | Special moves and counters | [Video lesson](https://sabercraft.org/cm-e-special-moves/) |
+| ![CM-D](../assets/images/cm/cm-d.webp){ width="140" } | **[CM-D](cm-d.md)** | Switching between attacker and defender roles | Full written notation on this site |
+| ![CM-E](../assets/images/cm/cm-e.webp){ width="140" } | **[CM-E](cm-e.md)** | Special moves and counters | Full written notation on this site |
 
 ## What's next
 

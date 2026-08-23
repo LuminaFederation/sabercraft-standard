@@ -87,3 +87,5 @@ CM-C should be taught as a language drill, not as a fight.
 The safety change from CM-A and CM-B is real: a complete does not stop, so the defender's evasion is the only thing that clears the blade. Neither Saberist should attempt steps 7 through 10 at speed until both can perform them slowly, in the right order, without discussion.
 
 If a pair struggles with the second half, the problem is usually Part 1 rather than this sequence. Send them back to [completes](cm-c-part-1.md) and return when `5` and `5©` read as different instructions.
+
+When CM-C is clean, continue to **[CM-D](cm-d.md)**, where the attack starts changing hands.
