@@ -137,7 +137,7 @@ The long-term goal is to help choreography communities preserve and exchange mov
 
 ## Learn more
 
-- Print the [Notation System worksheet](assets/downloads/SaberCraft-Notation-System-CM-Core-Worksheet.pdf) — one page holding the target diagrams, the CM-A to CM-J sequences, and their telegraphs. This is the sheet to put in front of a group taking the system up.
+- Print the [Quick Start Guide](assets/downloads/SaberCraft-Notation-System-CM-Core-Worksheet.pdf) — one page holding the target diagrams, the CM-A to CM-J sequences, and their telegraphs. This is the sheet to put in front of a group taking the system up.
 - Start with the [Notation Overview](notation/index.md)
 - Review the [Targets](notation/targets.md)
 - Explore the [Core Movement Library](core/index.md)
