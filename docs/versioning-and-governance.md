@@ -19,7 +19,9 @@ This page defines the current governance model for the SaberCraft Standard.
 | Version | Status | Notes |
 |---|---|---|
 | v1.0 | Historical foundation | Original assembled SaberCraft guide and system draft |
-| v2.0 | Active | Public standards-focused rewrite hosted at standard.sabercraft.org |
+| v2.0 | Active | Current public standard, hosted at standard.sabercraft.org |
+
+v2.0 is a finished, stable release. Saberists, instructors, and schools can teach and notate from it today; it is not a draft in progress.
 
 ## Governance philosophy
 
