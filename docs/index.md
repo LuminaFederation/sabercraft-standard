@@ -14,7 +14,6 @@ hide:
 <div class="lumina-actions" markdown>
 [Start Here](start-here.md){ .lumina-button .lumina-button--primary }
 [Explore Notation](notation/index.md){ .lumina-button .lumina-button--secondary }
-[Learn with SaberCraft](https://sabercraft.org/){ .lumina-button .lumina-button--secondary }
 </div>
 </div>
 
