@@ -11,7 +11,7 @@ These terms were settled by formal architecture decisions. Never rename, "correc
 - **Lumina Federation LLC** — the legal entity. Never alter, rebrand, or expand this name.
 - **Saberist** — the general term for any practitioner of the SaberCraft Standard. Use this everywhere a practitioner is referenced.
 - **Lumen / Lumens** — refers ONLY to players within LUMINA Games. Never use it as a general practitioner term.
-- **CM** — short for **Choreography Movement**. Movements are identified by CM codes (CM-A, CM-B, ...). Overview pages use the public-facing heading "Core Movements." New students are directed to CM-A through CM-E first; the full catalog lives at https://sabercraft.org/cm-series-catalog/.
+- **CM** — short for **Choreography Movement**. Movements are identified by CM codes (CM-A, CM-B, ...). The overview page at `docs/core/index.md` uses the public-facing heading "Choreography Movements (CM)", and the nav group is labelled "Choreographies". New students are directed to CM-A through CM-E first; the full catalog lives at https://sabercraft.org/cm-series-catalog/.
 - **SaberCraft** (alone) — the founding school and community at https://sabercraft.org. When contrasting the framework with the school, write "the SaberCraft Standard" for the framework, never bare "SaberCraft." Pages such as `faq.md`, `for-schools.md`, and `standard.md` deliberately contrast the two — do not "deduplicate" them.
 
 ## Technical exceptions

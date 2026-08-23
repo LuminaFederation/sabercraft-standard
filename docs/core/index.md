@@ -1,6 +1,6 @@
-# Core Movements
+# Choreography Movements (CM)
 
-Core Movements are reusable choreography blocks. Each movement is a short, repeatable sequence that can be taught, practiced, written in notation, combined with other movements, and performed the same way by Saberists anywhere.
+Choreography Movements are reusable sequences of saber duels. Each movement is a short, repeatable sequence that can be taught, practiced, written in notation, combined with other movements, and performed the same way by Saberists anywhere.
 
 Each movement is identified by a **CM code**, such as CM-A or CM-B. "CM" is short for **Choreography Movement** — the original name for these building blocks.
 

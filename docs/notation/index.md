@@ -175,7 +175,7 @@ These are a sample. The [Notation Legend](legend.md) holds the full vocabulary.
 
 Moving to the next stage means becoming part of the community. This is about building groups so you can practice, learn, and grow with others.
 
-As a Saberist, you learn the system, memorize the Core Movements, then build your own choreographies and a community to share them with.
+As a Saberist, you learn the system, memorize the Choreography Movements, then build your own choreographies and a community to share them with.
 
 - Continue to the next lesson: [CM-B](../core/core-library.md)
 - Browse the full catalog at the [CM Series Catalog](https://sabercraft.org/cm-series-catalog/)
