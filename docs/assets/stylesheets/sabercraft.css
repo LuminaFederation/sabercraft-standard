@@ -124,6 +124,7 @@
   object-fit: cover;
   z-index: 0;
   pointer-events: none;
+  filter: brightness(1.12) saturate(1.04);
 }
 
 .lumina-hero__scrim {
@@ -132,9 +133,9 @@
   z-index: 1;
   pointer-events: none;
   background:
-    linear-gradient(115deg, rgba(5,6,10,0.88) 0%, rgba(12,14,22,0.66) 50%, rgba(5,6,10,0.88) 100%),
-    radial-gradient(circle at 25% 35%, rgba(229,57,53,0.28), transparent 18rem),
-    radial-gradient(circle at 75% 35%, rgba(66,165,245,0.26), transparent 18rem);
+    linear-gradient(115deg, rgba(5,6,10,0.74) 0%, rgba(12,14,22,0.48) 50%, rgba(5,6,10,0.74) 100%),
+    radial-gradient(circle at 25% 35%, rgba(229,57,53,0.22), transparent 18rem),
+    radial-gradient(circle at 75% 35%, rgba(66,165,245,0.20), transparent 18rem);
 }
 
 /* Lift the hero's own content clear of the video and its scrim. */
@@ -173,6 +174,16 @@
   line-height: 0.95;
   text-transform: uppercase;
   text-shadow: 0 0 24px rgba(229,57,53,0.35), 0 0 34px rgba(66,165,245,0.28);
+}
+
+/* The leading article rides above the headline as a small kicker. */
+.lumina-hero__article {
+  display: block;
+  font-size: 0.3em;
+  line-height: 1.1;
+  letter-spacing: 0.18em;
+  font-weight: 800;
+  opacity: 0.9;
 }
 
 .lumina-hero__subtitle {

@@ -9,7 +9,7 @@ hide:
 <div class="lumina-hero__scrim" aria-hidden="true"></div>
 <p class="lumina-hero__eyebrow">Built for every school</p>
 
-# SaberCraft Standard
+# <span class="lumina-hero__article">The</span> Saber Standard
 
 <p class="lumina-hero__subtitle">A saber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.</p>
 
