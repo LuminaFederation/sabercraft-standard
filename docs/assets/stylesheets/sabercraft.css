@@ -393,6 +393,104 @@
   }
 }
 
+/* Reader-controlled text size.
+   Everything Material sizes -- body copy, headings, tables, admonitions and
+   the navigation -- is expressed in rem, so stepping the root font size
+   scales the whole page in proportion rather than leaving the parts the
+   theme sets in fixed rem behind. The multiplier is written to <html> by
+   docs/assets/javascripts/font-size.js; with JavaScript off it stays 1 and
+   these rules reproduce the theme's own sizes exactly.
+
+   Breakpoints are unaffected: em in a media query resolves against the
+   browser default rather than this rule, so the layout never flips between
+   its phone and desktop forms as the reader steps the size up. */
+:root {
+  --sc-font-scale: 1;
+}
+
+html {
+  font-size: calc(125% * var(--sc-font-scale));
+}
+
+/* Mirrors the theme's own wide-screen step-up, which the rule above would
+   otherwise cancel by loading later. */
+@media screen and (min-width: 100em) {
+  html {
+    font-size: calc(137.5% * var(--sc-font-scale));
+  }
+}
+
+/* The control itself: a pair of buttons in the header, added by the script
+   so that with JavaScript off nothing appears to click. */
+.sc-fontsize {
+  display: flex;
+  align-items: center;
+  gap: 0.1rem;
+  margin-left: 0.2rem;
+}
+
+.sc-fontsize__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0.2rem;
+  background: transparent;
+  color: var(--md-primary-bg-color);
+  font-family: inherit;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color 0.25s, opacity 0.25s;
+}
+
+/* The two glyphs are the same letter at different sizes, which reads as
+   "smaller" and "larger" without needing a label. */
+.sc-fontsize__btn--down {
+  font-size: 0.62rem;
+}
+
+.sc-fontsize__btn--up {
+  font-size: 0.92rem;
+}
+
+.sc-fontsize__btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.sc-fontsize__btn:focus-visible {
+  outline: 2px solid var(--lumina-red);
+  outline-offset: 1px;
+}
+
+/* At either end of the range the button stays focusable and keeps its place
+   in the header; it simply has nothing left to do. */
+.sc-fontsize__btn[aria-disabled="true"] {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.sc-fontsize__btn[aria-disabled="true"]:hover {
+  background: transparent;
+}
+
+/* Announces the new size to screen readers; sighted readers see the change
+   itself. */
+.sc-fontsize__status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
 /* Knight sash table. Each row carries a tint and a left bar in its own sash
    colour. The colours follow the row order of the table on the Advancement
    page: white, yellow, orange, indigo, green, red. Reordering the rows means

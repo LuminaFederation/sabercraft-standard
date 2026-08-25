@@ -6,6 +6,28 @@
 #}
 {% block extrahead %}
   <meta name="robots" content="noindex, nofollow">
+
+  {#
+    Reader-controlled text size. The size chosen on a previous page is applied
+    here, in the head, so the page never paints at one size and then jumps to
+    another. The buttons that set it are added by
+    docs/assets/javascripts/font-size.js, which reads and writes this same key.
+  #}
+  <script>
+    (function () {
+      try {
+        /* Anything outside the range the buttons offer is ignored: an
+           unparseable value would otherwise make the calc() invalid and drop
+           the page to the browser's default size. */
+        var scale = parseFloat(window.localStorage.getItem("sc-font-scale"));
+        if (scale >= 1 && scale <= 1.5) {
+          document.documentElement.style.setProperty("--sc-font-scale", scale);
+        }
+      } catch (error) {
+        /* Private browsing and blocked storage are not worth failing over. */
+      }
+    })();
+  </script>
 {% endblock %}
 
 {#
