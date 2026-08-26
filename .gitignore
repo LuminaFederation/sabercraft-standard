@@ -2,3 +2,7 @@
 # run; the published site is built by CI (see .github/workflows/deploy.yml),
 # so this directory should never be committed.
 site/
+
+# Machine-specific Claude Code settings. The shared launch.json config is
+# committed; this file records local tool permissions and should not be.
+.claude/settings.local.json
