@@ -1,6 +1,6 @@
-# SaberCraft Notation
+# Saber Standard Notation
 
-SaberCraft Notation is the written movement language of the SaberCraft Standard. It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
+Saber Standard Notation is the written movement language of the Saber Standard. It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
 
 ## What to learn first
 
@@ -14,21 +14,21 @@ Start with the beginner core:
 4. the two-Saberist table format
 5. CM-A, the first core movement
 
-That is enough to read and practice your first SaberCraft Standard sequence.
+That is enough to read and practice your first Saber Standard sequence.
 
 The full notation reference is available later in the [Notation Legend](legend.md).
 
 ---
 
-## SaberCraft Notation System
+## Saber Standard Notation System
 
-SaberCraft Notation is an open-source weapon combat notation system used for SaberCraft choreographies.
+Saber Standard Notation is an open-source weapon combat notation system used for SaberCraft choreographies.
 
 Target numbers are named from the **attacker's perspective**: the clock face sits on the partner, and the number is read from the attacking side. That is a rule about naming lines, and it is the only place the attacker's view is privileged.
 
 The system itself is written for both Saberists. Every movement is notated as two rows of equal standing — each Saberist has their own line, and either may attack or defend at any step. Notation that records only the attacking line can express one thing: a run of attacks answered in turn, one person acting and the other reacting for the whole sequence. That is a monologue, and on the floor it looks staged.
 
-SaberCraft Notation is built to write a duel as a **dialogue**, where the initiative passes back and forth the way it does in a real exchange. That is what makes it a language rather than a list of targets. [CM-D](../core/cm-d.md) is where a Saberist first meets it directly: the attack changes hands mid-sequence, and both rows are active.
+Saber Standard Notation is built to write a duel as a **dialogue**, where the initiative passes back and forth the way it does in a real exchange. That is what makes it a language rather than a list of targets. [CM-D](../core/cm-d.md) is where a Saberist first meets it directly: the attack changes hands mid-sequence, and both rows are active.
 
 It is also meant to be built with. The choreography is not the standard — the notation language is. Saberists, schools, and clubs use it to write, teach, and share choreography of their own, not only to reproduce SaberCraft's.
 
@@ -52,7 +52,7 @@ Select any diagram to open it full size in a new tab.
 
 ### Attacks and parries
 
-The simplest SaberCraft Standard notation uses numbers and the letter `P`.
+The simplest Saber Standard notation uses numbers and the letter `P`.
 
 <div class="grid" markdown>
 
@@ -70,7 +70,7 @@ The simplest SaberCraft Standard notation uses numbers and the letter `P`.
 
 ### The two-Saberist table
 
-Most beginner SaberCraft Standard sequences are written as a two-row table.
+Most beginner Saber Standard sequences are written as a two-row table.
 
 One row belongs to each Saberist. Each column is one step in the choreography.
 
@@ -93,7 +93,7 @@ Picture a clock and place your partner in the middle of that clock. When attacki
 
 When you attack a `1`, you are swinging the saber so the tip reaches the 1-o'clock mark, which is around the left side of your partner's head.
 
-In the SaberCraft Standard there is no actual contact, so the saber comes to within six inches of the target and stops there. The key to attacking is controlling your saber so it arrives firmly and accurately at the target point.
+In the Saber Standard there is no actual contact, so the saber comes to within six inches of the target and stops there. The key to attacking is controlling your saber so it arrives firmly and accurately at the target point.
 
 While attacking, you step forward with your attacks.
 
@@ -159,7 +159,7 @@ For the full teaching page, see [CM-A](../core/cm-a.md).
 
 ### Beyond attacks and parries
 
-Attacks and parries are only the beginning. SaberCraft Notation also records blade contact, body movement, grip, footwork, and flourishes, so a written sequence can describe a whole exchange rather than just where the saber goes.
+Attacks and parries are only the beginning. Saber Standard Notation also records blade contact, body movement, grip, footwork, and flourishes, so a written sequence can describe a whole exchange rather than just where the saber goes.
 
 A few examples:
 
@@ -187,7 +187,7 @@ As a Saberist, you learn the system, memorize the Choreography Movements, then b
 
 ### Usage for other organizations
 
-Other schools, clubs, and performance groups are welcome to use SaberCraft Notation and publish their contributions back to the community.
+Other schools, clubs, and performance groups are welcome to use Saber Standard Notation and publish their contributions back to the community.
 
 For the terms that apply, see [Licensing](../licensing.md).
 
@@ -209,4 +209,4 @@ Use notation with instruction, rehearsal, video, or coaching when needed.
 
 ## A note on the name
 
-The system carried several names during its development, including the **Temporal Notation System** and the **LUMINA Notation System**. It is now simply the **SaberCraft Notation System**, for clarity and ease of adoption. Older material may still use the earlier names; they all refer to the same notation.
+The system carried several names during its development, including the **Temporal Notation System**, the **LUMINA Notation System**, and the **SaberCraft Notation System**. It is now the **Saber Standard Notation System**, for clarity and ease of adoption. Older material may still use the earlier names; they all refer to the same notation.

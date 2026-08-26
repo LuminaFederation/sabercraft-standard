@@ -4,7 +4,7 @@
   <iframe src="https://www.youtube.com/embed/_CXHAUERRvQ" title="CM-E demonstration" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
 </div>
 
-CM-E is the fifth and last core movement in the SaberCraft Standard.
+CM-E is the fifth and last core movement in the Saber Standard.
 
 It is a quick movement that combines multiple partner attacks, and it works as either a 1-on-1 or a 2-on-1 scenario. Special moves act as milestones between switching partners.
 

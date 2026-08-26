@@ -1,9 +1,9 @@
 # Advancement
 
 !!! note "Completely optional"
-    Advancement is an add-on, not a requirement. Any organization using the SaberCraft Standard is free to adopt it as a way to add another dimension to what it offers, and equally free to leave it aside. It has nothing to do with adopting the notation: reading, writing, and teaching SaberCraft Notation calls for no rank, sash, or program of any kind.
+    Advancement is an add-on, not a requirement. Any organization using the Saber Standard is free to adopt it as a way to add another dimension to what it offers, and equally free to leave it aside. It has nothing to do with adopting the notation: reading, writing, and teaching Saber Standard Notation calls for no rank, sash, or program of any kind.
 
-Advancement covers the ranking and recognition programs built on top of the SaberCraft Standard.
+Advancement covers the ranking and recognition programs built on top of the Saber Standard.
 
 The program documented here is the **SaberCraft Knights** program, run by SaberCraft, the founding school. Knights gain rank and are recognized in any LUMINA or SaberCraft-based school or club.
 
@@ -50,7 +50,7 @@ Sessions are cumulative and linked to rank. A Yellow Knight who has attended 6 m
 
 ## Age requirements and disqualifications
 
-Age requirements, and the conditions that lead to disqualification, are set by each school or club running the program rather than by the SaberCraft Standard. Saber combat is a delicate dance, so safety is the highest priority.
+Age requirements, and the conditions that lead to disqualification, are set by each school or club running the program rather than by the Saber Standard. Saber combat is a delicate dance, so safety is the highest priority.
 
 SaberCraft's own conditions are documented at [disqualifications from the Knight program](http://sabercraft.org/index.php/2017/04/02/disqualifications-for-the-knight-program/) and [general disqualifications](http://sabercraft.org/index.php/2017/04/02/disqualifications/).
 

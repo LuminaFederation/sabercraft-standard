@@ -1,6 +1,6 @@
 # Core Library
 
-The Core Library is the official beginner foundation of the SaberCraft Standard: **CM-A through CM-E**. Every Saberist starts here. These five movements establish targeting, attack/parry pairing, role-switching, flow, and the basic vocabulary that every later movement — Extended or Community — builds on.
+The Core Library is the official beginner foundation of the Saber Standard: **CM-A through CM-E**. Every Saberist starts here. These five movements establish targeting, attack/parry pairing, role-switching, flow, and the basic vocabulary that every later movement — Extended or Community — builds on.
 
 Work down the table in order. CM-C is taught in two parts: its completes must be understood before the full sequence can be performed.
 

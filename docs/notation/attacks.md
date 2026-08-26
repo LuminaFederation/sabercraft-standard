@@ -2,10 +2,10 @@
 
 An attack is a choreographed movement toward a numbered target line.
 
-In SaberCraft Notation, a plain target number means that the Saberist is performing an attack toward that line.
+In Saber Standard Notation, a plain target number means that the Saberist is performing an attack toward that line.
 
 !!! warning "Important"
-    An attack in the SaberCraft Standard is not permission to strike your partner. It is a controlled movement in a shared choreography.
+    An attack in the Saber Standard is not permission to strike your partner. It is a controlled movement in a shared choreography.
 
 ## Basic attack notation
 
@@ -45,7 +45,7 @@ The attack gives the line. The parry receives or answers that line.
 
 ## Attacks in a two-Saberist table
 
-In a SaberCraft Standard table, the attack appears in the step column for the Saberist performing it.
+In a Saber Standard table, the attack appears in the step column for the Saberist performing it.
 
 | Player | Step 1 | Step 2 | Step 3 |
 |---|---:|---:|---:|

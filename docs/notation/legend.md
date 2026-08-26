@@ -1,6 +1,6 @@
 # Notation Legend
 
-This page holds the full SaberCraft notation vocabulary. It is the reference for every notation symbol.
+This page holds the full Saber Standard Notation vocabulary. It is the reference for every notation symbol.
 
 For first-time readers, start with the six beginner lines in [Targets](targets.md), [Attacks](attacks.md), and [Parries](parries.md). The tables below include the wider twelve-line reference for notation lookup.
 

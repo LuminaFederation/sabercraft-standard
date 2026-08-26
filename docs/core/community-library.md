@@ -22,7 +22,7 @@ The choreography is not the standard; the notation language is. That distinction
 
 ### A worked example: NY Kendo School
 
-"NY Kendo School" is a fictional school, used here to show how an independent group documents original movement in SaberCraft Notation. It names its movements KS-A, KS-B, KS-C under its own prefix rather than using SaberCraft's CM codes, and the notation stays readable either way.
+"NY Kendo School" is a fictional school, used here to show how an independent group documents original movement in Saber Standard Notation. It names its movements KS-A, KS-B, KS-C under its own prefix rather than using SaberCraft's CM codes, and the notation stays readable either way.
 
 Its first sequence, KS-A "Crosswind Exchange":
 

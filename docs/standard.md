@@ -1,13 +1,13 @@
-# The SaberCraft Standard
+# The Saber Standard
 
-The SaberCraft Standard defines the public framework for documenting and teaching choreographed saber combat.
+The Saber Standard defines the public framework for documenting and teaching choreographed saber combat.
 
 !!! note "Standard vs. notation system"
     A **notation system** helps people write movement down: "here is how to write this move."
 
     A **standard** does more. It gives the community a public rulebook — clear definitions, examples, updates, and a way to check whether choreography is being written correctly — so a community can agree on what that writing means.
 
-    The SaberCraft Standard includes notation, but the goal is bigger: **a public, maintained, reviewable standard for choreographed saber combat.**
+    The Saber Standard includes notation, but the goal is bigger: **a public, maintained, reviewable standard for choreographed saber combat.**
 
 ## Scope
 
@@ -60,9 +60,9 @@ That can be useful for drills, but staged combat needs more.
 
 A fight scene is not just saber direction. It is body movement, distance, rhythm, safety, reaction, and performance.
 
-SaberCraft is designed to capture the full choreographic exchange.
+The Saber Standard is designed to capture the full choreographic exchange.
 
-A SaberCraft sequence can include:
+A Saber Standard sequence can include:
 
 <div class="column-list" markdown>
 
@@ -84,23 +84,23 @@ A SaberCraft sequence can include:
 
 </div>
 
-**Attack notation tells you where the saber goes. SaberCraft is built to show what the whole choreography does.**
+**Attack notation tells you where the saber goes. The Saber Standard is built to show what the whole choreography does.**
 
-## Why SaberCraft is different
+## Why the Saber Standard is different
 
-SaberCraft is built from more than ten years of real practice.
+The Saber Standard is built from more than ten years of real practice.
 
-The notation material has been available online for over a decade, and the current SaberCraft Standard is being organized so it can remain publicly available as a long-term reference.
+The notation material has been available online for over a decade, and the current Saber Standard is being organized so it can remain publicly available as a long-term reference.
 
 It was developed through SaberCraft, a school that has taught and refined saber choreography for more than a decade with a consistent student base.
 
 That matters.
 
-SaberCraft did not come from theory alone. It came from real classes, real students, real choreography, and years of figuring out what people can actually learn, teach, remember, and perform safely.
+The Saber Standard did not come from theory alone. It came from real classes, real students, real choreography, and years of figuring out what people can actually learn, teach, remember, and perform safely.
 
 ## Built for more than one fandom
 
-SaberCraft may be inspired by saber culture, but it is not limited to one franchise.
+The Saber Standard may be inspired by saber culture, but it is not limited to one franchise.
 
 It connects to:
 
@@ -113,7 +113,7 @@ It connects to:
 - movement documentation
 - teaching systems
 
-At its core, SaberCraft is for people who care about process.
+At its core, the Saber Standard is for people who care about process.
 
 It is for instructors, performers, students, clubs, and schools that want choreography to be clear, repeatable, and teachable.
 
@@ -123,6 +123,6 @@ A standard should not disappear.
 
 It should not depend on unavailable videos, private notes, or one person’s memory.
 
-SaberCraft is designed to be available online, with documentation, examples, FAQs, updates, and public ways to ask questions.
+The Saber Standard is designed to be available online, with documentation, examples, FAQs, updates, and public ways to ask questions.
 
 That means students, teachers, and schools can use the same reference instead of guessing.

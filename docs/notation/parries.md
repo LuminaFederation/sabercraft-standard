@@ -4,7 +4,7 @@ A parry is a choreographed defensive response to an attack line.
 
 In casual teaching, people may say "block."
 
-In SaberCraft Notation, a parry is written as the target number plus the letter `P`.
+In Saber Standard Notation, a parry is written as the target number plus the letter `P`.
 
 !!! note "Plain-English version"
     If an attack is written as `1`, the matching parry is written as `1P`.
@@ -17,7 +17,7 @@ The beginner set is `1P`, `11P`, `3P`, `9P`, `5P`, and `7P` — the same six lin
 
 ## Parries in a two-Saberist table
 
-In a SaberCraft Standard table, the parry appears in the step column for the Saberist performing the defensive response.
+In a Saber Standard table, the parry appears in the step column for the Saberist performing the defensive response.
 
 | Player | Step 1 | Step 2 | Step 3 |
 |---|---:|---:|---:|

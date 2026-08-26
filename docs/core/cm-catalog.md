@@ -1,10 +1,10 @@
 # CM Catalog
 
-The CM Catalog is the flat index of every Choreography Movement in the SaberCraft Standard — what each one is, which fight it interprets, and who notated it.
+The CM Catalog is the flat index of every Choreography Movement in the Saber Standard — what each one is, which fight it interprets, and who notated it.
 
 The [Core](core-library.md), [Extended](extended-library.md), and [Community](community-library.md) libraries are the teaching path: they tell you what to learn and in what order. This page is the lookup table. Use it when you know roughly what you are after — a CM letter, a film, a character, a contributor — and want to find it quickly.
 
-Entire battles can be notated by any school and shared. From those fights, specific movements are selected and added to the SaberCraft libraries. See [Community Library](community-library.md) for how to contribute one.
+Entire battles can be notated by any school and shared. From those fights, specific movements are selected and added to the Saber Standard libraries. See [Community Library](community-library.md) for how to contribute one.
 
 !!! note "Wide tables"
     Both tables below scroll sideways. On a phone, turn the device landscape.

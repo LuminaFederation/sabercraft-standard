@@ -28,7 +28,7 @@ A **Complete Across** is a wide arc swing committed at a particular target point
 
 Both are written with the `©` symbol, which marks the swing as uninterrupted.
 
-That distinction is what Part 1 exists to teach, and it is one of the things that sets SaberCraft Notation apart. Most ways of writing choreography record *where* a swing is aimed. SaberCraft records where it is aimed **and whether it stops there**. `5` and `5©` name the same line and describe two different actions: one arrives at the target and holds; the other keeps going.
+That distinction is what Part 1 exists to teach, and it is one of the things that sets Saber Standard Notation apart. Most ways of writing choreography record *where* a swing is aimed. Saber Standard Notation records where it is aimed **and whether it stops there**. `5` and `5©` name the same line and describe two different actions: one arrives at the target and holds; the other keeps going.
 
 The consequence shows up in the defence. A stopping attack can be met with a parry on the same line. A complete cannot — there is nothing to hold against, so the defender has to move instead. A fight written without the © symbol is a fight that records parries the choreography cannot actually perform.
 

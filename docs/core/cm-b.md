@@ -11,7 +11,7 @@
 </div>
 
 <div style="flex:1 1 16rem;" markdown>
-CM-B is the second core movement in the SaberCraft Standard: **angle attacks on targets 2, 10, 4, and 8**.
+CM-B is the second core movement in the Saber Standard: **angle attacks on targets 2, 10, 4, and 8**.
 
 Where [CM-A](cm-a.md) works the upright lines, CM-B moves the exchange into the corners — the shoulder and hip angles.
 
@@ -48,7 +48,7 @@ CM-A introduces six target lines. CM-B adds four more:
 
 These four points are the whole of CM-B — every step in the movement lands on one of them.
 
-They are also what completes the SaberCraft target model. With the corners in play, a Saberist can write and read a diagonal exchange in the same notation used for a vertical or horizontal one, and choreography no longer has to be described in words when it leaves the upright lines. That is the practical reason the angle points matter: they make the notation cover the full clock face rather than a subset of it.
+They are also what completes the Saber Standard target model. With the corners in play, a Saberist can write and read a diagonal exchange in the same notation used for a vertical or horizontal one, and choreography no longer has to be described in words when it leaves the upright lines. That is the practical reason the angle points matter: they make the notation cover the full clock face rather than a subset of it.
 
 ## Purpose
 

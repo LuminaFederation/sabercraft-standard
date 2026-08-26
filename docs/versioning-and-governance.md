@@ -2,7 +2,7 @@
 
 ## Why governance matters
 
-SaberCraft is intended to function as a long-term choreography notation standard.
+The Saber Standard is intended to function as a long-term choreography notation standard.
 
 To remain useful across schools, instructors, communities, and future releases, the standard needs:
 
@@ -12,7 +12,7 @@ To remain useful across schools, instructors, communities, and future releases, 
 - version tracking
 - clear distinction between official and contributed material
 
-This page defines the current governance model for the SaberCraft Standard.
+This page defines the current governance model for the Saber Standard.
 
 ## Current standard version
 
@@ -25,7 +25,7 @@ v2.0 is a finished, stable release. Saberists, instructors, and schools can teac
 
 ## Governance philosophy
 
-SaberCraft is designed to evolve carefully.
+The Saber Standard is designed to evolve carefully.
 
 The goal is to allow:
 
@@ -44,7 +44,7 @@ Whenever possible:
 
 ## Stewardship
 
-The SaberCraft Standard is currently:
+The Saber Standard is currently:
 
 - developed by the SaberCraft community
 - maintained by Lumina Federation LLC
@@ -58,9 +58,9 @@ Not all choreography or notation material carries the same authority level.
 
 | Category | Meaning |
 |---|---|
-| Official | Approved baseline SaberCraft standard material |
+| Official | Approved baseline Saber Standard material |
 | Extended | Official expansions beyond the beginner baseline |
-| Community | Independent or contributed material written using SaberCraft |
+| Community | Independent or contributed material written using the Saber Standard |
 
 This structure allows schools and instructors to innovate without immediately changing the official baseline.
 

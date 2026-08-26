@@ -1,8 +1,8 @@
 # Targets
 
-Targets are the numbered lines used in SaberCraft Notation to describe where an attack is directed.
+Targets are the numbered lines used in Saber Standard Notation to describe where an attack is directed.
 
-The SaberCraft Standard uses a clock-face model. Imagine a clock placed in front of your partner. The number in the notation points to the intended line of movement.
+The Saber Standard uses a clock-face model. Imagine a clock placed in front of your partner. The number in the notation points to the intended line of movement.
 
 !!! note "Beginner idea"
     A target number does not mean "hit this body part." It means "move toward this choreographed line."

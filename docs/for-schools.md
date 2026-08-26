@@ -2,7 +2,7 @@
 
 ## Keep your choreography. Share the language.
 
-SaberCraft is a shared notation standard for choreographed saber movement.
+The Saber Standard is a shared notation standard for choreographed saber movement.
 
 It was created so schools, performance groups, clubs, instructors, and independent choreographers can document and exchange choreography using a common movement language — without giving up their own identity, curriculum, or creative style.
 
@@ -12,7 +12,7 @@ You do not need to adopt SaberCraft’s entire Core Movement library.
 
 You do not need to teach the same choreography as anyone else.
 
-Instead, SaberCraft gives your group a way to:
+Instead, the Saber Standard gives your group a way to:
 
 - write choreography clearly
 - preserve movement over time
@@ -28,11 +28,11 @@ A notation system helps people write movement down.
 
 A standard gives people a public reference they can use, question, review, and build from over time.
 
-That distinction matters for schools. If a movement language is hard to access, unavailable, or dependent on one person’s memory, different groups eventually create their own house rules. SaberCraft is designed to avoid that by making the reference public, maintained, and reviewable.
+That distinction matters for schools. If a movement language is hard to access, unavailable, or dependent on one person’s memory, different groups eventually create their own house rules. The Saber Standard is designed to avoid that by making the reference public, maintained, and reviewable.
 
-## What SaberCraft actually standardizes
+## What the Saber Standard actually standardizes
 
-SaberCraft standardizes the language of choreography.
+The Saber Standard standardizes the language of choreography.
 
 This includes:
 
@@ -51,7 +51,7 @@ The standard does **not** require every group to use the same choreography libra
 
 ## Your choreography library remains yours
 
-SaberCraft uses the SaberCraft Standard to teach its own choreography library, including CM-A through CM-X.
+SaberCraft uses the Saber Standard to teach its own choreography library, including CM-A through CM-X.
 
 Another school might create:
 
@@ -77,7 +77,7 @@ Most choreography communities rely heavily on:
 
 That works — until choreography is forgotten, altered, lost, or difficult to reproduce consistently.
 
-SaberCraft exists to make choreography portable.
+The Saber Standard exists to make choreography portable.
 
 A written sequence can be:
 
@@ -95,11 +95,11 @@ The goal is to make live teaching easier to preserve, repeat, and communicate.
 
 ## A shared language, not a franchise
 
-The SaberCraft Standard is intentionally designed to be broader than a single school.
+The Saber Standard is intentionally designed to be broader than a single school.
 
 SaberCraft is the founding school and original development community of the system, but the notation standard is meant to support a wider choreography ecosystem.
 
-Schools using the SaberCraft Standard should still feel like themselves.
+Schools using the Saber Standard should still feel like themselves.
 
 Your:
 
@@ -117,15 +117,15 @@ can remain entirely your own.
 
 | Group | Their choreography library | Shared notation language |
 |---|---|---|
-| SaberCraft | CM-A through CM-X | SaberCraft Standard |
-| NY Kendo School | KS-A through KS-T | SaberCraft Standard |
-| Stage Team | Performance Sets | SaberCraft Standard |
+| SaberCraft | CM-A through CM-X | Saber Standard |
+| NY Kendo School | KS-A through KS-T | Saber Standard |
+| Stage Team | Performance Sets | Saber Standard |
 
 In this model, the notation language is shared while the choreography libraries remain independent.
 
 ## The long-term vision
 
-SaberCraft is being developed as:
+The Saber Standard is being developed as:
 
 - a choreography notation standard
 - a preservation framework

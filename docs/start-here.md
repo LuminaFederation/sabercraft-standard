@@ -4,24 +4,24 @@ toc_max_level: 2
 
 # Start Here
 
-Welcome to the SaberCraft Standard.
+Welcome to the Saber Standard.
 
 This page is the shortest safe path into the system. You do not need to understand the entire standard before you begin. You only need a partner, a safe training space, and enough notation to practice the first core movement: **CM-A**.
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:stretch;">
 <div class="admonition note" style="flex:1;min-width:250px;margin:0;">
-<p class="admonition-title">What the SaberCraft Standard is</p>
-<p>The SaberCraft Standard is a lightsaber choreography standard. It is used to record, teach, share, and safely perform choreographed saber combat.</p>
+<p class="admonition-title">What the Saber Standard is</p>
+<p>The Saber Standard is a lightsaber choreography standard. It is used to record, teach, share, and safely perform choreographed saber combat.</p>
 </div>
 <div class="admonition warning" style="flex:1;min-width:250px;margin:0;">
-<p class="admonition-title">What the SaberCraft Standard is not</p>
-<p>The SaberCraft Standard is not full-contact sparring, dueling, fencing, or combat training for real weapons. It is controlled partner choreography.</p>
+<p class="admonition-title">What the Saber Standard is not</p>
+<p>The Saber Standard is not full-contact sparring, dueling, fencing, or combat training for real weapons. It is controlled partner choreography.</p>
 </div>
 </div>
 
 ## 1. Start with CM-A
 
-**CM-A** is the first core movement, and every step of it is written in SaberCraft Notation. Before you practice it, get familiar with how that notation reads.
+**CM-A** is the first core movement, and every step of it is written in Saber Standard Notation. Before you practice it, get familiar with how that notation reads.
 
 [![CM-A](assets/images/cm/cm-a.webp){ width="220" }](notation/index.md "Read the Notation Overview")
 
@@ -33,7 +33,7 @@ Practising away from a screen? Print the [Quick Start Guide](assets/downloads/Sa
 
 Before anything else, agree on safety.
 
-A SaberCraft Standard exchange should be practiced with control. The goal is not to hit your partner. The goal is to create a clean, readable, repeatable movement pattern together.
+A Saber Standard exchange should be practiced with control. The goal is not to hit your partner. The goal is to create a clean, readable, repeatable movement pattern together.
 
 Minimum practice rules:
 
@@ -79,7 +79,7 @@ Timing drifts.
 
 And eventually, choreography that once existed clearly becomes fragmented or lost.
 
-SaberCraft was created to solve that problem.
+The Saber Standard was created to solve that problem.
 
 ### Choreography deserves a written language
 
@@ -142,9 +142,9 @@ Notation can clarify attack lines, responses, timing, and structure.
 
 Notation creates historical preservation.
 
-## 4. SaberCraft is designed for portability
+## 4. The Saber Standard is designed for portability
 
-SaberCraft allows choreography to move between:
+The Saber Standard allows choreography to move between:
 
 - schools
 - instructors
@@ -153,7 +153,7 @@ SaberCraft allows choreography to move between:
 - online communities
 - performance groups
 
-A choreography written in SaberCraft notation can be:
+A choreography written in Saber Standard Notation can be:
 
 - printed
 - translated into teaching material
@@ -163,7 +163,7 @@ A choreography written in SaberCraft notation can be:
 
 ## 5. A shared language across schools
 
-One of the goals of SaberCraft is interoperability.
+One of the goals of the Saber Standard is interoperability.
 
 Different schools can keep their own:
 
@@ -193,7 +193,7 @@ Without shared notation:
 - videos require interpretation
 - reconstruction takes longer
 
-With SaberCraft:
+With the Saber Standard:
 
 - both schools can read the same notation grammar
 - choreography becomes easier to exchange
@@ -227,7 +227,7 @@ This is one of the reasons notation systems transformed:
 - software development
 - martial systems
 
-SaberCraft applies that same philosophy to choreographed saber movement.
+The Saber Standard applies that same philosophy to choreographed saber movement.
 
 ## 8. The long-term vision
 

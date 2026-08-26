@@ -6,7 +6,7 @@ Each movement is identified by a **CM code**, such as CM-A or CM-B. "CM" is shor
 
 ## Where to Start
 
-If you are new to SaberCraft, focus on the first five movements: **CM-A through CM-E**. These establish the shared vocabulary, timing, targeting, attack lines, parries, and partner discipline that everything else builds on.
+If you are new to the Saber Standard, focus on the first five movements: **CM-A through CM-E**. These establish the shared vocabulary, timing, targeting, attack lines, parries, and partner discipline that everything else builds on.
 
 All five are documented right here. [CM-A](cm-a.md) shows how notation becomes a real, teachable paired movement; [CM-B](cm-b.md) extends it into the four angle target points; CM-C introduces completes across two parts — [the completes themselves](cm-c-part-1.md) first, then [the full choreography](cm-c-part-2.md); [CM-D](cm-d.md) starts trading the attack between Saberists; and [CM-E](cm-e.md) adds special moves and a second opponent.
 

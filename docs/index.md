@@ -1,5 +1,5 @@
 ---
-title: SaberCraft Standard
+title: Saber Standard
 hide:
   - navigation
 ---
@@ -26,7 +26,7 @@ The Saber Standard is not just a way to write attacks. It is a public, maintaine
 
 It is written for **both Saberists at once**. Most notation record only the attacker's moves leading to a run of attacks answered in turn. One person acting and the other reacting from start to finish. That is a **monologue**, and on the floor it looks staged.
 
-Every SaberCraft movement is written as two rows of equal standing: each Saberist has their own line, and either may attack or defend at any step. The initiative passes back and forth the way it does in a real exchange. That is what makes this a **dialogue** — a language two people speak, rather than a list of targets one person delivers.
+Every Saber Standard movement is written as two rows of equal standing: each Saberist has their own line, and either may attack or defend at any step. The initiative passes back and forth the way it does in a real exchange. That is what makes this a **dialogue** — a language two people speak, rather than a list of targets one person delivers.
 
 ## What the ecosystem includes
 

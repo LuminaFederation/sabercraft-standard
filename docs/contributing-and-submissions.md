@@ -2,12 +2,12 @@
 
 ## Community growth without losing clarity
 
-SaberCraft is designed to support both:
+The Saber Standard is designed to support both:
 
 - stable official standards
 - community creativity and experimentation
 
-This means schools, instructors, choreographers, and performance groups are encouraged to create original movement libraries using the SaberCraft notation system.
+This means schools, instructors, choreographers, and performance groups are encouraged to create original movement libraries using Saber Standard Notation.
 
 At the same time, not every contribution automatically becomes official baseline material.
 
@@ -34,7 +34,7 @@ Examples of possible contributions include:
 
 ## Schools can remain independent
 
-Using SaberCraft does not require a school to give up:
+Using the Saber Standard does not require a school to give up:
 
 - branding
 - curriculum
@@ -43,7 +43,7 @@ Using SaberCraft does not require a school to give up:
 - internal ranking systems
 - performance themes
 
-Schools can publish choreography written in SaberCraft notation while still maintaining their own identity.
+Schools can publish choreography written in Saber Standard Notation while still maintaining their own identity.
 
 ## Contribution categories
 
@@ -65,7 +65,7 @@ A school might contribute:
 - KS-B Twin Spiral
 - KS-C Temple Crossing
 
-These sequences could be publicly documented in SaberCraft notation while remaining part of that school’s independent choreography library.
+These sequences could be publicly documented in Saber Standard Notation while remaining part of that school’s independent choreography library.
 
 The choreography does not become "owned" by the standard simply because it uses the notation language.
 
@@ -119,7 +119,7 @@ Whenever reasonably possible:
 - historical versions should remain documented
 - choreography origins should remain visible
 
-One long-term goal of SaberCraft is preservation, which includes preserving authorship and historical context.
+One long-term goal of the Saber Standard is preservation, which includes preserving authorship and historical context.
 
 ## Future possibilities
 
@@ -138,4 +138,4 @@ The current focus is establishing a stable and understandable foundation.
 
 ## Key principle
 
-SaberCraft should remain open enough to encourage participation, but structured enough to remain readable and durable over time.
+The Saber Standard should remain open enough to encourage participation, but structured enough to remain readable and durable over time.

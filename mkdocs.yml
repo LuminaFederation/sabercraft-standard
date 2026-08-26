@@ -1,4 +1,4 @@
-site_name: SaberCraft Standard
+site_name: Saber Standard
 site_url: https://standard.sabercraft.org/
 site_description: A saber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.
 site_author: SaberCraft.org
@@ -71,9 +71,9 @@ extra:
       name: SaberCraft
     - icon: fontawesome/brands/github
       link: https://github.com/SaberCraftOrg/saber-standard
-      name: SaberCraft Standard on GitHub
+      name: Saber Standard on GitHub
 
-copyright: Copyright &copy; Lumina Federation LLC. SaberCraft.org is the founding school/community of the SaberCraft Standard.
+copyright: Copyright &copy; Lumina Federation LLC. SaberCraft.org is the founding school/community of the Saber Standard.
 
 nav:
   - Home: index.md

@@ -1,18 +1,19 @@
-# CLAUDE.md — SaberCraft Standard Repository
+# CLAUDE.md — Saber Standard Repository
 
-This repository is the canonical source for the **SaberCraft Standard**, a choreographed saber combat notation framework. It is published as an MkDocs Material site at https://standard.sabercraft.org. All documentation lives in `docs/`.
+This repository is the canonical source for the **Saber Standard**, a choreographed saber combat notation framework. It is published as an MkDocs Material site at https://standard.sabercraft.org. All documentation lives in `docs/`.
 
 ## Naming rules (strict — do not violate)
 
 These terms were settled by formal architecture decisions. Never rename, "correct," or swap them:
 
-- **SaberCraft Standard** — the framework itself. Formerly called "LUMINA Standard"; that rename is complete. Never reintroduce "LUMINA Standard."
+- **Saber Standard** — the framework itself. Formerly called "LUMINA Standard" and then "SaberCraft Standard"; both renames are complete. Never reintroduce either older name. The framework name deliberately drops "Craft" so the standard reads as independent of any single school.
+- **Saber Standard Notation** — the written movement language of the Saber Standard. Formerly the "Temporal Notation System", the "LUMINA Notation System", and then "SaberCraft Notation"; all renames are complete. The naming-history note on `notation/index.md` lists the superseded names on purpose — that is the one place they may still appear.
 - **LUMINA Games** — the optional game/scoring layer (Duels and Duets), documented under `docs/games/`. This keeps the LUMINA name permanently. Do not rename it to "SaberCraft Games."
 - **Lumina Federation LLC** — the legal entity. Never alter, rebrand, or expand this name.
-- **Saberist** — the general term for any practitioner of the SaberCraft Standard. Use this everywhere a practitioner is referenced.
+- **Saberist** — the general term for any practitioner of the Saber Standard. Use this everywhere a practitioner is referenced.
 - **Lumen / Lumens** — refers ONLY to players within LUMINA Games. Never use it as a general practitioner term.
 - **CM** — short for **Choreography Movement**. Movements are identified by CM codes (CM-A, CM-B, ...). The overview page at `docs/core/index.md` uses the public-facing heading "Choreography Movements (CM)", and the nav group is labelled "Choreographies". New students are directed to CM-A through CM-E first; the full catalog lives at https://sabercraft.org/cm-series-catalog/.
-- **SaberCraft** (alone) — the founding school and community at https://sabercraft.org. When contrasting the framework with the school, write "the SaberCraft Standard" for the framework, never bare "SaberCraft." Pages such as `faq.md`, `for-schools.md`, and `standard.md` deliberately contrast the two — do not "deduplicate" them.
+- **SaberCraft** (alone) — the founding school and community at https://sabercraft.org. When contrasting the framework with the school, write "the Saber Standard" for the framework, never bare "SaberCraft." Pages such as `faq.md`, `for-schools.md`, and `standard.md` deliberately contrast the two — do not "deduplicate" them.
 
 ## Technical exceptions
 
@@ -35,7 +36,7 @@ These terms were settled by formal architecture decisions. Never rename, "correc
 - Tone: clear, welcoming, instructional. Assume the reader is a new Saberist unless the page states otherwise.
 - Do not invent mechanics, CM codes, terminology, or rules. If documentation is ambiguous or missing, stop and ask in the issue/PR rather than filling gaps.
 - Licensing: public materials are **CC BY-NC-SA 4.0** — attribution, non-commercial, share-alike — as stated on `licensing.md`. Commercial use is not granted and requires a separate written license from Lumina Federation LLC; `licensing.md` ends with Permission Requests as the route for that. Do not restate licensing terms on other pages; link to `licensing.md`.
-- **Copyright, not trademark, is the guardrail. Lumina Federation LLC holds no trademark.** Never call SaberCraft, SaberCraft Standard, SaberCraft Notation, LUMINA, or Lumina Federation a trademark, and never add ™/® or a trademark notice to them. This does not affect third-party marks: the "Names and trademarks" disclaimer on `core/extended-library.md` correctly notes that film and character names belong to their owners, and should stay.
+- **Copyright, not trademark, is the guardrail. Lumina Federation LLC holds no trademark.** Never call SaberCraft, the Saber Standard, Saber Standard Notation, LUMINA, or Lumina Federation a trademark, and never add ™/® or a trademark notice to them. This does not affect third-party marks: the "Names and trademarks" disclaimer on `core/extended-library.md` correctly notes that film and character names belong to their owners, and should stay.
 
 ## Governance
 

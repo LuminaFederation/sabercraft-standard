@@ -1,13 +1,13 @@
 # The Saber Standard
 
-This repository contains the source files for the public SaberCraft Standard website.
+This repository contains the source files for the public Saber Standard website.
 
 **Public site:** <https://standard.sabercraft.org/>
 **Founding school/community:** <https://sabercraft.org/>
 
-## What is the SaberCraft Standard?
+## What is the Saber Standard?
 
-The SaberCraft Standard is a choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat. It defines a shared movement notation, a controlled vocabulary, a Core Movement (CM) library structure, and a beginner learning path that schools, clubs, and individual Saberists can adopt.
+The Saber Standard is a choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat. It defines a shared movement notation, a controlled vocabulary, a Core Movement (CM) library structure, and a beginner learning path that schools, clubs, and individual Saberists can adopt.
 
 It is maintained by **Lumina Federation LLC** and originated through the **SaberCraft** community.
 
@@ -59,4 +59,4 @@ See [Contributing and Submissions](https://standard.sabercraft.org/contributing-
 
 ## License
 
-The SaberCraft Standard is published under the licensing terms described at [Licensing and Use Policy](https://standard.sabercraft.org/licensing/).
+The Saber Standard is published under the licensing terms described at [Licensing and Use Policy](https://standard.sabercraft.org/licensing/).

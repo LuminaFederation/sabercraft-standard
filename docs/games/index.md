@@ -1,7 +1,7 @@
 # LUMINA Games
 
 !!! note "Completely optional"
-    LUMINA Games are an add-on, not a requirement. Any organization using the SaberCraft Standard is free to adopt them as a way to expand what it offers, and equally free to leave them aside. Adopting the notation does not commit a school, club, or Saberist to competitive play.
+    LUMINA Games are an add-on, not a requirement. Any organization using the Saber Standard is free to adopt them as a way to expand what it offers, and equally free to leave them aside. Adopting the notation does not commit a school, club, or Saberist to competitive play.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/tZNtXzHcCno" title="LUMINA: saber battles remixed" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
@@ -152,7 +152,7 @@ Two examples:
 
 | Term | Meaning |
 |---|---|
-| Saberist | A practitioner of the SaberCraft Standard, its notation, or its games |
+| Saberist | A practitioner of the Saber Standard, its notation, or its games |
 | Lumen | A player |
 | Duet | A team of Lumens working together in a match |
 | Telegraph | A silent gesture the attacker performs to specify which CM or Power Play they will deliver |

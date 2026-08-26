@@ -4,7 +4,7 @@
   <iframe src="https://www.youtube.com/embed/NZZS004qYls" title="CM-D demonstration" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
 </div>
 
-CM-D is the fourth core movement in the SaberCraft Standard, and the first one that is a conversation rather than a lecture.
+CM-D is the fourth core movement in the Saber Standard, and the first one that is a conversation rather than a lecture.
 
 In CM-A through CM-C, one Saberist attacks and the other defends for the whole sequence. In CM-D the attack changes hands repeatedly, so both Saberists trade strikes instead of one delivering all of them.
 

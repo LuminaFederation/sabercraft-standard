@@ -4,9 +4,9 @@
   <iframe src="https://www.youtube.com/embed/ExZQZuh7qYQ" title="CM-A demonstration" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
 </div>
 
-CM-A is the first official core movement in the SaberCraft Standard.
+CM-A is the first official core movement in the Saber Standard.
 
-It teaches the most basic relationship in SaberCraft Notation:
+It teaches the most basic relationship in Saber Standard Notation:
 
 > attack line → matching parry
 
