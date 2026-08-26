@@ -1,5 +1,5 @@
 ---
-title: Saber Standard
+title: The Saber Standard
 hide:
   - navigation
 ---
