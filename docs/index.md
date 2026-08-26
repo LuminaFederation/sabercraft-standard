@@ -20,11 +20,11 @@ hide:
 </div>
 </div>
 
-## More than notation
+## More than notation - From Monologue to Dialogue
 
-The SaberCraft Standard is not just a way to write attacks. It is a public, maintained choreography standard for documenting full saber movement: attacks, parries, body movement, transitions, flourishes, timing, and performance actions.
+The Saber Standard is not just a way to write attacks. It is a public, maintained choreography standard for documenting full saber movement: attacks, parries, body movement, transitions, spins and other actions.
 
-It is also written for both Saberists at once. Notation that records only the attacking line can express one thing — a run of attacks answered in turn, one person acting and the other reacting from start to finish. That is a monologue, and on the floor it looks staged.
+It is written for **both Saberists at once**. Most notation record only the attacker's moves leading to a run of attacks answered in turn. One person acting and the other reacting from start to finish. That is a **monologue**, and on the floor it looks staged.
 
 Every SaberCraft movement is written as two rows of equal standing: each Saberist has their own line, and either may attack or defend at any step. The initiative passes back and forth the way it does in a real exchange. That is what makes this a **dialogue** — a language two people speak, rather than a list of targets one person delivers.
 
@@ -32,15 +32,15 @@ Every SaberCraft movement is written as two rows of equal standing: each Saberis
 
 | Part | Purpose |
 |---|---|
-| [SaberCraft Standard](standard.md) | The overall public choreography framework |
-| [SaberCraft Notation](notation/index.md) | The written movement language |
+| [Saber Standard](standard.md) | The overall public choreography framework |
+| [Saber Notation](notation/index.md) | The written movement language |
 | [CM Library](core/index.md) | Official baseline Choreography Movements |
 | [LUMINA Games](games/index.md) | Optional game/scoring format |
 | [Glossary](glossary.md) | Controlled vocabulary for consistent teaching and documentation |
 
 ## For schools and instructors
 
-The SaberCraft Standard is designed as a shared choreography language.
+The Saber Standard is designed as a shared choreography language.
 
 Schools and performance groups can adopt the notation standard without replacing their own choreography libraries, teaching culture, or curriculum structure.
 
@@ -48,9 +48,9 @@ Schools and performance groups can adopt the notation standard without replacing
 
 ## Relationship to SaberCraft
 
-SaberCraft is the founding school and original community where the SaberCraft Standard was developed. SaberCraft remains committed to community classes, community events, and training culture.
+SaberCraft is the founding school and original community where the Saber Standard was developed. SaberCraft remains committed to community classes, community events, and training culture.
 
-SaberCraft's CM library represents one implementation of the SaberCraft Standard, but the notation system is designed to support choreography from other schools and communities as well.
+SaberCraft's CM library represents one implementation of the Saber Standard, but the notation system is designed to support choreography from other schools and communities as well.
 
 ---
 
