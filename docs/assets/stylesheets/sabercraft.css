@@ -513,6 +513,47 @@ html {
   white-space: nowrap;
 }
 
+/* Cover Fights table on the CM Catalog. Columns 3 to 9 are the X1-X7 slots,
+   which hold a two or three digit series number or nothing at all. Left to the
+   theme's defaults the table takes its max-content width -- the theme lays
+   tables out as inline-block inside a scrolling wrapper -- and the last of the
+   X columns fall off the right edge of the content column. Trimming the cell
+   padding and dropping the theme's 100px minimum on the seven slot columns
+   leaves the source, character and credit columns to wrap, so the whole table
+   fits on a desktop screen. Adding or removing an X column means updating the
+   nth-child range below. */
+.md-typeset .cover-fights table:not([class]) th,
+.md-typeset .cover-fights table:not([class]) td {
+  padding: 0.6em 0.6em;
+}
+
+.md-typeset .cover-fights table:not([class]) th:nth-child(n+3):nth-child(-n+9),
+.md-typeset .cover-fights table:not([class]) td:nth-child(n+3):nth-child(-n+9) {
+  width: 1%;
+  min-width: 0;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  white-space: nowrap;
+}
+
+/* The theme wraps every table in an inline-block box inside a scrolling
+   wrapper, which lets the table grow to its max-content width and scroll. Here
+   the box is made a block and the table told to fill it, so the table takes
+   the width of the content column and wraps its text instead. Only from the
+   tablet breakpoint up: eleven columns squeezed into a phone screen would wrap
+   the text columns a character at a time, so below this the table keeps the
+   theme's sideways scroll. */
+@media screen and (min-width: 60em) {
+  .md-typeset .cover-fights .md-typeset__table {
+    display: block;
+  }
+
+  .md-typeset .cover-fights table:not([class]) {
+    display: table;
+    width: 100%;
+  }
+}
+
 /* Long, flat lists of one-word items read as a wall of bullets and stretch a
    page out. This flows them into three columns, dropping to two on phones so
    the tracks never get too narrow to read. */

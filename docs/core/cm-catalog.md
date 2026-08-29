@@ -7,7 +7,7 @@ The [Core](core-library.md), [Extended](extended-library.md), and [Community](co
 Entire battles can be notated by any school and shared. From those fights, specific movements are selected and added to the Saber Standard libraries. See [Community Library](community-library.md) for how to contribute one.
 
 !!! note "Wide tables"
-    Both tables below scroll sideways. On a phone, turn the device landscape.
+    Both tables below are wide. On a phone, turn the device landscape; either table can also be scrolled sideways.
 
 ## The CM Catalog
 
@@ -44,6 +44,8 @@ Entire battles can be notated by any school and shared. From those fights, speci
 
 Complete filmed fights notated as a sequence of CMs. Each numbered slot is one movement in the order it appears in the fight.
 
+<div class="cover-fights" markdown>
+
 | Source / Inspired By | Characters | X1 | X2 | X3 | X4 | X5 | X6 | X7 | Notation By | Medium |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|:---:|
 | [Star Wars Ep 6: Return of the Jedi](https://sabercraft.org/rj-cm-11-14/) | Luke, Vader | 11 | 12 | 13 | 14 | | | | Alfred Smith | Film |
@@ -55,6 +57,8 @@ Complete filmed fights notated as a sequence of CMs. Each numbered slot is one m
 | [Westworld: Musashi vs. Tanaka](https://sabercraft.org/cm-o-musashi-vs-tanaka/) | Musashi, Tanaka | 101 | | | | | | | Amen Abdou, Alexis Adames | TV |
 | [MCU: Endgame](https://sabercraft.org/cm-r-endgame-ronin/) | Ronin, Hawkeye, Yakuza Boss | | 102 | | | | | | Luis Meurice | Film |
 | [Wonder Woman](https://sabercraft.org/cm-w-amazon-training/) | Wonder Woman, Antiope | | | 103 | 104 | | | | Desso Faulkner, Anna Faulkner | Film |
+
+</div>
 
 ## Names and trademarks
 
