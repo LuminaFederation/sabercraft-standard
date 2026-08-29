@@ -3,6 +3,10 @@
   --lumina-red: #e53935;
   --lumina-blue: #42a5f5;
   --lumina-gold: #f7c948;
+  /* Green is reserved for the one control that has to be found on an
+     otherwise empty margin: the table-of-contents tab. */
+  --lumina-green: #22c55e;
+  --lumina-green-bright: #4ade80;
   --lumina-ink: #08090d;
   --lumina-panel: rgba(12, 14, 22, 0.92);
 }
@@ -303,16 +307,77 @@
 }
 
 /* Collapsible table of contents.
-   The whole right-hand panel can be hidden so the content column reclaims
-   its width. Buttons are added by the script in overrides/main.html, so with
-   JavaScript off the panel simply stays open as before.
+   The right-hand panel starts collapsed, so the content column has its full
+   width on every page, and parks itself just off the right edge as a flyout:
+   hovering the green tab slides it back in for a look, clicking the tab pins
+   it open, and the choice is remembered across pages. Buttons are added by the
+   script in overrides/main.html, so with JavaScript off the panel simply stays
+   open as it always did.
 
    Only applies at the width where Material actually shows the panel; below
    that the table of contents lives in the drawer and there is nothing to
    collapse. */
 @media screen and (min-width: 76.25em) {
+  /* Collapsed. Taking the panel out of the flow is what hands the width back
+     to the content column; it stays in the DOM so it can slide in on hover,
+     and visibility keeps its links out of the tab order while it is parked
+     off-screen. */
   body.sc-toc-hidden .md-sidebar--secondary {
-    display: none;
+    position: fixed;
+    /* Parked one panel-width off the edge. The slide is animated on `right`
+       rather than on a transform because a transformed box becomes the
+       containing block for its fixed children, which would drag the tab
+       off-screen along with the panel. Fixed boxes add nothing to the page's
+       scrollable area, so parking it here costs no sideways scroll. */
+    right: -12.1rem;
+    z-index: 3;
+    /* The theme sets `top` inline on the sidebar, from the header height, and
+       an inline style beats anything written here -- so the drop that clears
+       the navigation tabs is expressed as a margin on top of it. Both the
+       header and the tabs paint over this panel, so it has to start below
+       them. */
+    margin-top: 2.6rem;
+    width: 12.1rem;
+    /* The theme keeps the sidebar box itself at zero height and lets the list
+       overflow it, which is invisible until the flyout paints a background
+       behind it -- so here the box goes back to wrapping its contents. */
+    height: auto;
+    max-height: calc(100vh - 9.6rem);
+    /* The right padding is wide enough for the tab to sit over it once the
+       panel has slid in, so the tab never covers a heading. */
+    padding: 0.6rem 1.6rem 0.6rem 0.8rem;
+    border-left: 2px solid var(--lumina-green);
+    border-radius: 0.3rem 0 0 0.3rem;
+    background: var(--md-default-bg-color);
+    box-shadow: -0.3rem 0 1rem rgba(0, 0, 0, 0.35);
+    visibility: hidden;
+    transition: right 0.25s ease, visibility 0s linear 0.25s;
+  }
+
+  /* The tab is a child of the panel, so hovering the tab is hovering the
+     panel and the whole flyout slides in -- no script involved. :focus-within
+     does the same for keyboard readers, who reach the tab by tabbing to it. */
+  body.sc-toc-hidden .md-sidebar--secondary:hover,
+  body.sc-toc-hidden .md-sidebar--secondary:focus-within {
+    right: 0;
+    visibility: visible;
+    transition-delay: 0s;
+  }
+
+  /* A long list of headings scrolls inside the flyout rather than running off
+     the bottom of the screen, and a short one leaves no empty panel below it.
+     The theme's script writes a pixel height straight onto this element, so
+     !important is what it takes to hand the height back to the content. */
+  body.sc-toc-hidden .md-sidebar--secondary .md-sidebar__scrollwrap {
+    height: auto !important;
+    max-height: calc(100vh - 11rem);
+    overflow-y: auto;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    body.sc-toc-hidden .md-sidebar--secondary {
+      transition: none;
+    }
   }
 
   /* Put the hide button on the same row as the "Table of contents" label. */
@@ -353,7 +418,9 @@
     border-bottom: 2px solid currentcolor;
   }
 
-  /* Hide: chevron points right, toward the edge the panel collapses to. */
+  /* Hide: chevron points right, toward the edge the panel collapses to. It is
+     the pinned panel's own control, so it goes away once the panel is parked
+     and the tab has taken over. */
   .sc-toc-btn--hide {
     flex: 0 0 auto;
     width: 1.3rem;
@@ -364,20 +431,42 @@
     transform: rotate(-45deg);
   }
 
-  /* Show: a slim tab pinned to the right edge while the panel is hidden. */
+  body.sc-toc-hidden .sc-toc-btn--hide {
+    display: none;
+  }
+
+  /* Show: a slim tab pinned to the right edge of the screen, and the only
+     thing left in view once the panel is parked. Green because it has to be
+     findable against a page that is otherwise red, blue and grey; it keeps
+     its own visibility so it still shows while the panel it belongs to is
+     hidden.
+
+     It is pinned to the viewport rather than to the panel on purpose: a tab
+     that travelled with the panel would slide out from under the pointer that
+     is hovering it, dropping the hover and sending the panel straight back
+     out again. */
   .sc-toc-btn--show {
     position: fixed;
     top: 6.4rem;
     right: 0;
-    z-index: 3;
-    width: 1.1rem;
-    height: 2.6rem;
-    border-radius: 0.2rem 0 0 0.2rem;
-    background: var(--md-default-fg-color--lightest);
+    width: 1.2rem;
+    height: 2.8rem;
+    border-radius: 0.3rem 0 0 0.3rem;
+    background: var(--lumina-green);
+    color: var(--lumina-ink);
+    visibility: visible;
+    box-shadow: -0.15rem 0 0.5rem rgba(0, 0, 0, 0.3);
   }
 
   .sc-toc-btn--show::before {
     transform: rotate(135deg);
+  }
+
+  /* Overrides the shared .sc-toc-btn:hover above, which would drop the tab
+     back to a transparent background at the moment it is being pointed at. */
+  .sc-toc-btn--show:hover {
+    background: var(--lumina-green-bright);
+    color: var(--lumina-ink);
   }
 
   body:not(.sc-toc-hidden) .sc-toc-btn--show {

@@ -31,8 +31,9 @@
 {% endblock %}
 
 {#
-  Collapsible table of contents. The right-hand panel can be hidden so the
-  content column reclaims its width, and the choice is remembered across
+  Collapsible table of contents. The right-hand panel starts collapsed so the
+  content column has its full width; a green tab on the right edge slides it
+  back in on hover and pins it open on click. The choice is remembered across
   pages. Styling lives in docs/assets/stylesheets/sabercraft.css.
 #}
 {% block scripts %}
@@ -71,11 +72,14 @@
         });
       }
 
+      /* Collapsed unless the reader has opened the panel before: the stored
+         "0" is what an explicit click on the tab leaves behind. Blocked
+         storage falls back to the same collapsed default. */
       function readPreference() {
         try {
-          return window.localStorage.getItem(STORAGE_KEY) === "1";
+          return window.localStorage.getItem(STORAGE_KEY) !== "0";
         } catch (error) {
-          return false;
+          return true;
         }
       }
 
@@ -120,20 +124,39 @@
           show.setAttribute("aria-expanded", hidden ? "false" : "true");
         }
 
-        hide.addEventListener("click", function () {
+        /* A click made with the keyboard reports no click count, and only
+           then does focus need to follow the button that just disappeared.
+           Moving focus after a mouse click would leave the panel sitting open
+           under :focus-within, right after the reader asked to close it. */
+        function movedByKeyboard(event) {
+          return event.detail === 0;
+        }
+
+        hide.addEventListener("click", function (event) {
           apply(true);
           writePreference(true);
-          show.focus();
+          if (movedByKeyboard(event)) {
+            show.focus();
+          } else {
+            hide.blur();
+          }
         });
 
-        show.addEventListener("click", function () {
+        show.addEventListener("click", function (event) {
           apply(false);
           writePreference(false);
-          hide.focus();
+          if (movedByKeyboard(event)) {
+            hide.focus();
+          } else {
+            show.blur();
+          }
         });
 
         title.appendChild(hide);
-        document.body.appendChild(show);
+        /* The tab lives inside the panel rather than on the body: hovering it
+           counts as hovering the panel, which is what slides the flyout in
+           without a script. */
+        sidebar.appendChild(show);
         apply(readPreference());
       }
 
