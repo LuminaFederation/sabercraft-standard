@@ -1,28 +1,28 @@
 # Saber Standard Notation
 
-Saber Standard Notation is the written movement language of the Saber Standard. It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
+<div class="intro-split" markdown>
+
+<div markdown>
 
 ## What to learn first
 
-Do not start by memorizing the full notation legend.
+Do not start by memorizing the full notation legend. Begin with the beginner core — the six beginner target lines, the basic attacks, their matching parries, the two-Saberist table format, and CM-A, the first core movement — which is enough to read and practice your first Saber Standard sequence. The full reference is waiting in the [Notation Legend](legend.md) when you need it.
 
-Start with the beginner core:
+</div>
 
-1. six beginner target lines
-2. basic attacks
-3. matching parries
-4. the two-Saberist table format
-5. CM-A, the first core movement
+!!! tip video-callout "Prefer to watch? — 10 minute lesson"
+    <div class="video-aside">
+      <a class="video-aside__poster" href="https://www.youtube.com/watch?v=ExZQZuh7qYQ" data-video="ExZQZuh7qYQ" data-title="Saber combat choreography for beginners, starting with CM-A">
+        <img src="https://img.youtube.com/vi/ExZQZuh7qYQ/maxresdefault.jpg" alt="Play: saber combat choreography for beginners, starting with CM-A" loading="lazy">
+        <span class="video-aside__play" aria-hidden="true"></span>
+      </a>
+    </div>
 
-That is enough to read and practice your first Saber Standard sequence.
-
-The full notation reference is available later in the [Notation Legend](legend.md).
+</div>
 
 ---
 
-## Saber Standard Notation System
-
-Saber Standard Notation is an open-source weapon combat notation system used for SaberCraft choreographies.
+Saber Standard Notation is an open-source weapon combat notation system used for SaberCraft choreographies. It is the written movement language of the Saber Standard, and it helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
 
 Target numbers are named from the **attacker's perspective**: the clock face sits on the partner, and the number is read from the attacking side. That is a rule about naming lines, and it is the only place the attacker's view is privileged.
 
@@ -34,11 +34,7 @@ It is also meant to be built with. The choreography is not the standard — the 
 
 Below is a quick overview of how the notation works and the intended target points. Once you understand that, begin learning the Choreography Movements.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/ExZQZuh7qYQ" title="Saber combat choreography for beginners, starting with CM-A" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
-</div>
-
-### The target points
+## The target points
 
 <div class="diagram-table" markdown>
 
@@ -50,7 +46,7 @@ Below is a quick overview of how the notation works and the intended target poin
 
 Select any diagram to open it full size in a new tab.
 
-### Attacks and parries
+## Attacks and parries
 
 The simplest Saber Standard notation uses numbers and the letter `P`.
 
@@ -68,7 +64,7 @@ The simplest Saber Standard notation uses numbers and the letter `P`.
 
 </div>
 
-### The two-Saberist table
+## The two-Saberist table
 
 Most beginner Saber Standard sequences are written as a two-row table.
 
@@ -87,7 +83,7 @@ Read the table vertically, one column at a time.
 
 The table keeps both performers connected to the same timing.
 
-### Attacking
+## Attacking
 
 Picture a clock and place your partner in the middle of that clock. When attacking, you swing the saber so that the tip arrives at the appropriate target point.
 
@@ -113,7 +109,7 @@ These six lines are used in CM-A and give new Saberists a simple starting vocabu
 
 For more detail, see [Targets](targets.md).
 
-### Defending
+## Defending
 
 Picture a clock. Now mirror it and place yourself in the center of that clock. When defending, imagine that *you are the clock*. You are positioning your hands at a number on the clock.
 
@@ -135,7 +131,7 @@ Each attack line has a matching parry:
 
 For more detail, see [Parries](parries.md).
 
-### First complete example: CM-A
+## First complete example: CM-A
 
 CM-A is the first official core movement sequence.
 
@@ -157,11 +153,13 @@ CM-A teaches the basic attack/parry relationship across the six beginner lines.
 
 For the full teaching page, see [CM-A](../core/cm-a.md).
 
-### Beyond attacks and parries
+## Beyond attacks and parries
 
 Attacks and parries are only the beginning. Saber Standard Notation also records blade contact, body movement, grip, footwork, and flourishes, so a written sequence can describe a whole exchange rather than just where the saber goes.
 
 A few examples:
+
+<div class="symbol-table" markdown>
 
 | Symbol | Meaning |
 |---|---|
@@ -173,9 +171,11 @@ A few examples:
 | `St-B` | Step back |
 | `Fl-Rev` | Reverse flourish (saber spin) |
 
+</div>
+
 These are a sample. The [Notation Legend](legend.md) holds the full vocabulary.
 
-### Next steps
+## Next steps
 
 Moving to the next stage means becoming part of the community. This is about building groups so you can practice, learn, and grow with others.
 
@@ -184,12 +184,6 @@ As a Saberist, you learn the system, memorize the Choreography Movements, then b
 - Continue to the next lesson: [CM-B](../core/core-library.md)
 - Browse the full catalog at the [CM Series Catalog](https://sabercraft.org/cm-series-catalog/)
 - See the [Downloads](../downloads.md) page for the instructional guide
-
-### Usage for other organizations
-
-Other schools, clubs, and performance groups are welcome to use Saber Standard Notation and publish their contributions back to the community.
-
-For the terms that apply, see [Licensing](../licensing.md).
 
 ## What notation does not replace
 

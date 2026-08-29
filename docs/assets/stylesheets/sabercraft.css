@@ -283,6 +283,136 @@
   border-left: 2px solid rgba(0, 0, 0, 0.4);
 }
 
+/* The Notation overview opens on two columns: what to learn first on the
+   left, the video callout on the right at a bit over a third of the row, so
+   the reading still leads and the video sits beside it. */
+.md-typeset .intro-split {
+  display: grid;
+  grid-template-columns: minmax(0, 65fr) minmax(0, 35fr);
+  gap: 1.6rem;
+  align-items: start;
+}
+
+/* Both columns have to start on the same line. The heading in one and the
+   admonition in the other each carry a top margin that would otherwise leave
+   them at different heights. */
+.md-typeset .intro-split > .admonition,
+.md-typeset .intro-split > div > :first-child {
+  margin-top: 0;
+}
+
+/* Half a screen is not enough for two columns of prose, so below the tablet
+   breakpoint they stack, with the video under the text it belongs to. The cap
+   keeps the video from becoming the largest thing on a tablet screen once it
+   is no longer held to half the width. */
+@media screen and (max-width: 60em) {
+  .md-typeset .intro-split {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+  }
+
+  .md-typeset .video-aside {
+    max-width: 22rem;
+  }
+}
+
+/* A video offered alongside the text rather than as the main event: it fills
+   its callout, which is itself about a third of the content width, and holds
+   a 16:9 box without the padding trick the older embeds on other pages use.
+   Until a reader asks to play it, the box holds the poster image and the play
+   button below rather than a YouTube player -- see
+   docs/assets/javascripts/video-facade.js. */
+.md-typeset .video-aside {
+  margin-top: 0.2rem;
+}
+
+.md-typeset .video-aside iframe,
+.md-typeset .video-aside__poster {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 0.3rem;
+}
+
+.md-typeset .video-aside__poster {
+  position: relative;
+  overflow: hidden;
+  background: #000000;
+}
+
+/* The poster is a 16:9 frame already; `cover` is here so a video whose
+   thumbnail is any other shape still fills the box instead of letterboxing
+   inside it. */
+.md-typeset .video-aside__poster img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.2s, filter 0.2s;
+}
+
+/* The site's own play button: a small red disc with a white triangle, rather
+   than the player's controls at a size they were never drawn for. */
+.md-typeset .video-aside__play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 2.2rem;
+  height: 2.2rem;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: var(--lumina-red);
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+.md-typeset .video-aside__play::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 54%;
+  width: 0;
+  height: 0;
+  transform: translate(-50%, -50%);
+  border-top: 0.4rem solid transparent;
+  border-bottom: 0.4rem solid transparent;
+  border-left: 0.62rem solid #ffffff;
+}
+
+.md-typeset .video-aside__poster:hover img,
+.md-typeset .video-aside__poster:focus-visible img {
+  transform: scale(1.03);
+  filter: brightness(1.08);
+}
+
+.md-typeset .video-aside__poster:hover .video-aside__play,
+.md-typeset .video-aside__poster:focus-visible .video-aside__play {
+  transform: translate(-50%, -50%) scale(1.08);
+  background: #ff5350;
+}
+
+.md-typeset .video-aside__poster:focus-visible {
+  outline: 2px solid var(--lumina-red);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .video-aside__poster img,
+  .md-typeset .video-aside__play {
+    transition: none;
+  }
+}
+
+/* The symbol table on the Notation overview. The symbol is what the reader is
+   here to recognise, so it is set above body-code size; the selector mirrors
+   the theme's own `table:not([class])` rule so it wins on specificity. */
+.md-typeset .symbol-table table:not([class]) td:nth-child(1) code {
+  font-size: 1.3em;
+  font-weight: 700;
+  padding: 0.1em 0.4em;
+}
+
 /* Diagrams that link to their own full-size image. The cursor and the lift on
    hover are what tell a reader the thumbnail is worth clicking. */
 .md-typeset .diagram-zoom {
