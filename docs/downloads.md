@@ -4,7 +4,7 @@ This page holds official versioned downloads.
 
 | Download | Status |
 |---|---|
-| [Saber Standard PDF](assets/downloads/LUMINA-A-System-of-Combat-Choreography-and-Gaming-v1.0.pdf) | Available |
+| [Saber Standard PDF](assets/downloads/The-Saber-Standard-Guidebook-v2.0.pdf) | Available |
 | [Quick Start Guide PDF](assets/downloads/SaberCraft-Notation-System-CM-Core-Worksheet.pdf) | Available |
 | Printable target diagrams | Planned |
 | CM notation sheets | Planned |
