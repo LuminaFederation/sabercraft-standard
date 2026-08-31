@@ -1,0 +1,793 @@
+/* SaberCraft-inspired visual skin for the Saber Standard MkDocs site. */
+:root {
+  --lumina-red: #e53935;
+  --lumina-blue: #42a5f5;
+  --lumina-gold: #f7c948;
+  /* Green is reserved for the one control that has to be found on an
+     otherwise empty margin: the table-of-contents tab. */
+  --lumina-green: #22c55e;
+  --lumina-green-bright: #4ade80;
+  --lumina-ink: #08090d;
+  --lumina-panel: rgba(12, 14, 22, 0.92);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #05060a;
+  --md-default-fg-color: #f4f4f5;
+  --md-primary-fg-color: #05060a;
+  --md-accent-fg-color: var(--lumina-red);
+  --md-typeset-a-color: #7cc7ff;
+}
+
+[data-md-color-scheme="default"] {
+  --md-accent-fg-color: var(--lumina-red);
+  --md-typeset-a-color: #1565c0;
+}
+
+.md-header,
+.md-tabs {
+  background: linear-gradient(90deg, #05060a 0%, #111827 50%, #05060a 100%);
+  border-bottom: 1px solid rgba(229, 57, 53, 0.55);
+}
+
+.md-header__title,
+.md-tabs__link {
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #ffffff;
+  text-shadow: 0 0 12px rgba(229, 57, 53, 0.85), 0 0 18px rgba(66, 165, 245, 0.55);
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+}
+
+/* Content backdrop. Each scheme paints its own: an unscoped dark gradient
+   here also covered the light scheme, leaving dark text on a dark page. */
+[data-md-color-scheme="slate"] .md-main {
+  background:
+    radial-gradient(circle at 20% 0%, rgba(229, 57, 53, 0.17), transparent 28rem),
+    radial-gradient(circle at 80% 8%, rgba(66, 165, 245, 0.16), transparent 26rem),
+    linear-gradient(180deg, #05060a 0%, #0b0d13 42%, #05060a 100%);
+}
+
+[data-md-color-scheme="default"] .md-main {
+  background:
+    radial-gradient(circle at 20% 0%, rgba(229, 57, 53, 0.09), transparent 28rem),
+    radial-gradient(circle at 80% 8%, rgba(66, 165, 245, 0.09), transparent 26rem),
+    linear-gradient(180deg, #ffffff 0%, #f2f4f7 42%, #ffffff 100%);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-weight: 900;
+  letter-spacing: 0.02em;
+}
+
+.lumina-hero {
+  position: relative;
+  margin: 0 0 2rem;
+  padding: 4rem 2rem;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 1.25rem;
+  overflow: hidden;
+  background:
+    linear-gradient(115deg, rgba(5,6,10,0.96) 0%, rgba(12,14,22,0.90) 48%, rgba(5,6,10,0.96) 100%),
+    radial-gradient(circle at 25% 35%, rgba(229,57,53,0.35), transparent 18rem),
+    radial-gradient(circle at 75% 35%, rgba(66,165,245,0.32), transparent 18rem);
+  box-shadow: 0 1.25rem 3rem rgba(0,0,0,0.45);
+}
+
+.lumina-hero::before,
+.lumina-hero::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 46%;
+  height: 4px;
+  border-radius: 999px;
+  opacity: 0.78;
+  filter: blur(0.3px);
+}
+
+.lumina-hero::before {
+  left: -6%;
+  background: linear-gradient(90deg, transparent, var(--lumina-blue), #ffffff);
+  transform: rotate(-17deg);
+  box-shadow: 0 0 18px rgba(66,165,245,0.85);
+}
+
+.lumina-hero::after {
+  right: -6%;
+  background: linear-gradient(270deg, transparent, var(--lumina-red), #ffffff);
+  transform: rotate(17deg);
+  box-shadow: 0 0 18px rgba(229,57,53,0.85);
+}
+
+/* Background clip behind the hero. The hero already sets position: relative
+   and overflow: hidden, so the video only needs to fill it. It sits above the
+   hero's own gradient (an element background paints behind its children), so
+   the scrim above it is what keeps the headline readable. */
+/* Scoped under .md-typeset to outrank the theme's own
+   `.md-typeset img, .md-typeset svg, .md-typeset video { height: auto }`,
+   which otherwise collapses the clip back to its 16:9 intrinsic height
+   instead of letting it fill the hero. */
+.md-typeset .lumina-hero__video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  z-index: 0;
+  pointer-events: none;
+  filter: brightness(1.12) saturate(1.04);
+}
+
+.lumina-hero__scrim {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(115deg, rgba(5,6,10,0.74) 0%, rgba(12,14,22,0.48) 50%, rgba(5,6,10,0.74) 100%),
+    radial-gradient(circle at 25% 35%, rgba(229,57,53,0.22), transparent 18rem),
+    radial-gradient(circle at 75% 35%, rgba(66,165,245,0.20), transparent 18rem);
+}
+
+/* Lift the hero's own content clear of the video and its scrim. */
+.lumina-hero > .lumina-hero__eyebrow,
+.lumina-hero > h1,
+.lumina-hero > .lumina-hero__subtitle,
+.lumina-hero > .lumina-actions {
+  position: relative;
+  z-index: 2;
+}
+
+/* Readers who ask for less motion get the still first frame. */
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .lumina-hero__video {
+    display: none;
+  }
+}
+
+.lumina-hero__eyebrow {
+  position: relative;
+  z-index: 1;
+  margin: 0 0 0.75rem;
+  color: var(--lumina-gold);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.lumina-hero h1 {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  color: #ffffff;
+  font-size: clamp(2.4rem, 7vw, 5.25rem);
+  line-height: 0.95;
+  text-transform: uppercase;
+  text-shadow: 0 0 24px rgba(229,57,53,0.35), 0 0 34px rgba(66,165,245,0.28);
+}
+
+/* The leading article rides above the headline as a small kicker. */
+.lumina-hero__article {
+  display: block;
+  font-size: 0.3em;
+  line-height: 1.1;
+  letter-spacing: 0.18em;
+  font-weight: 800;
+  opacity: 0.9;
+}
+
+.lumina-hero__subtitle {
+  position: relative;
+  z-index: 1;
+  max-width: 48rem;
+  margin: 1.3rem 0 0;
+  color: #e5e7eb;
+  font-size: 1.05rem;
+}
+
+.lumina-actions {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-top: 1.6rem;
+}
+
+.lumina-button {
+  display: inline-block;
+  padding: 0.72rem 1rem;
+  border-radius: 999px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border: 1px solid rgba(255,255,255,0.22);
+}
+
+.lumina-button--primary {
+  color: #ffffff !important;
+  background: linear-gradient(90deg, #b91c1c, #ef4444);
+  box-shadow: 0 0 18px rgba(229,57,53,0.35);
+}
+
+.lumina-button--secondary {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.08);
+}
+
+.md-typeset .admonition,
+.md-typeset details,
+.md-typeset table:not([class]) {
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 0.75rem 2rem rgba(0,0,0,0.18);
+}
+
+.md-footer {
+  background: #05060a;
+  border-top: 1px solid rgba(229,57,53,0.35);
+}
+
+.md-typeset .diagram-table table,
+.md-typeset .diagram-table th,
+.md-typeset .diagram-table td {
+  background-color: #ffffff;
+}
+
+/* th is included so diagram tables that carry a header row stay readable;
+   without it the theme's light header text sits on the white cell. */
+.md-typeset .diagram-table th,
+.md-typeset .diagram-table td,
+.md-typeset .diagram-table strong {
+  color: #000000;
+}
+
+/* Rows built around a diagram are tall, so centre the label and the
+   description against the image rather than stranding them at the top.
+   The selector mirrors the theme's own `table:not([class]) td` rule, which
+   sets vertical-align: top and otherwise wins on specificity. */
+.md-typeset .diagram-table table:not([class]) td {
+  vertical-align: middle;
+}
+
+/* The beginner target table on the Notation overview carries two target lines
+   per row. The target number is the notation the reader is here to learn, so
+   it is set well above body-code size; the selectors mirror the theme's own
+   `table:not([class])` rule so they win on specificity. */
+.md-typeset .target-pairs table:not([class]) td:nth-child(1) code,
+.md-typeset .target-pairs table:not([class]) td:nth-child(4) code {
+  font-size: 1.6em;
+  font-weight: 700;
+  padding: 0.1em 0.4em;
+}
+
+/* A rule down the middle keeps the two halves of the row from reading as one
+   run of six columns. It sits on the fourth column, where the second set of
+   Target/Attack/Description begins. */
+.md-typeset .target-pairs table:not([class]) th:nth-child(4),
+.md-typeset .target-pairs table:not([class]) td:nth-child(4) {
+  border-left: 2px solid rgba(0, 0, 0, 0.4);
+}
+
+/* The Notation overview opens on two columns: what to learn first on the
+   left, the video callout on the right at a bit over a third of the row, so
+   the reading still leads and the video sits beside it. */
+.md-typeset .intro-split {
+  display: grid;
+  grid-template-columns: minmax(0, 65fr) minmax(0, 35fr);
+  gap: 1.6rem;
+  align-items: start;
+}
+
+/* Both columns have to start on the same line. The heading in one and the
+   admonition in the other each carry a top margin that would otherwise leave
+   them at different heights. */
+.md-typeset .intro-split > .admonition,
+.md-typeset .intro-split > div > :first-child {
+  margin-top: 0;
+}
+
+/* Half a screen is not enough for two columns of prose, so below the tablet
+   breakpoint they stack, with the video under the text it belongs to. The cap
+   keeps the video from becoming the largest thing on a tablet screen once it
+   is no longer held to half the width. */
+@media screen and (max-width: 60em) {
+  .md-typeset .intro-split {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+  }
+
+  .md-typeset .video-aside {
+    max-width: 22rem;
+  }
+}
+
+/* A video offered alongside the text rather than as the main event: it fills
+   its callout, which is itself about a third of the content width, and holds
+   a 16:9 box without the padding trick the older embeds on other pages use.
+   Until a reader asks to play it, the box holds the poster image and the play
+   button below rather than a YouTube player -- see
+   docs/assets/javascripts/video-facade.js. */
+.md-typeset .video-aside {
+  margin-top: 0.2rem;
+}
+
+.md-typeset .video-aside iframe,
+.md-typeset .video-aside__poster {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 0.3rem;
+}
+
+.md-typeset .video-aside__poster {
+  position: relative;
+  overflow: hidden;
+  background: #000000;
+}
+
+/* The poster is a 16:9 frame already; `cover` is here so a video whose
+   thumbnail is any other shape still fills the box instead of letterboxing
+   inside it. */
+.md-typeset .video-aside__poster img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.2s, filter 0.2s;
+}
+
+/* The site's own play button: a small red disc with a white triangle, rather
+   than the player's controls at a size they were never drawn for. */
+.md-typeset .video-aside__play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 2.2rem;
+  height: 2.2rem;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: var(--lumina-red);
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+.md-typeset .video-aside__play::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 54%;
+  width: 0;
+  height: 0;
+  transform: translate(-50%, -50%);
+  border-top: 0.4rem solid transparent;
+  border-bottom: 0.4rem solid transparent;
+  border-left: 0.62rem solid #ffffff;
+}
+
+.md-typeset .video-aside__poster:hover img,
+.md-typeset .video-aside__poster:focus-visible img {
+  transform: scale(1.03);
+  filter: brightness(1.08);
+}
+
+.md-typeset .video-aside__poster:hover .video-aside__play,
+.md-typeset .video-aside__poster:focus-visible .video-aside__play {
+  transform: translate(-50%, -50%) scale(1.08);
+  background: #ff5350;
+}
+
+.md-typeset .video-aside__poster:focus-visible {
+  outline: 2px solid var(--lumina-red);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .video-aside__poster img,
+  .md-typeset .video-aside__play {
+    transition: none;
+  }
+}
+
+/* The symbol table on the Notation overview. The symbol is what the reader is
+   here to recognise, so it is set above body-code size; the selector mirrors
+   the theme's own `table:not([class])` rule so it wins on specificity. */
+.md-typeset .symbol-table table:not([class]) td:nth-child(1) code {
+  font-size: 1.3em;
+  font-weight: 700;
+  padding: 0.1em 0.4em;
+}
+
+/* Diagrams that link to their own full-size image. The cursor and the lift on
+   hover are what tell a reader the thumbnail is worth clicking. */
+.md-typeset .diagram-zoom {
+  display: inline-block;
+  cursor: zoom-in;
+}
+
+.md-typeset .diagram-zoom img {
+  border-radius: 0.1rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.md-typeset .diagram-zoom:hover img,
+.md-typeset .diagram-zoom:focus-visible img {
+  transform: scale(1.03);
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.35);
+}
+
+.md-typeset .diagram-zoom:focus-visible {
+  outline: 2px solid var(--lumina-red);
+  outline-offset: 2px;
+}
+
+/* Collapsible table of contents.
+   The right-hand panel starts collapsed, so the content column has its full
+   width on every page, and parks itself just off the right edge as a flyout:
+   hovering the green tab slides it back in for a look, clicking the tab pins
+   it open, and the choice is remembered across pages. Buttons are added by the
+   script in overrides/main.html, so with JavaScript off the panel simply stays
+   open as it always did.
+
+   Only applies at the width where Material actually shows the panel; below
+   that the table of contents lives in the drawer and there is nothing to
+   collapse. */
+@media screen and (min-width: 76.25em) {
+  /* Collapsed. Taking the panel out of the flow is what hands the width back
+     to the content column; it stays in the DOM so it can slide in on hover,
+     and visibility keeps its links out of the tab order while it is parked
+     off-screen. */
+  body.sc-toc-hidden .md-sidebar--secondary {
+    position: fixed;
+    /* Parked one panel-width off the edge. The slide is animated on `right`
+       rather than on a transform because a transformed box becomes the
+       containing block for its fixed children, which would drag the tab
+       off-screen along with the panel. Fixed boxes add nothing to the page's
+       scrollable area, so parking it here costs no sideways scroll. */
+    right: -12.1rem;
+    z-index: 3;
+    /* The theme sets `top` inline on the sidebar, from the header height, and
+       an inline style beats anything written here -- so the drop that clears
+       the navigation tabs is expressed as a margin on top of it. Both the
+       header and the tabs paint over this panel, so it has to start below
+       them. */
+    margin-top: 2.6rem;
+    width: 12.1rem;
+    /* The theme keeps the sidebar box itself at zero height and lets the list
+       overflow it, which is invisible until the flyout paints a background
+       behind it -- so here the box goes back to wrapping its contents. */
+    height: auto;
+    max-height: calc(100vh - 9.6rem);
+    /* The right padding is wide enough for the tab to sit over it once the
+       panel has slid in, so the tab never covers a heading. */
+    padding: 0.6rem 1.6rem 0.6rem 0.8rem;
+    border-left: 2px solid var(--lumina-green);
+    border-radius: 0.3rem 0 0 0.3rem;
+    background: var(--md-default-bg-color);
+    box-shadow: -0.3rem 0 1rem rgba(0, 0, 0, 0.35);
+    visibility: hidden;
+    transition: right 0.25s ease, visibility 0s linear 0.25s;
+  }
+
+  /* The tab is a child of the panel, so hovering the tab is hovering the
+     panel and the whole flyout slides in -- no script involved. :focus-within
+     does the same for keyboard readers, who reach the tab by tabbing to it. */
+  body.sc-toc-hidden .md-sidebar--secondary:hover,
+  body.sc-toc-hidden .md-sidebar--secondary:focus-within {
+    right: 0;
+    visibility: visible;
+    transition-delay: 0s;
+  }
+
+  /* A long list of headings scrolls inside the flyout rather than running off
+     the bottom of the screen, and a short one leaves no empty panel below it.
+     The theme's script writes a pixel height straight onto this element, so
+     !important is what it takes to hand the height back to the content. */
+  body.sc-toc-hidden .md-sidebar--secondary .md-sidebar__scrollwrap {
+    height: auto !important;
+    max-height: calc(100vh - 11rem);
+    overflow-y: auto;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    body.sc-toc-hidden .md-sidebar--secondary {
+      transition: none;
+    }
+  }
+
+  /* Put the hide button on the same row as the "Table of contents" label. */
+  .md-sidebar--secondary .md-nav--secondary > .md-nav__title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.4rem;
+  }
+
+  .sc-toc-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    border: 0;
+    border-radius: 0.2rem;
+    background: transparent;
+    color: var(--md-default-fg-color--light);
+    cursor: pointer;
+  }
+
+  .sc-toc-btn:hover {
+    color: var(--lumina-red);
+    background: var(--md-default-fg-color--lightest);
+  }
+
+  .sc-toc-btn:focus-visible {
+    outline: 2px solid var(--lumina-red);
+    outline-offset: 1px;
+  }
+
+  .sc-toc-btn::before {
+    content: "";
+    width: 0.36rem;
+    height: 0.36rem;
+    border-right: 2px solid currentcolor;
+    border-bottom: 2px solid currentcolor;
+  }
+
+  /* Hide: chevron points right, toward the edge the panel collapses to. It is
+     the pinned panel's own control, so it goes away once the panel is parked
+     and the tab has taken over. */
+  .sc-toc-btn--hide {
+    flex: 0 0 auto;
+    width: 1.3rem;
+    height: 1.3rem;
+  }
+
+  .sc-toc-btn--hide::before {
+    transform: rotate(-45deg);
+  }
+
+  body.sc-toc-hidden .sc-toc-btn--hide {
+    display: none;
+  }
+
+  /* Show: a slim tab pinned to the right edge of the screen, and the only
+     thing left in view once the panel is parked. Green because it has to be
+     findable against a page that is otherwise red, blue and grey; it keeps
+     its own visibility so it still shows while the panel it belongs to is
+     hidden.
+
+     It is pinned to the viewport rather than to the panel on purpose: a tab
+     that travelled with the panel would slide out from under the pointer that
+     is hovering it, dropping the hover and sending the panel straight back
+     out again. */
+  .sc-toc-btn--show {
+    position: fixed;
+    top: 6.4rem;
+    right: 0;
+    width: 1.2rem;
+    height: 2.8rem;
+    border-radius: 0.3rem 0 0 0.3rem;
+    background: var(--lumina-green);
+    color: var(--lumina-ink);
+    visibility: visible;
+    box-shadow: -0.15rem 0 0.5rem rgba(0, 0, 0, 0.3);
+  }
+
+  .sc-toc-btn--show::before {
+    transform: rotate(135deg);
+  }
+
+  /* Overrides the shared .sc-toc-btn:hover above, which would drop the tab
+     back to a transparent background at the moment it is being pointed at. */
+  .sc-toc-btn--show:hover {
+    background: var(--lumina-green-bright);
+    color: var(--lumina-ink);
+  }
+
+  body:not(.sc-toc-hidden) .sc-toc-btn--show {
+    display: none;
+  }
+}
+
+/* Below the breakpoint there is no secondary panel, so neither button
+   should ever appear. */
+@media screen and (max-width: 76.2344em) {
+  .sc-toc-btn {
+    display: none;
+  }
+}
+
+/* Reader-controlled text size.
+   Everything Material sizes -- body copy, headings, tables, admonitions and
+   the navigation -- is expressed in rem, so stepping the root font size
+   scales the whole page in proportion rather than leaving the parts the
+   theme sets in fixed rem behind. The multiplier is written to <html> by
+   docs/assets/javascripts/font-size.js; with JavaScript off it stays 1 and
+   these rules reproduce the theme's own sizes exactly.
+
+   Breakpoints are unaffected: em in a media query resolves against the
+   browser default rather than this rule, so the layout never flips between
+   its phone and desktop forms as the reader steps the size up. */
+:root {
+  --sc-font-scale: 1;
+}
+
+html {
+  font-size: calc(125% * var(--sc-font-scale));
+}
+
+/* Mirrors the theme's own wide-screen step-up, which the rule above would
+   otherwise cancel by loading later. */
+@media screen and (min-width: 100em) {
+  html {
+    font-size: calc(137.5% * var(--sc-font-scale));
+  }
+}
+
+/* The control itself: a pair of buttons in the header, added by the script
+   so that with JavaScript off nothing appears to click. */
+.sc-fontsize {
+  display: flex;
+  align-items: center;
+  gap: 0.1rem;
+  margin-left: 0.2rem;
+}
+
+.sc-fontsize__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0.2rem;
+  background: transparent;
+  color: var(--md-primary-bg-color);
+  font-family: inherit;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color 0.25s, opacity 0.25s;
+}
+
+/* The two glyphs are the same letter at different sizes, which reads as
+   "smaller" and "larger" without needing a label. */
+.sc-fontsize__btn--down {
+  font-size: 0.62rem;
+}
+
+.sc-fontsize__btn--up {
+  font-size: 0.92rem;
+}
+
+.sc-fontsize__btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.sc-fontsize__btn:focus-visible {
+  outline: 2px solid var(--lumina-red);
+  outline-offset: 1px;
+}
+
+/* At either end of the range the button stays focusable and keeps its place
+   in the header; it simply has nothing left to do. */
+.sc-fontsize__btn[aria-disabled="true"] {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.sc-fontsize__btn[aria-disabled="true"]:hover {
+  background: transparent;
+}
+
+/* Announces the new size to screen readers; sighted readers see the change
+   itself. */
+.sc-fontsize__status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
+/* Knight sash table. Each row carries a tint and a left bar in its own sash
+   colour. The colours follow the row order of the table on the Advancement
+   page: white, yellow, orange, indigo, green, red. Reordering the rows means
+   reordering these rules. Tints are kept light so the text stays readable in
+   both the light and slate schemes. */
+.md-typeset .sash-table tbody tr:nth-child(1) { --sash: #d4d4d8; --sash-tint: rgba(212, 212, 216, 0.18); }
+.md-typeset .sash-table tbody tr:nth-child(2) { --sash: var(--lumina-gold); --sash-tint: rgba(247, 201, 72, 0.16); }
+.md-typeset .sash-table tbody tr:nth-child(3) { --sash: #f57c00; --sash-tint: rgba(245, 124, 0, 0.16); }
+.md-typeset .sash-table tbody tr:nth-child(4) { --sash: #5c6bc0; --sash-tint: rgba(92, 107, 192, 0.20); }
+.md-typeset .sash-table tbody tr:nth-child(5) { --sash: #43a047; --sash-tint: rgba(67, 160, 71, 0.18); }
+.md-typeset .sash-table tbody tr:nth-child(6) { --sash: var(--lumina-red); --sash-tint: rgba(229, 57, 53, 0.16); }
+
+.md-typeset .sash-table tbody td {
+  background-color: var(--sash-tint);
+}
+
+.md-typeset .sash-table tbody td:first-child {
+  border-left: 0.3rem solid var(--sash);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+/* Cover Fights table on the CM Catalog. Columns 3 to 9 are the X1-X7 slots,
+   which hold a two or three digit series number or nothing at all. Left to the
+   theme's defaults the table takes its max-content width -- the theme lays
+   tables out as inline-block inside a scrolling wrapper -- and the last of the
+   X columns fall off the right edge of the content column. Trimming the cell
+   padding and dropping the theme's 100px minimum on the seven slot columns
+   leaves the source, character and credit columns to wrap, so the whole table
+   fits on a desktop screen. Adding or removing an X column means updating the
+   nth-child range below. */
+.md-typeset .cover-fights table:not([class]) th,
+.md-typeset .cover-fights table:not([class]) td {
+  padding: 0.6em 0.6em;
+}
+
+.md-typeset .cover-fights table:not([class]) th:nth-child(n+3):nth-child(-n+9),
+.md-typeset .cover-fights table:not([class]) td:nth-child(n+3):nth-child(-n+9) {
+  width: 1%;
+  min-width: 0;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  white-space: nowrap;
+}
+
+/* The theme wraps every table in an inline-block box inside a scrolling
+   wrapper, which lets the table grow to its max-content width and scroll. Here
+   the box is made a block and the table told to fill it, so the table takes
+   the width of the content column and wraps its text instead. Only from the
+   tablet breakpoint up: eleven columns squeezed into a phone screen would wrap
+   the text columns a character at a time, so below this the table keeps the
+   theme's sideways scroll. */
+@media screen and (min-width: 60em) {
+  .md-typeset .cover-fights .md-typeset__table {
+    display: block;
+  }
+
+  .md-typeset .cover-fights table:not([class]) {
+    display: table;
+    width: 100%;
+  }
+}
+
+/* Long, flat lists of one-word items read as a wall of bullets and stretch a
+   page out. This flows them into three columns, dropping to two on phones so
+   the tracks never get too narrow to read. */
+.md-typeset .column-list ul {
+  column-count: 3;
+  column-gap: 2rem;
+}
+
+.md-typeset .column-list li {
+  margin-top: 0;
+  break-inside: avoid;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .column-list ul {
+    column-count: 2;
+  }
+}
