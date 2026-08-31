@@ -12,13 +12,13 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 | ![CM-K](../assets/images/cm/cm-k.webp){ width="140" } | **[CM-K](cm-k.md)** | Staff vs. sabers (Maul vs. Obi-Wan, 1) | Full written notation on this site |
 | ![CM-L](../assets/images/cm/cm-l.webp){ width="140" } | **[CM-L](cm-l.md)** | Maul vs. Obi-Wan (2) | Full written notation on this site |
 | ![CM-M](../assets/images/cm/cm-m.webp){ width="140" } | **[CM-M](cm-m.md)** | Dooku vs. Anakin | Full written notation on this site |
-| ![CM-N](../assets/images/cm/cm-n.webp){ width="140" } | **[CM-N](cm-n.md)** | Dual wielding | Full written notation on this site |
+| ![CM-N](../assets/images/cm/cm-n.webp){ width="140" } | **[CM-N](cm-n.md)** | Dual wielding — beginner | Full written notation on this site |
 | ![CM-O](../assets/images/cm/cm-o.webp){ width="140" } | **[CM-O](cm-o.md)** | Musashi vs. Tanaka | Full written notation on this site |
 | ![CM-P](../assets/images/cm/cm-p.webp){ width="140" } | **[CM-P](cm-p.md)** | Dooku vs. Anakin (continued) | Full written notation on this site |
-| ![CM-Q](../assets/images/cm/cm-q.webp){ width="140" } | **CM-Q** | Ahsoka vs. Anakin | [Video lesson](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/) |
+| ![CM-Q](../assets/images/cm/cm-q.webp){ width="140" } | **CM-Q** | Dual wielding — advanced (Ahsoka vs. Anakin) | [Video lesson](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/) |
 | ![CM-R](../assets/images/cm/cm-r.webp){ width="140" } | **[CM-R](cm-r.md)** | Avengers: Endgame (Ronin) | Full written notation on this site |
 | ![CM-S](../assets/images/cm/cm-s.webp){ width="140" } | **[CM-S](cm-s.md)** | Lock spins | Full written notation on this site |
-| ![CM-T](../assets/images/cm/cm-t.webp){ width="140" } | **[CM-T](cm-t.md)** | CM-T | Full written notation on this site |
+| ![CM-T](../assets/images/cm/cm-t.webp){ width="140" } | **[CM-T](cm-t.md)** | Flow spins and holds | Full written notation on this site |
 | ![CM-U](../assets/images/cm/cm-u.webp){ width="140" } | **CM-U** | Kylo vs. Rey | [Video lesson](https://sabercraft.org/choreography-kvr/) |
 | ![CM-V](../assets/images/cm/cm-v.webp){ width="140" } | **[CM-V](cm-v.md)** | Vader vs. Obi-Wan (Kenobi, Ep. 3) | Full written notation on this site |
 | ![CM-W](../assets/images/cm/cm-w.webp){ width="140" } | **[CM-W](cm-w.md)** | Wonder Woman vs. Antiope | Full written notation on this site |
