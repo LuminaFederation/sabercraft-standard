@@ -77,42 +77,11 @@ CM-F is designed to teach:
 - continuous movement backwards through a sequence
 - closing a movement with a disarm
 
-## Training method
+## The disarm
 
-### Phase 1: Static walkthrough
+The disarm is CM-F's special move — the milestone the movement builds to, in the sense [CM-E](cm-e.md) introduces. It is the one moment in CM-F where the unarmed Saberist stops avoiding and acts, and it is what the whole run of blends is arranged to earn.
 
-Run the opening table on its own, one step at a time.
-
-After each step, pause and confirm:
-
-- Saberist A knows which line is coming and which way they are moving off it
-- Saberist B's swing is at a distance Saberist A can leave in time
-- the turn at step 2 happens on both sides at once
-- the movement can be repeated
-
-Both Saberists should know Saberist A's row before Saberist B swings at speed.
-
-### Phase 2: The backward run
-
-Take the second table separately, and walk it before running it.
-
-Clear the floor behind Saberist A first, and agree on the direction and the length of the run. Mark where it ends. Saberist A is moving backwards for nine steps and cannot watch the ground.
-
-Take the jump at step 6 slowly. A jump back adds distance to a sequence already travelling backwards.
-
-### Phase 3: The disarm
-
-Practice the last column on its own, statically.
-
-Set the thrust and the disarm as a pair, slowly, by agreement, and repeat it until the hand-off is the same every time. Do not add it to the run until it is.
-
-### Phase 4: Slow continuous flow
-
-Perform both tables end to end without stopping, still slow.
-
-The seam is the turn between them. Practice the last step of the opening and the first two steps of the run on their own until the pair arrive facing each other and moving.
-
-If either Saberist loses the sequence, stop and restart from Step 1.
+Practice it on its own, statically, before it goes anywhere near the run. Set the thrust and the disarm as a pair, slowly and by agreement, and repeat it until the hand-off is the same every time. Only add it to the sequence once it is.
 
 ## Teaching note
 
