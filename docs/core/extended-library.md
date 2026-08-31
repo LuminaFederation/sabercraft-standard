@@ -16,9 +16,9 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 | ![CM-O](../assets/images/cm/cm-o.webp){ width="140" } | **[CM-O](cm-o.md)** | Musashi vs. Tanaka | Full written notation on this site |
 | ![CM-P](../assets/images/cm/cm-p.webp){ width="140" } | **[CM-P](cm-p.md)** | Dooku vs. Anakin (continued) | Full written notation on this site |
 | ![CM-Q](../assets/images/cm/cm-q.webp){ width="140" } | **CM-Q** | Ahsoka vs. Anakin | [Video lesson](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/) |
-| ![CM-R](../assets/images/cm/cm-r.webp){ width="140" } | **CM-R** | Avengers: Endgame (Ronin) | [Video lesson](https://sabercraft.org/cm-r-endgame-ronin/) |
-| ![CM-S](../assets/images/cm/cm-s.webp){ width="140" } | **CM-S** | Lock spins | [Video lesson](https://sabercraft.org/cm-s-lock-spins/) |
-| ![CM-T](../assets/images/cm/cm-t.webp){ width="140" } | **CM-T** | CM-T | [Video lesson](https://sabercraft.org/cm-t/) |
+| ![CM-R](../assets/images/cm/cm-r.webp){ width="140" } | **[CM-R](cm-r.md)** | Avengers: Endgame (Ronin) | Full written notation on this site |
+| ![CM-S](../assets/images/cm/cm-s.webp){ width="140" } | **[CM-S](cm-s.md)** | Lock spins | Full written notation on this site |
+| ![CM-T](../assets/images/cm/cm-t.webp){ width="140" } | **[CM-T](cm-t.md)** | CM-T | Full written notation on this site |
 | ![CM-U](../assets/images/cm/cm-u.webp){ width="140" } | **CM-U** | Kylo vs. Rey | [Video lesson](https://sabercraft.org/choreography-kvr/) |
 | ![CM-V](../assets/images/cm/cm-v.webp){ width="140" } | **CM-V** | Vader vs. Obi-Wan (Kenobi, Ep. 3) | [Video lesson](https://sabercraft.org/3m-v-ep-3-obi-wan-vs-vader/) |
 | ![CM-W](../assets/images/cm/cm-w.webp){ width="140" } | **CM-W** | Wonder Woman vs. Antiope | [Video lesson](https://sabercraft.org/cm-w-amazon-training/) |

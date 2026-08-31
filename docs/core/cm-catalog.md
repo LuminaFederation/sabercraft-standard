@@ -30,9 +30,9 @@ Entire battles can be notated by any school and shared. From those fights, speci
 | **[O](cm-o.md)** | 101 | Space Samurai: Musashi vs Tanaka | TV: Westworld | Musashi, Tanaka | Extended | Amen Abdou, Alexis Adames |
 | **[P](cm-p.md)** | 91 | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith | Anakin, Dooku | Extended | Kristianna Jones |
 | **[Q](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/)** | | Dual Wielding vs Single Saber — Advanced | Ahsoka vs. Anakin | Ahsoka, Anakin (Vader) | Extended | GC Christopher, Tim Lynch |
-| **[R](https://sabercraft.org/cm-r-endgame-ronin/)** | 102 | Ronin's battle — Avengers: Endgame | MCU: Endgame | Ronin, Hawkeye, Yakuza Boss | Extended | Luis Meurice |
-| **[S](https://sabercraft.org/cm-s-lock-spins/)** | | Lock Spins | Original | | Extended | Spencer Jock |
-| **[T](https://sabercraft.org/cm-t/)** | | Flow Spins in Action + Holds | Original | | Extended | Thom Timko, Mario Cubas |
+| **[R](cm-r.md)** | 102 | Ronin's battle — Avengers: Endgame | MCU: Endgame | Ronin, Hawkeye, Yakuza Boss | Extended | Luis Meurice |
+| **[S](cm-s.md)** | | Lock Spins | Original | | Extended | Spencer Jock |
+| **[T](cm-t.md)** | | Flow Spins in Action + Holds | Original | | Extended | Thom Timko, Mario Cubas |
 | **[U](https://sabercraft.org/choreography-kvr/)** | 21 | Kylo vs Rey | Star Wars Ep 7: The Force Awakens | Kylo, Rey | Extended | Alfred Smith |
 | **[V](https://sabercraft.org/3m-v-ep-3-obi-wan-vs-vader/)** | 106 | Left-handed, one-armed combat | Kenobi: Ep 3 | Vader, Obi-Wan | Extended | Stephen Carter |
 | **[W](https://sabercraft.org/cm-w-amazon-training/)** | 103 | Amazon Training — Wonder Woman vs Antiope | Wonder Woman | Wonder Woman, Antiope | Extended | Desso Faulkner |
