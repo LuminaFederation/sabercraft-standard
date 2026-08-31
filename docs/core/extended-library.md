@@ -8,9 +8,9 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 | ![CM-G](../assets/images/cm/cm-g.webp){ width="140" } | **[CM-G](cm-g.md)** | Saber locking | Full written notation on this site |
 | ![CM-H](../assets/images/cm/cm-h.webp){ width="140" } | **[CM-H](cm-h.md)** | Flow — moving continually | Full written notation on this site |
 | ![CM-I](../assets/images/cm/cm-i.webp){ width="140" } | **[CM-I](cm-i.md)** | Advanced completes (Novastar) | Full written notation on this site |
-| ![CM-J](../assets/images/cm/cm-j.webp){ width="140" } | **CM-J** | Inverted grip | [Video lesson](https://sabercraft.org/cm-j-inverted-grip/) |
-| ![CM-K](../assets/images/cm/cm-k.webp){ width="140" } | **CM-K** | Staff vs. sabers (Maul vs. Obi-Wan, 1) | [Video lesson](https://sabercraft.org/cm-k-staff-vs-sabers/) |
-| ![CM-L](../assets/images/cm/cm-l.webp){ width="140" } | **CM-L** | Maul vs. Obi-Wan (2) | [Video lesson](https://sabercraft.org/cm-l-staff-vs-sabers/) |
+| ![CM-J](../assets/images/cm/cm-j.webp){ width="140" } | **[CM-J](cm-j.md)** | Inverted grip | Full written notation on this site |
+| ![CM-K](../assets/images/cm/cm-k.webp){ width="140" } | **[CM-K](cm-k.md)** | Staff vs. sabers (Maul vs. Obi-Wan, 1) | Full written notation on this site |
+| ![CM-L](../assets/images/cm/cm-l.webp){ width="140" } | **[CM-L](cm-l.md)** | Maul vs. Obi-Wan (2) | Full written notation on this site |
 | ![CM-M](../assets/images/cm/cm-m.webp){ width="140" } | **CM-M** | Dooku vs. Anakin | [Video lesson](https://sabercraft.org/cm-m-dooku-vs-anakin-sw-ep-iii/) |
 | ![CM-N](../assets/images/cm/cm-n.webp){ width="140" } | **CM-N** | Dual wielding | [Video lesson](https://sabercraft.org/cm-n-dual-wielding/) |
 | ![CM-O](../assets/images/cm/cm-o.webp){ width="140" } | **CM-O** | Musashi vs. Tanaka | [Video lesson](https://sabercraft.org/cm-o-musashi-vs-tanaka/) |

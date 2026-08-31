@@ -22,9 +22,9 @@ Entire battles can be notated by any school and shared. From those fights, speci
 | **[G](cm-g.md)** | 13 | Locking | Star Wars Ep 6: Return of the Jedi | Luke, Vader | Extended | Alfred Smith |
 | **[H](cm-h.md)** | | Flow — moving continually | Original | | Extended | Alfred Smith |
 | **[I](cm-i.md)** | | Completes | Original | | Extended | Matthew Carauddo |
-| **[J](https://sabercraft.org/cm-j-inverted-grip/)** | | Inverted Grip | Original | | Extended | Alfred Smith |
-| **[K](https://sabercraft.org/cm-k-staff-vs-sabers/)** | 31 | Staff vs Saber | Star Wars Ep 1: The Phantom Menace | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
-| **[L](https://sabercraft.org/cm-l-staff-vs-sabers/)** | 32 | Staff vs Saber, Part 2 | Star Wars Ep 1: The Phantom Menace (part 2) | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
+| **[J](cm-j.md)** | | Inverted Grip | Original | | Extended | Alfred Smith |
+| **[K](cm-k.md)** | 31 | Staff vs Saber | Star Wars Ep 1: The Phantom Menace | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
+| **[L](cm-l.md)** | 32 | Staff vs Saber, Part 2 | Star Wars Ep 1: The Phantom Menace (part 2) | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
 | **[M](https://sabercraft.org/cm-m-dooku-vs-anakin-sw-ep-iii/)** | | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith — deleted scene | Anakin, Dooku | Extended | Rhamses Nazario, Enrique Santana |
 | **[N](https://sabercraft.org/cm-n-dual-wielding/)** | | Dual Wielding vs Single Saber — Beginner | Dual wielding vs single blade | | Extended | Cole Hemp |
 | **[O](https://sabercraft.org/cm-o-musashi-vs-tanaka/)** | 101 | Space Samurai: Musashi vs Tanaka | TV: Westworld | Musashi, Tanaka | Extended | Amen Abdou, Alexis Adames |

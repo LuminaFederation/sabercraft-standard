@@ -105,4 +105,4 @@ The hazard that belongs to this movement is the carried swing. A complete does n
 
 There is also something worth telling students about why this movement is in the library at all. CM-I is not an interpretation of a filmed fight, and it is not original to the Saber Standard. It is an early piece of community choreography, taught in person, recorded on discs that are no longer sold, and preserved here because notation is how a movement survives the medium it was taught in. That is a reasonable answer to the question of what the notation is for.
 
-When CM-I is clean, continue to **[CM-J](https://sabercraft.org/cm-j-inverted-grip/)**, which turns the saber around, or return to the [Extended Library](extended-library.md).
+When CM-I is clean, continue to **[CM-J](cm-j.md)**, which turns the saber around, or return to the [Extended Library](extended-library.md).
