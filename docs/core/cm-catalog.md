@@ -25,10 +25,10 @@ Entire battles can be notated by any school and shared. From those fights, speci
 | **[J](cm-j.md)** | | Inverted Grip | Original | | Extended | Alfred Smith |
 | **[K](cm-k.md)** | 31 | Staff vs Saber | Star Wars Ep 1: The Phantom Menace | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
 | **[L](cm-l.md)** | 32 | Staff vs Saber, Part 2 | Star Wars Ep 1: The Phantom Menace (part 2) | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
-| **[M](https://sabercraft.org/cm-m-dooku-vs-anakin-sw-ep-iii/)** | | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith — deleted scene | Anakin, Dooku | Extended | Rhamses Nazario, Enrique Santana |
+| **[M](cm-m.md)** | | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith — deleted scene | Anakin, Dooku | Extended | Rhamses Nazario, Enrique Santana |
 | **[N](https://sabercraft.org/cm-n-dual-wielding/)** | | Dual Wielding vs Single Saber — Beginner | Dual wielding vs single blade | | Extended | Cole Hemp |
-| **[O](https://sabercraft.org/cm-o-musashi-vs-tanaka/)** | 101 | Space Samurai: Musashi vs Tanaka | TV: Westworld | Musashi, Tanaka | Extended | Amen Abdou, Alexis Adames |
-| **[P](https://sabercraft.org/cm-p-dva/)** | 91 | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith | Anakin, Dooku | Extended | Kristianna Jones |
+| **[O](cm-o.md)** | 101 | Space Samurai: Musashi vs Tanaka | TV: Westworld | Musashi, Tanaka | Extended | Amen Abdou, Alexis Adames |
+| **[P](cm-p.md)** | 91 | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith | Anakin, Dooku | Extended | Kristianna Jones |
 | **[Q](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/)** | | Dual Wielding vs Single Saber — Advanced | Ahsoka vs. Anakin | Ahsoka, Anakin (Vader) | Extended | GC Christopher, Tim Lynch |
 | **[R](https://sabercraft.org/cm-r-endgame-ronin/)** | 102 | Ronin's battle — Avengers: Endgame | MCU: Endgame | Ronin, Hawkeye, Yakuza Boss | Extended | Luis Meurice |
 | **[S](https://sabercraft.org/cm-s-lock-spins/)** | | Lock Spins | Original | | Extended | Spencer Jock |

@@ -11,10 +11,10 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 | ![CM-J](../assets/images/cm/cm-j.webp){ width="140" } | **[CM-J](cm-j.md)** | Inverted grip | Full written notation on this site |
 | ![CM-K](../assets/images/cm/cm-k.webp){ width="140" } | **[CM-K](cm-k.md)** | Staff vs. sabers (Maul vs. Obi-Wan, 1) | Full written notation on this site |
 | ![CM-L](../assets/images/cm/cm-l.webp){ width="140" } | **[CM-L](cm-l.md)** | Maul vs. Obi-Wan (2) | Full written notation on this site |
-| ![CM-M](../assets/images/cm/cm-m.webp){ width="140" } | **CM-M** | Dooku vs. Anakin | [Video lesson](https://sabercraft.org/cm-m-dooku-vs-anakin-sw-ep-iii/) |
+| ![CM-M](../assets/images/cm/cm-m.webp){ width="140" } | **[CM-M](cm-m.md)** | Dooku vs. Anakin | Full written notation on this site |
 | ![CM-N](../assets/images/cm/cm-n.webp){ width="140" } | **CM-N** | Dual wielding | [Video lesson](https://sabercraft.org/cm-n-dual-wielding/) |
-| ![CM-O](../assets/images/cm/cm-o.webp){ width="140" } | **CM-O** | Musashi vs. Tanaka | [Video lesson](https://sabercraft.org/cm-o-musashi-vs-tanaka/) |
-| ![CM-P](../assets/images/cm/cm-p.webp){ width="140" } | **CM-P** | Dooku vs. Anakin (continued) | [Video lesson](https://sabercraft.org/cm-p-dva/) |
+| ![CM-O](../assets/images/cm/cm-o.webp){ width="140" } | **[CM-O](cm-o.md)** | Musashi vs. Tanaka | Full written notation on this site |
+| ![CM-P](../assets/images/cm/cm-p.webp){ width="140" } | **[CM-P](cm-p.md)** | Dooku vs. Anakin (continued) | Full written notation on this site |
 | ![CM-Q](../assets/images/cm/cm-q.webp){ width="140" } | **CM-Q** | Ahsoka vs. Anakin | [Video lesson](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/) |
 | ![CM-R](../assets/images/cm/cm-r.webp){ width="140" } | **CM-R** | Avengers: Endgame (Ronin) | [Video lesson](https://sabercraft.org/cm-r-endgame-ronin/) |
 | ![CM-S](../assets/images/cm/cm-s.webp){ width="140" } | **CM-S** | Lock spins | [Video lesson](https://sabercraft.org/cm-s-lock-spins/) |

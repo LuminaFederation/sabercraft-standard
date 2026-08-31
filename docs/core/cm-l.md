@@ -126,4 +126,4 @@ Two hazards belong to this movement. The first is fatigue: sixteen attacks in a 
 
 It is also worth telling students what a movement without a single attack in one row is doing in a notation system. CM-F wrote a full sequence for a Saberist with no weapon; CM-L writes one for a Saberist who never attacks. Both are complete movements, both are written in the same language, and neither needs a special case to be read. A row of parries, jumps and ground given up is notation in exactly the same sense as a row of strikes.
 
-When CM-L is clean, continue to **[CM-M](https://sabercraft.org/cm-m-dooku-vs-anakin-sw-ep-iii/)**, or return to the [Extended Library](extended-library.md).
+When CM-L is clean, continue to **[CM-M](cm-m.md)**, which inverts the direction of the exchange, or return to the [Extended Library](extended-library.md).
