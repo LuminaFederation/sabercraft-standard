@@ -1,0 +1,66 @@
+{
+  "cm": "CM-N",
+  "focus": "Dual wielding",
+  "source_url": "https://sabercraft.org/cm-n-dual-wielding/",
+  "page_title": "CM-N: Dual Wielding - SaberCraft",
+  "youtube_id": "fh54Z_vJ8Dk",
+  "prose": [
+    "CM-N is for duel-wielding battles. In this lesson, two lumens are matched up 2-sabers versus single-saber to help students learn how to navigate switching between hands. To make this an effective lesson for all, we made the CM only 6 steps, similar to CM-A to help ease everyone into using 2 hands. Notation below for <strong>Lumen 1 </strong> is noted with which hand is used to strike with each saber. L stands for Left. R stands for Right hand."
+  ],
+  "body_text": "CM-N\n\n CM-N is for duel-wielding battles. In this lesson, two lumens are matched up 2-sabers versus single-saber to help students learn how to navigate switching between hands. To make this an effective lesson for all, we made the CM only 6 steps, similar to CM-A to help ease everyone into using 2 hands. Notation below for <strong>Lumen 1 </strong> is noted with which hand is used to strike with each saber. L stands for Left. R stands for Right hand.\n\n PlayerS1S2S3S4S5S6S7S8S9S10Order\n\n Lumen 11137CW - L>R119101 \n\n Lumen 211P3P7P11P9P1C102 \n\nThis CM is notated by SaberCraft Knight Cole Hemp.\n\n Back to Overview \n\n View PDF \n\n View CM-W",
+  "tables": [
+    {
+      "table_id": "6391",
+      "aria_label": "CM-V",
+      "caption": "",
+      "kind": "legacy_inline",
+      "data": {
+        "header": [
+          "Player",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "S7",
+          "S8",
+          "S9",
+          "S10",
+          "Order"
+        ],
+        "rows": [
+          [
+            "Lumen 1",
+            "11",
+            "3",
+            "7",
+            "CW - L>R",
+            "11",
+            "9",
+            "",
+            "",
+            "",
+            "",
+            "101"
+          ],
+          [
+            "Lumen 2",
+            "11P",
+            "3P",
+            "7P",
+            "",
+            "11P",
+            "9P",
+            "1C",
+            "",
+            "",
+            "",
+            "102"
+          ]
+        ]
+      }
+    }
+  ],
+  "warnings": []
+}

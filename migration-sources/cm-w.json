@@ -1,0 +1,103 @@
+{
+  "cm": "CM-W",
+  "focus": "Wonder Woman vs. Antiope",
+  "source_url": "https://sabercraft.org/cm-w-amazon-training/",
+  "page_title": "CM-W: Amazon Training - SaberCraft",
+  "youtube_id": "K9oHn3UFpmA",
+  "prose": [
+    "CM-W is based on Wonder Woman's battle against Antiope during training.",
+    "This CM is notated by Desso and Anna Faulkner of Gulf Coast Saber Training. Visit Gulf Coast Saber Training, in Pensacola, FL (Northern Florida) to learn about combat choreography and olympic saber sports including TPLA-based training."
+  ],
+  "body_text": "CM: W - Amazon Training Scene\n\n CM-W is based on Wonder Woman's battle against Antiope during training.\n\nThis CM is notated by Desso and Anna Faulkner of Gulf Coast Saber Training. Visit Gulf Coast Saber Training, in Pensacola, FL (Northern Florida) to learn about combat choreography and olympic saber sports including TPLA-based training.\n\n Visit Gulf Coast Saber Training \n\n CM-W\nTelegraph: \nCM-S is based on Wonder Woman between Diana and her mother during training.\nLumina Score: 3\n\nOriginal Clip - Amazon Training Scene - Wonder Woman\n\n Wonder Woman clip from \"Wonder Woman\", 2017 courtesy of Warner Bros., Atlas Entertainment, Cruel & Unusual Films, DC Entertainment, Dune Entertainment (in association with) (as Rat-Pac Dune Entertainment LLC), Tencent Pictures, Wanda Pictures. Wonder Woman, its characters, costumes, and all associated items are the intellectual property of Warner Bros. © & ™ DC Entertainment. SaberCraft.org or Gulf Coast Saber Training have no affiliation with Warner Bros, DC Entertainment or any of their partners.\n\n Back to Overview \n\n View PDF \n\n Visit Gulf Coast Saber Training",
+  "tables": [
+    {
+      "table_id": "4445",
+      "aria_label": "CM-W Amazon Training",
+      "caption": "CM-W\nTelegraph: \nCM-S is based on Wonder Woman between Diana and her mother during training.\nLumina Score: 3",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s_1": "11(c)",
+          "s_2": "3",
+          "s_3": "Pull left",
+          "s_4": "10(c)a",
+          "s_5": "7(c)a",
+          "s_6": "12X",
+          "s_7": "Pull right",
+          "s_8": "2XP",
+          "s_9": "10XP",
+          "s_10": "3PX"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "Dodge",
+          "s_2": "3PM6X",
+          "s_3": "Pull R",
+          "s_4": "Duck",
+          "s_5": "Jump",
+          "s_6": "12PX",
+          "s_7": "Pull L",
+          "s_8": "2©",
+          "s_9": "10©",
+          "s_10": "3X"
+        },
+        {},
+        {
+          "players": "Lumen A"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "Spin L>R",
+          "s_2": "Back Kick"
+        },
+        {},
+        {
+          "players": "Lumen A",
+          "s_1": "12",
+          "s_2": "1P",
+          "s_3": "10©",
+          "s_4": "7©",
+          "s_5": "12",
+          "s_6": "Deflect",
+          "s_8": "1P",
+          "s_10": "11P"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "12P",
+          "s_2": "1",
+          "s_3": "Duck",
+          "s_4": "Jump",
+          "s_5": "12P",
+          "s_6": "Punch",
+          "s_7": "Spin R>L",
+          "s_8": "1",
+          "s_9": "Spin L>R",
+          "s_10": "11"
+        },
+        {},
+        {
+          "players": "Lumen A",
+          "s_2": "1P",
+          "s_3": "Front Kick",
+          "s_4": "9©",
+          "s_6": "Dodge",
+          "s_7": "Dodge",
+          "s_8": "Special X",
+          "s_9": "Special"
+        },
+        {
+          "players": "Lumen A",
+          "s_1": "Spin R>L",
+          "s_2": "1",
+          "s_5": "Special",
+          "s_6": "Ig 1",
+          "s_7": "Ig 11",
+          "s_8": "Ig 12\t"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

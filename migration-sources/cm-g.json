@@ -1,0 +1,51 @@
+{
+  "cm": "CM-G",
+  "focus": "Saber locking",
+  "source_url": "https://sabercraft.org/cm-g-movie-choreography-locks-2/",
+  "page_title": "CM-G: Saber Locking - SaberCraft",
+  "youtube_id": null,
+  "prose": [
+    "CM-G is a saber choreography modeled after the famous battle between father and son in Star Wars: Return of the Jedi. This choroegraphy is inspired as there is no official documentation for the entire battle. For the purposes of editing, sometimes frames are flipped around to better capture the choreography narrative. This particular choreography also uses locks throughout which should help the Lumen know when to hold for a particular pause in the battle to add to the drama of the fight. CM-G is worth 2 points in LUMINA. To learn its notation and more about the SaberCraft system, please visit SaberCraft.org"
+  ],
+  "body_text": "CM-G is a saber choreography modeled after the famous battle between father and son in Star Wars: Return of the Jedi. This choroegraphy is inspired as there is no official documentation for the entire battle. For the purposes of editing, sometimes frames are flipped around to better capture the choreography narrative. This particular choreography also uses locks throughout which should help the Lumen know when to hold for a particular pause in the battle to add to the drama of the fight. CM-G is worth 2 points in LUMINA. To learn its notation and more about the SaberCraft system, please visit SaberCraft.org\n\n CM-G\nTelegraph: Forward Eight Flourish OR Helicopter + Position 3\nOriginal Choreography: LvV\nLumina Score: 2\n\n Back to Overview \n\n View PDF \n\n View CM-H",
+  "tables": [
+    {
+      "table_id": "4257",
+      "aria_label": "CM-G",
+      "caption": "CM-G\nTelegraph: Forward Eight Flourish OR Helicopter + Position 3\nOriginal Choreography: LvV\nLumina Score: 2",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s_1": "0",
+          "s_2": "X",
+          "s_3": "X\nPull R",
+          "s_4": "10©",
+          "s_5": "2©",
+          "s_6": "5X",
+          "s_7": "1",
+          "s_8": "11",
+          "s_9": "11X",
+          "s_10": "9©",
+          "s_11": "9©"
+        },
+        {
+          "players": "Lumen B",
+          "s_2": "9P\nS+S: Pull L",
+          "s_3": "X",
+          "s_4": "Duck",
+          "s_5": "Duck",
+          "s_6": "5X",
+          "s_7": "1P",
+          "s_8": "11P",
+          "s_9": "11PX",
+          "s_10": "Dodge",
+          "s_11": "Dodge"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "no video on page"
+  ]
+}

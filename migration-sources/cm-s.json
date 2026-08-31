@@ -1,0 +1,75 @@
+{
+  "cm": "CM-S",
+  "focus": "Lock spins",
+  "source_url": "https://sabercraft.org/cm-s-lock-spins/",
+  "page_title": "CM-S: Lock Spins - SaberCraft",
+  "youtube_id": "JJj426vTos8",
+  "prose": [
+    "CM-S demonstrates how you can build a CM out of anything including shapes. Based on an \"S\", this CM takes the letter's design and flips it while incorporating a lock-spin whereby 2 lumens lock their sabers and spin their bodies as they they complete the saber standoff..",
+    "This CM is notated by SaberCraft Knight Spencer Jock."
+  ],
+  "body_text": "CM-S: Lock Spins\n\n CM-S demonstrates how you can build a CM out of anything including shapes. Based on an \"S\", this CM takes the letter's design and flips it while incorporating a lock-spin whereby 2 lumens lock their sabers and spin their bodies as they they complete the saber standoff..\n\nThis CM is notated by SaberCraft Knight Spencer Jock.\n\n CM-S\nTelegraph: \nDraw a line in front of you across the ground.\nLumina Score: 2\n\n Back to Overview \n\n View PDF \n\n View CM-W",
+  "tables": [
+    {
+      "table_id": "4603",
+      "aria_label": "CM-S",
+      "caption": "CM-S\nTelegraph: \nDraw a line in front of you across the ground.\nLumina Score: 2",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s_1": "1",
+          "s_2": "10(c)a",
+          "s_3": "3",
+          "s_4": "5(c)a",
+          "s_5": "7X",
+          "s_6": "SS+",
+          "s_7": "SX-CCW",
+          "s_8": "11",
+          "s_9": "2(c)a",
+          "s_10": "9"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "1P",
+          "s_2": "Duck",
+          "s_3": "3P",
+          "s_4": "Jump",
+          "s_5": "7X",
+          "s_6": "SS+",
+          "s_7": "SX-CCW",
+          "s_8": "11P",
+          "s_9": "Duck",
+          "s_10": "9P"
+        },
+        {},
+        {
+          "players": "Lumen A",
+          "s_1": "7(c)a",
+          "s_2": "5X",
+          "s_3": "SS+",
+          "s_4": "SX-CW",
+          "s_5": "Pause",
+          "s_6": "12",
+          "s_7": "12",
+          "s_8": "3P",
+          "s_9": "Special"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "Jump",
+          "s_2": "5PX",
+          "s_3": "SS+",
+          "s_4": "XS-CW",
+          "s_5": "Pause",
+          "s_6": "B1-L",
+          "s_7": "B1-R",
+          "s_8": "S3"
+        },
+        {},
+        {}
+      ]
+    }
+  ],
+  "warnings": []
+}

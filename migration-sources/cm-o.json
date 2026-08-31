@@ -1,0 +1,113 @@
+{
+  "cm": "CM-O",
+  "focus": "Musashi vs. Tanaka",
+  "source_url": "https://sabercraft.org/cm-o-musashi-vs-tanaka/",
+  "page_title": "CM-O - Musashi vs Tanaka - SaberCraft",
+  "youtube_id": "-Ef7_7YstD4",
+  "prose": [
+    "CM-O, or as we call it: Space Samurai, is a choreography inspired by the Musashi versus Tanaka fight from Westworld Season 2, Episode 5 (see original video). Each CM up to this point has been 1 CM out of our CM Core library; CM-O is first in the CORE Library that is actually a combination of 1 or more CMs. In this case, we are combining 2 stand-alone CMs CM 51 (worth 2 points) and CM 52 (worth 2 points) and combining them into 1 LUMINA Powerplay which we then call CM-O (worth 5 points). In this saber choreography, instructors Amen Abdou and Alexis Adames from SaberCraft.org walk you through the roles in this action packed choreography. Choreography notation by: Amen Abdou.",
+    "Lumen A steps forward bends front knee at 45°, places saber at rear hip as if holstered, head tilted forward as if to lunge. Example:"
+  ],
+  "body_text": "CM-O, or as we call it: Space Samurai, is a choreography inspired by the Musashi versus Tanaka fight from Westworld Season 2, Episode 5 (see original video). Each CM up to this point has been 1 CM out of our CM Core library; CM-O is first in the CORE Library that is actually a combination of 1 or more CMs. In this case, we are combining 2 stand-alone CMs CM 51 (worth 2 points) and CM 52 (worth 2 points) and combining them into 1 LUMINA Powerplay which we then call CM-O (worth 5 points). In this saber choreography, instructors Amen Abdou and Alexis Adames from SaberCraft.org walk you through the roles in this action packed choreography. Choreography notation by: Amen Abdou.\n\nTelegraph\nLumen A steps forward bends front knee at 45°, places saber at rear hip as if holstered, head tilted forward as if to lunge. Example:\n\nCM-O (CM Powerplay:51 - 52)\n\n CM: 51 - Musashi vs Takana (Westworld)\nTelegraph: Lunge with hip holster\nLumina Points: 2\n\n CM: 51 - Musashi vs Takana (Westworld)\n\n Telegraph: N/A\nLumina Points: 2\n\n CM:52 - Musashi vs Takana (Westworld)\n\n PDF Coming Soon \n\nOriginal Battle\n\nCM-O Interpretation Battle\n\nCM-O demod by students\n\n Back to Overview \n\n View All CM PDF \n\n CM-P: Anakin vs Dooku",
+  "tables": [
+    {
+      "table_id": "3813",
+      "aria_label": "",
+      "caption": "CM: 51 - Musashi vs Takana (Westworld)\nTelegraph: Lunge with hip holster\nLumina Points: 2",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A (Tanaka)",
+          "s_1": "7C",
+          "s_2": "1C",
+          "s_3": "9C",
+          "s_4": "5C",
+          "s_5": "12",
+          "s_6": "1B",
+          "s_7": "0"
+        },
+        {
+          "players": "Lumen B (Musashi)",
+          "s_1": "Dodge L",
+          "s_2": "Dodge R",
+          "s_3": "Dodge Back",
+          "s_4": "Spin R>L",
+          "s_5": "12P",
+          "s_6": "1B",
+          "s_7": "0P L>R"
+        }
+      ]
+    },
+    {
+      "table_id": "3816",
+      "aria_label": "51-B: CM-O - 2nd Part",
+      "caption": "",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A (Tanaka)",
+          "s1": "7B",
+          "s2": "1X",
+          "s3": "SS"
+        },
+        {
+          "players": "Lumen B (Musashi)",
+          "s1": "7B",
+          "s2": "1X",
+          "s3": "SS (Push L)"
+        }
+      ]
+    },
+    {
+      "table_id": "4153",
+      "aria_label": "",
+      "caption": "Telegraph: N/A\nLumina Points: 2",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A (Tanaka)",
+          "s1": "4P",
+          "s2": "8P",
+          "s3": "4P",
+          "s4": "8P",
+          "s5": "1",
+          "s6": "9C-B",
+          "s7": "4"
+        },
+        {
+          "players": "Lumen B (Musashi)",
+          "s1": "4",
+          "s2": "8",
+          "s3": "4",
+          "s4": "8",
+          "s5": "1P",
+          "s6": "7C-B",
+          "s7": "4"
+        }
+      ]
+    },
+    {
+      "table_id": "4152",
+      "aria_label": "52-B: CM-O - 2nd Part",
+      "caption": "",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A (Tanaka)",
+          "s1": "0",
+          "s2": "7P",
+          "s3": "5X",
+          "s4": "12X"
+        },
+        {
+          "players": "Lumen B (Musashi)",
+          "s1": "0P-UP",
+          "s2": "7",
+          "s3": "5X-M",
+          "s4": "12X (Ig)"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,122 @@
+{
+  "cm": "CM-Q",
+  "focus": "Ahsoka vs. Anakin",
+  "source_url": "https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/",
+  "page_title": "CM-Q - Ahsoka vs Anakin (Ahsoka) - SaberCraft",
+  "youtube_id": "-dfGeakzpCs",
+  "prose": [
+    "In this tutorial, you’ll learn CM-Q recreating the intense exchange from the Ahsoka and Anakin Skywalker in Star Wars: Ahsoka (series) battle between 1:51 and 2:09, focusing on the rhythm, pressure, and aggressive forward momentum of the duel. Taught by Knights G.C. Christopher and Tim Lynch, students will break down the sequence step by step with one Lumen using a single saber while another is duel-wielding 2 blades. The goal is not just to copy the fight, but to understand how each attack, defense, and transition tells a story through motion."
+  ],
+  "body_text": "In this tutorial, you’ll learn CM-Q recreating the intense exchange from the Ahsoka and Anakin Skywalker in Star Wars: Ahsoka (series) battle between 1:51 and 2:09, focusing on the rhythm, pressure, and aggressive forward momentum of the duel. Taught by Knights G.C. Christopher and Tim Lynch, students will break down the sequence step by step with one Lumen using a single saber while another is duel-wielding 2 blades. The goal is not just to copy the fight, but to understand how each attack, defense, and transition tells a story through motion.\n\n CM-M\n\n PlayerS1S2S3S4S5S6S7S8S9S10Order\n\n Anakin (A)7PS-CCWDJ + S-CCW4123Pm6S-CW101 \n\n Dooku (B)7S-CCW2© 5© 4P12PReS-CCW3102 \n\n 103 \n\n PlayerS11S12S13S14S15S16S17S18S19S20104 \n\n Anakin (A)3Pm6xx1B11B12PReSpecial105 \n\n Dooku (B)9xx1B11B12106 \n\nInspiration Video\n\n Telegraph\n\nLumen A (Anakin) points their saber tips down at 45°. Lumen B should have 2 sabers.\n\n Back to Overview \n\n View All CM PDF \n\n CM-P: Anakin vs Dooku",
+  "tables": [
+    {
+      "table_id": "6942",
+      "aria_label": "CM-M",
+      "caption": "",
+      "kind": "legacy_inline",
+      "data": {
+        "header": [
+          "Player",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "S7",
+          "S8",
+          "S9",
+          "S10",
+          "Order"
+        ],
+        "rows": [
+          [
+            "Anakin (A)",
+            "7P",
+            "S-CCW",
+            "D",
+            "J + S-CCW",
+            "4",
+            "12",
+            "",
+            "",
+            "3Pm6",
+            "S-CW",
+            "101"
+          ],
+          [
+            "Dooku (B)",
+            "7",
+            "S-CCW",
+            "2©",
+            "5©",
+            "4P",
+            "12P",
+            "Re",
+            "S-CCW",
+            "3",
+            "",
+            "102"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "103"
+          ],
+          [
+            "Player",
+            "S11",
+            "S12",
+            "S13",
+            "S14",
+            "S15",
+            "S16",
+            "S17",
+            "S18",
+            "S19",
+            "S20",
+            "104"
+          ],
+          [
+            "Anakin (A)",
+            "3Pm6x",
+            "x",
+            "1B",
+            "11B",
+            "12P",
+            "Re",
+            "Special",
+            "",
+            "",
+            "",
+            "105"
+          ],
+          [
+            "Dooku (B)",
+            "9x",
+            "x",
+            "1B",
+            "11B",
+            "12",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "106"
+          ]
+        ]
+      }
+    }
+  ],
+  "warnings": []
+}

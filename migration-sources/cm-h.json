@@ -1,0 +1,40 @@
+{
+  "cm": "CM-H",
+  "focus": "Flow — moving continually",
+  "source_url": "https://sabercraft.org/cm-h-continuous-flow/",
+  "page_title": "CM-H: Continuous Flow - SaberCraft",
+  "youtube_id": "-jU41Ld2YjQ",
+  "prose": [
+    "CM-H is an easy saber choreography for duelists to develop continuous flow. As a 6-hit combination, it crosses the body in a zig-zag motion allowing a lot of improve to be associated with this sequence. CM-H is worth 1 points in LUMINA. To learn its notation and more about the SaberCraft system, please visit SaberCraft.org"
+  ],
+  "body_text": "CM-H is an easy saber choreography for duelists to develop continuous flow. As a 6-hit combination, it crosses the body in a zig-zag motion allowing a lot of improve to be associated with this sequence. CM-H is worth 1 points in LUMINA. To learn its notation and more about the SaberCraft system, please visit SaberCraft.org\n\n CM-H\nTelegraph: Both hands holding the saber hilt horizontally\nLumina Score: 1\n\n Back to Overview \n\n View PDF \n\n View CM-I",
+  "tables": [
+    {
+      "table_id": "4250",
+      "aria_label": "CM-H",
+      "caption": "CM-H\nTelegraph: Both hands holding the saber hilt horizontally\nLumina Score: 1",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s_1": "2",
+          "s_2": "10",
+          "s_3": "3",
+          "s_4": "8",
+          "s_5": "5",
+          "s_6": "11"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "2P",
+          "s_2": "10P",
+          "s_3": "3P",
+          "s_4": "8P",
+          "s_5": "5P",
+          "s_6": "11X"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

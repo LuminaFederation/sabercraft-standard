@@ -1,0 +1,70 @@
+{
+  "cm": "CM-R",
+  "focus": "Avengers: Endgame (Ronin)",
+  "source_url": "https://sabercraft.org/cm-r-endgame-ronin/",
+  "page_title": "CM-R: Endgame - Ronin's Battle - SaberCraft",
+  "youtube_id": "iWbuLClZpRg",
+  "prose": [
+    "CM-R is based on Ronin's battle against the Yakuza boss in Avengers: Endgame.",
+    "This CM is notated by SaberCraft Knight Luis Meurice."
+  ],
+  "body_text": "Ronin's Scene - Avengers: Endgame\n\n CM-R is based on Ronin's battle against the Yakuza boss in Avengers: Endgame.\n\nThis CM is notated by SaberCraft Knight Luis Meurice.\n\n CM-R\nTelegraph: \nCM-R is based on Avengers: Endgame between Ronin (Hawkeye) and a Yakuza boss.\nLumina Score: 3\n\n Back to Overview \n\n View PDF \n\n View CM-S",
+  "tables": [
+    {
+      "table_id": "4318",
+      "aria_label": "CM-R Endgame",
+      "caption": "CM-R\nTelegraph: \nCM-R is based on Avengers: Endgame between Ronin (Hawkeye) and a Yakuza boss.\nLumina Score: 3",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s_1": "Blend 90 L",
+          "s_2": "Lh Ig 11",
+          "s_3": "Lh Ig P3",
+          "s_4": "S+ (Pull right)",
+          "s_5": "Step Back",
+          "s_6": "Duck + Special",
+          "s_7": "Flourish",
+          "s_8": "3P",
+          "s_9": "S+ Pull right"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "12",
+          "s_3": "3X",
+          "s_4": "Pull left",
+          "s_5": "Shove",
+          "s_6": "10©",
+          "s_7": "Retreat + Pose",
+          "s_8": "3X",
+          "s_9": "Pull left",
+          "s_10": "Down hard"
+        },
+        {},
+        {
+          "players": "Lumen A",
+          "s_1": "Special",
+          "s_2": "Pose",
+          "s_3": "Step back",
+          "s_4": "12P",
+          "s_5": "9P",
+          "s_6": "Special + push back",
+          "s_7": "Blend 180 L",
+          "s_8": "Blend 180 L",
+          "s_9": "12"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "retreat",
+          "s_3": "6©",
+          "s_4": "12B",
+          "s_5": "9B",
+          "s_6": "0",
+          "s_7": "1©",
+          "s_8": "0"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

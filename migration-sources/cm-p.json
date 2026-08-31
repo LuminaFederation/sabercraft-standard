@@ -1,0 +1,111 @@
+{
+  "cm": "CM-P",
+  "focus": "Dooku vs. Anakin (continued)",
+  "source_url": "https://sabercraft.org/cm-p-dva/",
+  "page_title": "CM-P - Dooku vs Anakin - SaberCraft",
+  "youtube_id": "eqxThNnBc5o",
+  "prose": [
+    "CM-P, or as we call it: Dooku vs. Anakin, is a choreography inspired by the Dooku vs. Anakin fight from Star Wars: Episode 3 - Revenge of the Sith (see original video). CM P is also considered CM-91 and worth 2 points in LUMINA gaming. In this saber choreography, Kristianna Jones and Victoria de Cun from SaberCraft.org walk you through the roles in this action packed choreography. Choreography notation by: Kristianna Jones."
+  ],
+  "body_text": "CM-P, or as we call it: Dooku vs. Anakin, is a choreography inspired by the Dooku vs. Anakin fight from Star Wars: Episode 3 - Revenge of the Sith (see original video). CM P is also considered CM-91 and worth 2 points in LUMINA gaming. In this saber choreography, Kristianna Jones and Victoria de Cun from SaberCraft.org walk you through the roles in this action packed choreography. Choreography notation by: Kristianna Jones.\n\nNotated by:\n\n Kristianna \"Halin\" Jones\n\nAssisted by:\n\n Victoria Vek'tra de Cun\n\nTelegraph\n\n Claw + Position 1\n\nOriginal Battle\n\nCM-P (CM Powerplay:61 - 62)\n\n CM: 91 - Dooku vs Anakin (Rev of the Sith)\nTelegraph: Claw + Position 1\nLumina Points: 3\n\n CM: 92 - Dooku vs Anakin (Rev of the Sith)\nTelegraph: \nLumina Points: 1\n\n Back to Overview \n\n View All CM PDF \n\n View CM-R",
+  "tables": [
+    {
+      "table_id": "3817",
+      "aria_label": "91-Anakin-vs-Dooku-A",
+      "caption": "CM: 91 - Dooku vs Anakin (Rev of the Sith)\nTelegraph: Claw + Position 1\nLumina Points: 3",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s1": "Kick",
+          "s2": "4",
+          "s3": "9",
+          "s4": "5",
+          "s5": "7B",
+          "s6": "5©",
+          "s7": "Plum",
+          "s_8": "1x 180",
+          "s_9": "P CC",
+          "s_10": "1B"
+        },
+        {
+          "players": "Lumen B",
+          "s1": "Drama",
+          "s2": "4P",
+          "s3": "9P Inv",
+          "s4": "5P",
+          "s5": "7B",
+          "s6": "Jump back",
+          "s7": "Plum Turn CC",
+          "s_8": "1PX 180",
+          "s_9": "Spin away",
+          "s_10": "1B"
+        }
+      ]
+    },
+    {
+      "table_id": "4173",
+      "aria_label": "91-B: Dooku vs Anakin - B",
+      "caption": "",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s1": "7B",
+          "s2": "1B",
+          "s3": "12",
+          "s4": "5B",
+          "s5": "7B",
+          "s6": "3",
+          "s7": "3P Inv",
+          "s_8": "1",
+          "s_9": "12",
+          "s_10": "3X"
+        },
+        {
+          "players": "Lumen B",
+          "s1": "7B",
+          "s2": "1B",
+          "s3": "12P",
+          "s4": "5B",
+          "s5": "7B",
+          "s6": "3P Inv",
+          "s7": "3",
+          "s_8": "1P",
+          "s_9": "12P",
+          "s_10": "3P X"
+        }
+      ]
+    },
+    {
+      "table_id": "4174",
+      "aria_label": "92: Dooku vs Anakin-B",
+      "caption": "CM: 92 - Dooku vs Anakin (Rev of the Sith)\nTelegraph: \nLumina Points: 1",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s1": "12 R",
+          "s2": "11@",
+          "s3": "Turn CW",
+          "s4": "9 BB",
+          "s5": "12 Px",
+          "s6": "Step side",
+          "s7": "12 push",
+          "s_8": "Take saber"
+        },
+        {
+          "players": "Lumen B",
+          "s1": "11 @",
+          "s2": "12R",
+          "s3": "Turn CCW",
+          "s4": "9 P Inv",
+          "s5": "12 X",
+          "s6": "Fall 0",
+          "s7": "Saber down"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

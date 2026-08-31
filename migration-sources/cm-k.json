@@ -1,0 +1,109 @@
+{
+  "cm": "CM-K",
+  "focus": "Staff vs. sabers (Maul vs. Obi-Wan, 1)",
+  "source_url": "https://sabercraft.org/cm-k-staff-vs-sabers/",
+  "page_title": "CM K: Staff vs Sabers - SaberCraft",
+  "youtube_id": "tf7R7OeKa8U",
+  "prose": [
+    "CM-K introduces the staff into the SaberCraft framework. In this lesson, two lumens are matched up saber versus staff. Notation below for Lumen 2 - Staff is noted with which hand is used to strike with the staff. L stands for Left. R stands for Right hand. Hand positions are up to the Lumeneer but we recommend Right-hand palm facing down and Left-hand palm facing up."
+  ],
+  "body_text": "CM-K introduces the staff into the SaberCraft framework. In this lesson, two lumens are matched up saber versus staff. Notation below for Lumen 2 - Staff is noted with which hand is used to strike with the staff. L stands for Left. R stands for Right hand. Hand positions are up to the Lumeneer but we recommend Right-hand palm facing down and Left-hand palm facing up.\n\n CM-K\nTelegraph: \nLumen A: 2 fingers pointed at opponent then down\nLumen B: Staff pointed down in front of you at 5 position\nLumina Score: 3\n\n View CM-K PDF \n\n Back to Overview \n\n View All CM PDF \n\n CM-L: OvM part 2",
+  "tables": [
+    {
+      "table_id": "4293",
+      "aria_label": "CM-K / CM 31",
+      "caption": "CM-K\nTelegraph: \nLumen A: 2 fingers pointed at opponent then down\nLumen B: Staff pointed down in front of you at 5 position\nLumina Score: 3",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s_1": "1",
+          "s_2": "5",
+          "s_4": "7X",
+          "s_6": "1P",
+          "s_7": "Duck"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "L1P",
+          "s_2": "R5P",
+          "s_3": "Spin R>L",
+          "s_4": "L7PX",
+          "s_5": "X-O",
+          "s_6": "R1",
+          "s_7": "L10©"
+        },
+        {},
+        {
+          "players": "Lumen A",
+          "s_1": "3P - Back",
+          "s_2": "1",
+          "s_3": "5",
+          "s_5": "7X",
+          "s_7": "1P"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "L3",
+          "s_2": "L1P",
+          "s_3": "R5P",
+          "s_4": "Spin R>L",
+          "s_5": "L7PX",
+          "s_6": "X-O",
+          "s_7": "R1"
+        },
+        {},
+        {
+          "players": "Lumen A",
+          "s_1": "Duck",
+          "s_2": "3P - Back",
+          "s_3": "9PX",
+          "s_4": "11P",
+          "s_6": "5P",
+          "s_7": "12P"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "L10©",
+          "s_2": "L3",
+          "s_3": "R9X",
+          "s_4": "L11B",
+          "s_5": "Spin R>L",
+          "s_6": "L5",
+          "s_7": "R12"
+        },
+        {},
+        {
+          "players": "Lumen A",
+          "s_2": "11P",
+          "s_3": "4P",
+          "s_4": "Duck",
+          "s_5": "3P",
+          "s_6": "8P",
+          "s_7": "4P Spin L > R"
+        },
+        {
+          "players": "Lumen B",
+          "s_1": "R12",
+          "s_2": "L11",
+          "s_3": "R4",
+          "s_4": "J10©",
+          "s_5": "L3 Back",
+          "s_6": "R8",
+          "s_7": "L4"
+        },
+        {},
+        {
+          "players": "Lumen A",
+          "s_1": "7©",
+          "s_2": "9©"
+        },
+        {
+          "players": "Lumen B",
+          "s_2": "3©"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

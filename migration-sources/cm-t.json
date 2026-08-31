@@ -1,0 +1,178 @@
+{
+  "cm": "CM-T",
+  "focus": "CM-T",
+  "source_url": "https://sabercraft.org/cm-t/",
+  "page_title": "CM-T - SaberCraft",
+  "youtube_id": "xciHyHJywsc",
+  "prose": [
+    "This CM is notated by SaberCraft Knights Thom Timko and Mario Cubas."
+  ],
+  "body_text": "CM-T\n\n CM-T.\n\nThis CM is notated by SaberCraft Knights Thom Timko and Mario Cubas.\n\n PlayerS1S2S3S4S5S6S7S8S9S10Order\n\n Lumen 13P9P3P9P3P (behind)S CW9P IgXx 12 X101 \n\n Lumen 26P3939XS CW3XS CCW9Xx 12P X102 \n\n 103 \n\n PlayerS11S12S13S14S15S16S17S18S19S20104 \n\n Lumen 1St-FSt-B (pause)Fl-Overhead4BS CCW18410D S CCW105 \n\n Lumen 2St-FSt-B (pause)Fl-Overhead4BS CCW1P8P4P10P2©106 \n\n 107 \n\n PlayerS21S22108 \n\n Lumen 1Bl-31H (hold at bay)109 \n\n Lumen 212©110 \n\n Back to Overview \n\n View PDF \n\n View CM-W",
+  "tables": [
+    {
+      "table_id": "6347",
+      "aria_label": "CM-T",
+      "caption": "",
+      "kind": "legacy_inline",
+      "data": {
+        "header": [
+          "Player",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6",
+          "S7",
+          "S8",
+          "S9",
+          "S10",
+          "Order"
+        ],
+        "rows": [
+          [
+            "Lumen 1",
+            "",
+            "3P",
+            "9P",
+            "3P",
+            "9P",
+            "",
+            "3P (behind)",
+            "S CW",
+            "9P IgX",
+            "x 12 X",
+            "101"
+          ],
+          [
+            "Lumen 2",
+            "6P",
+            "3",
+            "9",
+            "3",
+            "9X",
+            "S CW",
+            "3X",
+            "S CCW",
+            "9X",
+            "x 12P X",
+            "102"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "103"
+          ],
+          [
+            "Player",
+            "S11",
+            "S12",
+            "S13",
+            "S14",
+            "S15",
+            "S16",
+            "S17",
+            "S18",
+            "S19",
+            "S20",
+            "104"
+          ],
+          [
+            "Lumen 1",
+            "St-F",
+            "St-B (pause)",
+            "Fl-Overhead",
+            "4B",
+            "S CCW",
+            "1",
+            "8",
+            "4",
+            "10",
+            "D S CCW",
+            "105"
+          ],
+          [
+            "Lumen 2",
+            "St-F",
+            "St-B (pause)",
+            "Fl-Overhead",
+            "4B",
+            "S CCW",
+            "1P",
+            "8P",
+            "4P",
+            "10P",
+            "2©",
+            "106"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "107"
+          ],
+          [
+            "Player",
+            "S21",
+            "S22",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "108"
+          ],
+          [
+            "Lumen 1",
+            "Bl-3",
+            "1H (hold at bay)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "109"
+          ],
+          [
+            "Lumen 2",
+            "",
+            "12©",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "110"
+          ]
+        ]
+      }
+    }
+  ],
+  "warnings": []
+}

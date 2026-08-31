@@ -1,0 +1,113 @@
+{
+  "cm": "CM-V",
+  "focus": "Vader vs. Obi-Wan (Kenobi, Ep. 3)",
+  "source_url": "https://sabercraft.org/3m-v-ep-3-obi-wan-vs-vader/",
+  "page_title": "CM-V: Kenobi - Ep 3 - Obi-wan vs Vader - SaberCraft",
+  "youtube_id": "l2EeceRsbPo",
+  "prose": [
+    "The Following Choreography is based on the Kenobi Ep 3"
+  ],
+  "body_text": "The Following Choreography is based on the Kenobi Ep 3\n\n CM-Z: Vader vs Kenobi (Kenobi: Ep 3)\n CM-Z: Vader vs Kenobi (Kenobi: Ep 3)\nLink: https://www.youtube.com/watch?v=l2EeceRsbPo\nTelegraph: N/A\nPoints: 3\n\n View Series 50: SW SC 38 Choreography PDF \n\n Back to Overview \n\n View All CM PDF \n\n View CM Series Catalog",
+  "tables": [
+    {
+      "table_id": "6380",
+      "aria_label": "CM-Z: Vader vs Kenobi (Kenobi: Ep 3)",
+      "caption": "CM-Z: Vader vs Kenobi (Kenobi: Ep 3)\nLink: https://www.youtube.com/watch?v=l2EeceRsbPo\nTelegraph: N/A\nPoints: 3",
+      "kind": "ajax",
+      "data": [
+        {
+          "players": "Lumen A",
+          "s1": "9B",
+          "s2": "0",
+          "s3": "10©",
+          "s4": "3B",
+          "s5": "Pause",
+          "s6": "9",
+          "s7": "Pause",
+          "s8": "5",
+          "s9": "9",
+          "s1_1": "Pause"
+        },
+        {
+          "players": "Lumen B",
+          "s1": "9P + Pushback",
+          "s2": "St-B+L",
+          "s3": "D",
+          "s4": "3P + Pushback",
+          "s6": "9P",
+          "s8": "5P",
+          "s9": "9P + Pushback"
+        },
+        {},
+        {
+          "s1": "S11",
+          "s2": "S12",
+          "s3": "S13",
+          "s4": "S14",
+          "s5": "S15",
+          "s6": "S16",
+          "s7": "S17",
+          "s8": "S18",
+          "s9": "S19",
+          "s1_1": "S20"
+        },
+        {
+          "players": "Lumen A",
+          "s1": "9",
+          "s3": "5",
+          "s4": "9x",
+          "s5": "9B",
+          "s6": "Pause",
+          "s7": "12",
+          "s8": "9",
+          "s1_1": "7Px"
+        },
+        {
+          "players": "Lumen B",
+          "s1": "9P + Pushback",
+          "s2": "S CCW",
+          "s3": "5P",
+          "s4": "9Px",
+          "s5": "9P +  Pushback",
+          "s7": "11P",
+          "s8": "9P + Pushback",
+          "s9": "S CW",
+          "s1_1": "7x"
+        },
+        {},
+        {
+          "s1": "S21",
+          "s2": "S22",
+          "s3": "S23",
+          "s4": "S24",
+          "s5": "S25",
+          "s6": "S26",
+          "s7": "S27",
+          "s8": "S28",
+          "s9": "S29",
+          "s1_1": "S30"
+        },
+        {
+          "players": "Lumen A",
+          "s1": "11x",
+          "s2": "SS>CCW",
+          "s3": "x12",
+          "s4": "Pause",
+          "s5": "12x",
+          "s6": "Guide x12 > x9",
+          "s7": "Force Push"
+        },
+        {
+          "players": "Lumen B",
+          "s1": "11Px",
+          "s2": "SS > CW",
+          "s3": "11P",
+          "s5": "11Px",
+          "s6": "Guide",
+          "s7": "x11P > x9P"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
