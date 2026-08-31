@@ -141,4 +141,4 @@ The two mutual bashes carry the same warning in a different form. Steps 13 and 1
 
 It is also worth naming what CM-M does to the notation. Nothing new was needed to write a sequence that runs backwards. The same target numbers, parries and completes describe an exchange moving toward the attacker instead of away from it, because the notation records what happens between two Saberists rather than which way the fight is drifting. Direction is something a movement has, not something the language has to be taught.
 
-When CM-M is clean, continue to **[CM-N](https://sabercraft.org/cm-n-dual-wielding/)**, or return to the [Extended Library](extended-library.md).
+When CM-M is clean, continue to **[CM-N](cm-n.md)**, which brings a second saber into the exchange, or return to the [Extended Library](extended-library.md).

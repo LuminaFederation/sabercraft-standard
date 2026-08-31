@@ -26,7 +26,7 @@ Entire battles can be notated by any school and shared. From those fights, speci
 | **[K](cm-k.md)** | 31 | Staff vs Saber | Star Wars Ep 1: The Phantom Menace | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
 | **[L](cm-l.md)** | 32 | Staff vs Saber, Part 2 | Star Wars Ep 1: The Phantom Menace (part 2) | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
 | **[M](cm-m.md)** | | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith — deleted scene | Anakin, Dooku | Extended | Rhamses Nazario, Enrique Santana |
-| **[N](https://sabercraft.org/cm-n-dual-wielding/)** | | Dual Wielding vs Single Saber — Beginner | Dual wielding vs single blade | | Extended | Cole Hemp |
+| **[N](cm-n.md)** | | Dual Wielding vs Single Saber — Beginner | Dual wielding vs single blade | | Extended | Cole Hemp |
 | **[O](cm-o.md)** | 101 | Space Samurai: Musashi vs Tanaka | TV: Westworld | Musashi, Tanaka | Extended | Amen Abdou, Alexis Adames |
 | **[P](cm-p.md)** | 91 | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith | Anakin, Dooku | Extended | Kristianna Jones |
 | **[Q](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/)** | | Dual Wielding vs Single Saber — Advanced | Ahsoka vs. Anakin | Ahsoka, Anakin (Vader) | Extended | GC Christopher, Tim Lynch |
