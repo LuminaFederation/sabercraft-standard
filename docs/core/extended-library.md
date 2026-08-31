@@ -20,8 +20,8 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 | ![CM-S](../assets/images/cm/cm-s.webp){ width="140" } | **[CM-S](cm-s.md)** | Lock spins | Full written notation on this site |
 | ![CM-T](../assets/images/cm/cm-t.webp){ width="140" } | **[CM-T](cm-t.md)** | CM-T | Full written notation on this site |
 | ![CM-U](../assets/images/cm/cm-u.webp){ width="140" } | **CM-U** | Kylo vs. Rey | [Video lesson](https://sabercraft.org/choreography-kvr/) |
-| ![CM-V](../assets/images/cm/cm-v.webp){ width="140" } | **CM-V** | Vader vs. Obi-Wan (Kenobi, Ep. 3) | [Video lesson](https://sabercraft.org/3m-v-ep-3-obi-wan-vs-vader/) |
-| ![CM-W](../assets/images/cm/cm-w.webp){ width="140" } | **CM-W** | Wonder Woman vs. Antiope | [Video lesson](https://sabercraft.org/cm-w-amazon-training/) |
+| ![CM-V](../assets/images/cm/cm-v.webp){ width="140" } | **[CM-V](cm-v.md)** | Vader vs. Obi-Wan (Kenobi, Ep. 3) | Full written notation on this site |
+| ![CM-W](../assets/images/cm/cm-w.webp){ width="140" } | **[CM-W](cm-w.md)** | Wonder Woman vs. Antiope | Full written notation on this site |
 
 ## Full-fight choreographies
 

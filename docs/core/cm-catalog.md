@@ -34,8 +34,8 @@ Entire battles can be notated by any school and shared. From those fights, speci
 | **[S](cm-s.md)** | | Lock Spins | Original | | Extended | Spencer Jock |
 | **[T](cm-t.md)** | | Flow Spins in Action + Holds | Original | | Extended | Thom Timko, Mario Cubas |
 | **[U](https://sabercraft.org/choreography-kvr/)** | 21 | Kylo vs Rey | Star Wars Ep 7: The Force Awakens | Kylo, Rey | Extended | Alfred Smith |
-| **[V](https://sabercraft.org/3m-v-ep-3-obi-wan-vs-vader/)** | 106 | Left-handed, one-armed combat | Kenobi: Ep 3 | Vader, Obi-Wan | Extended | Stephen Carter |
-| **[W](https://sabercraft.org/cm-w-amazon-training/)** | 103 | Amazon Training — Wonder Woman vs Antiope | Wonder Woman | Wonder Woman, Antiope | Extended | Desso Faulkner |
+| **[V](cm-v.md)** | 106 | Left-handed, one-armed combat | Kenobi: Ep 3 | Vader, Obi-Wan | Extended | Stephen Carter |
+| **[W](cm-w.md)** | 103 | Amazon Training — Wonder Woman vs Antiope | Wonder Woman | Wonder Woman, Antiope | Extended | Desso Faulkner |
 | **[X](https://sabercraft.org/series-80-ep-iv-ovv-cms-81-84/)** | 52 | TBD - coming July 2022 | Star Wars Ep 4: A New Hope — SC 38 Reimagined | Obi-Wan, Vader | Extended | Alfred Smith |
 
 **Alt** is the movement's series number, which is how it is referenced in the cover-fight table below.
