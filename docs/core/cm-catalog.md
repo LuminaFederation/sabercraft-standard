@@ -19,9 +19,9 @@ Entire battles can be notated by any school and shared. From those fights, speci
 | **[D](cm-d.md)** | | Switching between Attacker & Defender | Original | | Core | Alfred Smith |
 | **[E](cm-e.md)** | | Special Moves & Counters | Original | | Core | Alfred Smith |
 | **[F](cm-f.md)** | | Contactless CM: Blending and Disarms | TV: Into the Badlands | | Extended | Santiago Martinez |
-| **[G](https://sabercraft.org/cm-g-movie-choreography-locks-2/)** | 13 | Locking | Star Wars Ep 6: Return of the Jedi | Luke, Vader | Extended | Alfred Smith |
-| **[H](https://sabercraft.org/cm-h-continuous-flow/)** | | Flow — moving continually | Original | | Extended | Alfred Smith |
-| **[I](https://sabercraft.org/cm-i-advanced-novastar/)** | | Completes | Original | | Extended | Matthew Carauddo |
+| **[G](cm-g.md)** | 13 | Locking | Star Wars Ep 6: Return of the Jedi | Luke, Vader | Extended | Alfred Smith |
+| **[H](cm-h.md)** | | Flow — moving continually | Original | | Extended | Alfred Smith |
+| **[I](cm-i.md)** | | Completes | Original | | Extended | Matthew Carauddo |
 | **[J](https://sabercraft.org/cm-j-inverted-grip/)** | | Inverted Grip | Original | | Extended | Alfred Smith |
 | **[K](https://sabercraft.org/cm-k-staff-vs-sabers/)** | 31 | Staff vs Saber | Star Wars Ep 1: The Phantom Menace | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |
 | **[L](https://sabercraft.org/cm-l-staff-vs-sabers/)** | 32 | Staff vs Saber, Part 2 | Star Wars Ep 1: The Phantom Menace (part 2) | Obi-Wan, Maul | Extended | Armando Valdivia, Alfred Smith |

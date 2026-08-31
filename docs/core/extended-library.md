@@ -5,9 +5,9 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 | Preview | Movement | Focus | Reference |
 |---|---|---|---|
 | ![CM-F](../assets/images/cm/cm-f.webp){ width="140" } | **[CM-F](cm-f.md)** | Contactless CM | Full written notation on this site |
-| ![CM-G](../assets/images/cm/cm-g.webp){ width="140" } | **CM-G** | Saber locking | [Video lesson](https://sabercraft.org/cm-g-movie-choreography-locks-2/) |
-| ![CM-H](../assets/images/cm/cm-h.webp){ width="140" } | **CM-H** | Flow — moving continually | [Video lesson](https://sabercraft.org/cm-h-continuous-flow/) |
-| ![CM-I](../assets/images/cm/cm-i.webp){ width="140" } | **CM-I** | Advanced completes (Novastar) | [Video lesson](https://sabercraft.org/cm-i-advanced-novastar/) |
+| ![CM-G](../assets/images/cm/cm-g.webp){ width="140" } | **[CM-G](cm-g.md)** | Saber locking | Full written notation on this site |
+| ![CM-H](../assets/images/cm/cm-h.webp){ width="140" } | **[CM-H](cm-h.md)** | Flow — moving continually | Full written notation on this site |
+| ![CM-I](../assets/images/cm/cm-i.webp){ width="140" } | **[CM-I](cm-i.md)** | Advanced completes (Novastar) | Full written notation on this site |
 | ![CM-J](../assets/images/cm/cm-j.webp){ width="140" } | **CM-J** | Inverted grip | [Video lesson](https://sabercraft.org/cm-j-inverted-grip/) |
 | ![CM-K](../assets/images/cm/cm-k.webp){ width="140" } | **CM-K** | Staff vs. sabers (Maul vs. Obi-Wan, 1) | [Video lesson](https://sabercraft.org/cm-k-staff-vs-sabers/) |
 | ![CM-L](../assets/images/cm/cm-l.webp){ width="140" } | **CM-L** | Maul vs. Obi-Wan (2) | [Video lesson](https://sabercraft.org/cm-l-staff-vs-sabers/) |

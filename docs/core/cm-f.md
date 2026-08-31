@@ -91,4 +91,4 @@ Two hazards belong to this movement specifically. The unarmed Saberist has nothi
 
 CM-F is also the first movement where a Saberist performs a full sequence with no weapon in hand. That is worth naming to students: the notation is a language for choreographed movement, not for swordplay alone, and a row without a single target number in it is still notation.
 
-When CM-F is clean, continue to **[CM-G](https://sabercraft.org/cm-g-movie-choreography-locks-2/)**, which takes the exchange into saber locking, or return to the [Extended Library](extended-library.md).
+When CM-F is clean, continue to **[CM-G](cm-g.md)**, which takes the exchange into saber locking, or return to the [Extended Library](extended-library.md).
