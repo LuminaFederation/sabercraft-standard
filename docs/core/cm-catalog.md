@@ -18,7 +18,7 @@ Entire battles can be notated by any school and shared. From those fights, speci
 | **[C](cm-c-part-1.md)** | | Completes & Complete Across | Original | | Core | Alfred Smith |
 | **[D](cm-d.md)** | | Switching between Attacker & Defender | Original | | Core | Alfred Smith |
 | **[E](cm-e.md)** | | Special Moves & Counters | Original | | Core | Alfred Smith |
-| **[F](https://sabercraft.org/cm-f-contactless-cm/)** | | Contactless CM: Blending and Disarms | TV: Into the Badlands | | Extended | Santiago Martinez |
+| **[F](cm-f.md)** | | Contactless CM: Blending and Disarms | TV: Into the Badlands | | Extended | Santiago Martinez |
 | **[G](https://sabercraft.org/cm-g-movie-choreography-locks-2/)** | 13 | Locking | Star Wars Ep 6: Return of the Jedi | Luke, Vader | Extended | Alfred Smith |
 | **[H](https://sabercraft.org/cm-h-continuous-flow/)** | | Flow — moving continually | Original | | Extended | Alfred Smith |
 | **[I](https://sabercraft.org/cm-i-advanced-novastar/)** | | Completes | Original | | Extended | Matthew Carauddo |

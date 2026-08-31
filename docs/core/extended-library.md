@@ -4,7 +4,7 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 
 | Preview | Movement | Focus | Reference |
 |---|---|---|---|
-| ![CM-F](../assets/images/cm/cm-f.webp){ width="140" } | **CM-F** | Contactless CM | [Video lesson](https://sabercraft.org/cm-f-contactless-cm/) |
+| ![CM-F](../assets/images/cm/cm-f.webp){ width="140" } | **[CM-F](cm-f.md)** | Contactless CM | Full written notation on this site |
 | ![CM-G](../assets/images/cm/cm-g.webp){ width="140" } | **CM-G** | Saber locking | [Video lesson](https://sabercraft.org/cm-g-movie-choreography-locks-2/) |
 | ![CM-H](../assets/images/cm/cm-h.webp){ width="140" } | **CM-H** | Flow — moving continually | [Video lesson](https://sabercraft.org/cm-h-continuous-flow/) |
 | ![CM-I](../assets/images/cm/cm-i.webp){ width="140" } | **CM-I** | Advanced completes (Novastar) | [Video lesson](https://sabercraft.org/cm-i-advanced-novastar/) |
